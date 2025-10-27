@@ -1,0 +1,1116 @@
+### Câu 1
+
+Mạch kiến thức nào tập trung vào việc ứng dụng công nghệ thông tin để giải quyết các vấn đề thực tế?
+a. Công nghệ thông tin và truyền thông (ICT).
+b. Học vấn số hóa phổ thông (DL).
+c. Kĩ thuật máy tính (CE).
+d. Khoa học máy tính (CS).
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 3
+
+Phương án nào sau đây là đặc điểm của chương trình giáo dục phổ thông 2018? (Chọn nhiều đáp án)
+a. Dạy theo 1 bộ SGK
+b. Định hướng chuẩn kiến thức, kỹ năng theo nội dung
+c. Định hướng hình thành, phát triển phẩm chất năng lực cho HS
+d. Có sự đổi mới về PPDH, phương pháp kiểm tra, đánh giá
+e. Nội dung phân biệt thành 2 giai đoạn
+f. SGK dùng để tham khảo
+g. Nội dung giáo dục gần như đồng nhất cho tất cả HS
+**➡️ Đáp án đúng: c, d, e**
+
+---
+
+### Câu 4
+
+Ở cấp THPT, môn Tin học là môn học bắt buộc là đúng hay sai?
+a. Sai
+b. Đúng
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 5
+
+Có bao nhiêu phẩm chất, năng lực chung và năng lực Tin học?
+a. 5 phẩm chất, 3 năng lực chung và 5 năng lực Tin học.
+b. 5 phẩm chất, 5 năng lực chung và 3 năng lực Tin học.
+c. 3 phẩm chất, 5 năng lực và 5 năng lực Tin học.
+d. 3 phẩm chất, 7 năng lực chung và 5 năng lực Tin học.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 6
+
+Mục tiêu chính của chương trình môn Tin học là góp phần hình thành và phát triển điều gì?
+a. 5 phẩm chất chủ yếu, 9 năng lực chung, 6 năng lực đặc thù
+b. 5 phẩm chất chủ yếu, 3 năng lực chung, 7 năng lực đặc thù
+c. 7 phẩm chất chủ yếu, 5 năng lực chung, 7 năng lực đặc thù
+d. 5 phẩm chất chủ yếu, 4 năng lực chung, 8 năng lực đặc thù
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 7
+
+Vai trò nổi bật của môn Tin học trong giáo dục hiện đại là gì?
+a. Giúp học sinh thành thạo các phần mềm thông dụng.
+b. Trang bị cho học sinh tư duy máy tính có hệ thống.
+c. Hỗ trợ học sinh trong việc tìm kiếm, tiếp nhận và sáng tạo tri thức.
+d. Hình thành năng lực ứng xử phù hợp trong môi trường số.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 9
+
+Trong bối cảnh giáo dục hiện đại, vai trò của môn Tin học trong các môn học và hoạt động giáo dục khác là gì?
+a. Môn Tin học chỉ hỗ trợ các hoạt động giáo dục khác.
+b. Môn Tin học là nền tảng kết nối các khoa học công nghệ hiện đại và hỗ trợ các môn học khác.
+c. Môn Tin học và các môn học khác không liên kết.
+d. Các môn khác không ảnh hưởng đến Tin học.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 10
+
+“Giúp học sinh có thể tìm kiếm và sử dụng thông tin hiệu quả trên mạng Internet” là biểu hiện của năng lực nào?
+a. Nlc
+b. Nlb
+c. Nld
+d. Nla
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 11
+
+Giúp học sinh có thể tìm kiếm và sử dụng thông tin hiệu quả trên mạng Internet” là biểu hiện của năng lực nào?
+a. NLb
+b. NLa
+c. NLc
+d. NLd
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 12
+
+Tư duy thuật toán giữ vai trò gì trong phát triển giáo dục môn Tin học?
+a. Là công cụ hỗ trợ máy tính tư duy sáng tạo.
+b. Là cơ sở để xây dựng thuật toán.
+c. Là kỹ năng được dùng trong lập trình.
+d. Là thành phần cốt lõi của tư duy máy tính.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 14
+
+Điểm khác biệt quan trọng của môn Tin học ở THPT so với THCS là gì?
+a. Tiếp cận phần mềm mới.
+b. Tập trung định hướng nghề nghiệp.
+c. Rèn luyện kỹ năng ứng dụng CNTT ở mức cao hơn.
+d. Nâng cao kiến thức cơ bản.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 15
+
+Ở cấp THPT, chương trình môn Tin học giúp học sinh đạt được mục tiêu gì?
+a. Thành thạo mọi ngôn ngữ lập trình.
+b. Trang bị kỹ năng Internet để giải trí.
+c. Phát triển năng lực CNTT và định hướng nghề nghiệp.
+d. Thiết kế phần mềm phức tạp.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 16
+
+Ở cấp Trung học phổ thông, môn Tin học được phân hóa theo mấy định hướng?
+a. 3 định hướng: Khoa học máy tính, Trí tuệ nhân tạo, Công nghệ dữ liệu.
+b. 3 định hướng: CNTT ứng dụng, Khoa học máy tính, An toàn thông tin.
+c. 2 định hướng: Tin học ứng dụng và CNTT – truyền thông.
+d. 2 định hướng: Tin học ứng dụng và Khoa học máy tính.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 17
+
+Nội dung nào dưới đây KHÔNG thuộc định hướng Tin học ứng dụng?
+a. Thành thạo công cụ học tập.
+b. Lập trình điều khiển robot giáo dục nâng cao.
+c. Sử dụng phần mềm thiết yếu để tạo sản phẩm số.
+d. Thực hành ứng dụng công nghệ kỹ thuật số.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 18
+
+Ở cấp Tiểu học, chương trình môn Tin học được ghép cơ học với môn nào?
+a. Tiếng Anh
+b. Toán học
+c. Vật lí
+d. Công nghệ
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 19
+
+Mạch kiến thức nào tập trung vào việc ứng dụng CNTT để giải quyết các vấn đề thực tế?
+a. Học vấn số hóa phổ thông (DL)
+b. Khoa học máy tính (CS)
+c. Công nghệ thông tin và truyền thông (ICT)
+d. Cả CS và DL
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 20
+
+Ở cấp Tiểu học, môn Tin học và Công nghệ có đặc điểm nào?
+a. Môn tích hợp hoàn toàn.
+b. Môn bắt buộc, ghép cơ học hai phân môn độc lập.
+c. Môn tự chọn.
+d. Chỉ có Tin học, không có Công nghệ.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 21
+
+Mục tiêu chính của việc trang bị “Học vấn số hóa phổ thông (DL)” cho học sinh là gì?
+a. Nâng cao khả năng sử dụng thiết bị số có đạo đức, văn hoá và tuân thủ pháp luật.
+b. Khuyến khích áp dụng máy tính để giải quyết vấn đề sáng tạo.
+c. Phát triển khả năng thiết kế hệ thống máy tính.
+d. Hiểu biết sâu về cấu trúc dữ liệu và ngôn ngữ lập trình.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 22
+
+Ở cấp Tiểu học, môn Tin học và Công nghệ trong CTGDPT 2018 có đặc điểm nào?
+a. Rèn kỹ năng sử dụng phần mềm.
+b. Kết hợp hai phân môn độc lập, bắt buộc từ lớp 3.
+c. Tự chọn cho học sinh yêu thích.
+d. Tích hợp lý thuyết và thực hành.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 23
+
+Môn Tin học được xây dựng nhằm phát triển kỹ năng nào cho học sinh?
+a. Tư duy phản biện và phát triển ngôn ngữ.
+b. Kỹ năng dùng phần mềm văn phòng.
+c. Kỹ năng lắp ráp phần cứng.
+d. Tư duy tính toán và giải quyết vấn đề.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 24
+
+Đối với cấp THCS, mục tiêu cụ thể về chương trình giáo dục môn Tin học là gì?
+a. Tiếp tục phát triển năng lực tin học đã hình thành ở Tiểu học.
+b. Bắt đầu hình thành năng lực Tin học.
+c. Củng cố và nâng cao năng lực tin học đã hình thành.
+d. Mở rộng kiến thức, kỹ năng toàn diện.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 26
+
+Đâu KHÔNG phải vai trò của môn Tin học?
+a. Chuẩn bị khả năng tìm kiếm, mở rộng tri thức.
+b. Là công cụ học suốt đời.
+c. Ảnh hưởng đến cách sống và hành động.
+d. Có tính quyết định đến đời sống tinh thần, tính cách.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 27
+
+Điểm khác biệt lớn nhất về mục tiêu của CTGDPT 2018 so với 2006 là gì?
+a. Giảm tải nội dung.
+b. Tập trung vào ghi nhớ lý thuyết.
+c. Truyền đạt đầy đủ kiến thức hàn lâm.
+d. Định hướng phát triển phẩm chất và năng lực HS.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 28
+
+Môn “Tin học” trong CTGDPT 2018 là bắt buộc ở cấp học nào?
+a. Tiểu học và THCS
+b. Chỉ THCS
+c. Chỉ Tiểu học
+d. Cả 3 cấp
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 29
+
+Môn Tin học giúp học sinh hình thành và phát triển mấy năng lực thành phần tin học?
+a. 6 (Nla–Nlf)
+b. 4 (Nla–Nld)
+c. 5 (Nla–Nle)
+d. 3 (Nla–Nlc)
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 30
+
+Ví dụ nào sau đây phù hợp với sản phẩm số mà học sinh tiểu học có thể tạo ra?
+a. Mô hình nhà bằng bìa.
+b. Tranh vẽ trên giấy.
+c. Bài tập Toán trong vở.
+d. Video ngắn trên máy.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 1
+
+Quan điểm "Tính khoa học, hiện đại và sư phạm" yêu cầu điều gì đối với nội dung chương trình?
+a. Cần có sự cân đối giữa lý thuyết và thực tiễn để nâng cao khả năng vận dụng cho người học.
+b. Chú trọng vào tính hệ thống và các nguyên tắc sư phạm mà không cần quan tâm đến tính hiện đại.
+c. Được trình bày rõ ràng, logic và có phương pháp sư phạm phù hợp với từng đối tượng học sinh.
+d. Lựa chọn các nội dung cơ bản, phổ thông, hiện đại và tuân thủ các nguyên tắc sư phạm.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 2
+
+Mục tiêu của việc tích hợp các công nghệ trong chương trình môn Tin học là gì?
+a. Cung cấp thông tin về phần cứng máy tính
+b. Tạo điều kiện cho học sinh áp dụng công nghệ vào giải quyết vấn đề thực tiễn
+c. Đảm bảo học sinh có kiến thức nền tảng về lịch sử máy tính
+d. Đào tạo chuyên gia phần mềm
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 5
+
+Đâu KHÔNG phải vai trò của môn Tin học ?
+a. Chuẩn bị cho học sinh khả năng tìm kiếm, tiếp nhận, mở rộng tri thức và sáng tạo
+b. Có ảnh hưởng lớn đến cách sống, cách suy nghĩ và hành động của con người
+c. Là công cụ không thể thiếu để mỗi người có thể học mọi nơi, mọi lúc và tự học suốt đời
+d. Có tính quyết định đến đời sống tinh thần, tính cách của con người
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 8
+
+Vì sao chương trình môn Tin học cần được cập nhật thường xuyên?
+a. Nhằm đáp ứng các tiêu chí về thời gian đào tạo theo quy định, đảm bảo hoàn thành chương trình học một cách đầy đủ.
+b. Vì sự phát triển vượt bậc của công nghệ thông tin và truyền thông, cần đảm bảo tính thời sự và hiện đại của kiến thức.
+c. Để khơi gợi sự hứng thú của học sinh, tránh tình trạng nhàm chán, mất hứng thú với các nội dung cũ.
+d. Do có sự thay đổi liên tục trong chương trình giảng dạy của các môn học khác, buộc phải có sự đồng bộ.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 9
+
+Môn Tin học được xây dựng nhằm phát triển kỹ năng nào sau đây cho học sinh?
+a. Tư duy phản biện và phát triển ngôn ngữ.
+b. Kỹ năng lắp ráp phần cứng máy tính.
+c. Kỹ năng sử dụng phần mềm văn phòng.
+d. Tư duy tính toán và giải quyết vấn đề.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 12 *(Chọn nhiều đáp án)*
+
+Phương án nào sau đây là mục tiêu của chương trình giáo dục Tin học "Cấp tiểu học"?
+A. Bước đầu nhận biết được một số ngành nghề chính thuộc lĩnh vực Tin học.
+B. Biết bảo vệ sức khỏe khi sử dụng máy tính và Internet.
+C. Tiếp tục phát triển năng lực tin học đã hình thành và hoàn thiện năng lực đó ở mức cơ bản.
+D. Tạo ra được những sản phẩm số đơn giản.
+**➡️ Đáp án đúng: A, B, D**
+
+---
+
+### Câu 13
+
+“Giúp học sinh có thể tìm kiếm và sử dụng thông tin hiệu quả trên mạng Internet” là biểu hiện của năng lực nào sau đây?
+a. NLd
+b. NLb
+c. NLa
+d. NLc
+**➡️ Đáp án đúng: d (NLc)**
+
+---
+
+### Câu 14
+
+Chương trình GDPT 2018 khác với chương trình GDPT 2006 ở điểm cơ bản nào?
+a. Chủ yếu định hướng kiến thức, kỹ năng dựa theo nội dung chương trình.
+b. Chỉ có một bộ SGK, đồng nhất nội dung, áp dụng cho cả nước.
+c. Không có sự phân biệt giữa các giai đoạn trong giáo dục phổ thông.
+d. Có nhiều bộ SGK, định hướng hình thành phẩm chất, năng lực HS.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 15
+
+Môn Tin học được xây dựng nhằm phát triển kỹ năng nào sau đây cho học sinh?
+a. Kỹ năng lắp ráp phần cứng máy tính
+b. Tư duy tính toán và giải quyết vấn đề
+c. Kỹ năng sử dụng phần mềm văn phòng
+d. Tư duy phản biện và phát triển ngôn ngữ
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 17
+
+Chọn từ thích hợp để điền vào dấu …: Môn Tin học … các môn học, hoạt động giáo dục khác.
+a. Kế thừa
+b. Góp phần phát triển
+c. Hỗ trợ
+d. Kết nối
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 18
+
+Trong giờ Tin học, lớp 10A được giao nhiệm vụ "Sử dụng công cụ thiết kế đồ họa để tạo poster tuyên truyền về an toàn giao thông". Hoạt động này chủ yếu hướng đến mục tiêu nào sau đây của Chương trình môn Tin học cấp THPT?
+a. Tuân thủ pháp luật, có đạo đức, ứng xử văn hoá và có trách nhiệm trong môi trường số.
+b. Phát triển tư duy thiết kế bố cục và trình bày thông tin trực quan.
+c. Ứng dụng tin học để tạo sản phẩm số phục vụ học tập.
+d. Phát triển năng lực sử dụng Internet để tìm kiếm và chọn lọc thông tin
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 20 *(Chọn nhiều đáp án)*
+
+Phương án nào sau đây là quan điểm xây dựng chương trình Tin học?
+a. Tính thiết thực.
+b. Tính kế thừa và phát triển
+c. Tính khoa học, hiện đại và sư phạm
+d. Tính mở
+e. Tính linh hoạt
+**➡️ Đáp án đúng: a, b, c, d**
+
+---
+
+### Câu 21
+
+Phương án nào sau đây KHÔNG phải là quan điểm xây dựng chương trình môn Tin học?
+a. Tính mô phạm.
+b. Tính thừa kế và phát triển.
+c. Tính khoa học và hiện đại.
+d. Tính thiết thực.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 22
+
+Việc chương trình môn Tin học khai thác chương trình giáo dục các nước tiên tiến nhằm mục đích gì?
+a. Nâng cao chất lượng giáo dục và cập nhật xu hướng công nghệ mới.
+b. Tạo cơ hội học sinh tiếp cận kiến thức và kỹ năng mang tính toàn cầu.
+c. Hỗ trợ xây dựng chương trình phù hợp với bối cảnh giáo dục Việt Nam.
+d. Giảm chi phí đào tạo và biên soạn giáo trình.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 23
+
+Năng lực Tin học được chia thành mấy năng lực thành phần?
+a. 3
+b. 5
+c. 6
+d. 1
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 24
+
+Quan điểm xây dựng chương trình môn Tin học là gì?
+a. Chỉ tập trung vào việc dạy lập trình và thuật toán.
+b. Phát triển năng lực tin học cho học sinh để học tập, làm việc và nâng cao chất lượng cuộc sống.
+c. Giảm tải nội dung học để học sinh có nhiều thời gian thực hành.
+d. Chỉ chú trọng vào các phần mềm ứng dụng phổ biến như Word, Excel.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 25
+
+Để chương trình môn Tin học có tính thiết thực, việc định hướng nghề nghiệp nên được thực hiện như thế nào?
+a. Chỉ giới thiệu các nghề nghiệp tiềm năng mà không cần liên kết với nội dung học tập.
+b. Thay đổi chương trình theo từng xu hướng nghề nghiệp mới nhất.
+c. Đưa ra các nội dung liên quan đến ngành nghề cụ thể mà học sinh có thể theo đuổi.
+d. Tập trung vào việc giảng dạy các kỹ năng cơ bản mà không liên quan đến nghề nghiệp cụ thể.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 26
+
+Vì sao cần dựa vào các căn cứ lý luận, khoa học để xác định mục tiêu chương trình môn Tin học?
+a. Để chương trình bám sát đường lối, chủ trương của Bộ Giáo dục và Đào tạo.
+b. Để đảm bảo tính hệ thống và liên thông giữa những nội dung các bậc học.
+c. Để chương trình có cơ sở khoa học, phù hợp với xu hướng giáo dục quốc tế.
+d. Để điều chỉnh nội dung dạy học phù hợp với điều kiện thực tiễn và năng lực.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 27 *(Chọn nhiều đáp án)*
+
+Ở giai đoạn giáo dục cơ bản, môn Tin học giúp học sinh đạt được mục tiêu gì sau đây?
+a. Củng cố và nâng cao năng lực Tin học đã được hình thành, phát triển và định hướng nghề nghiệp
+b. Giúp học sinh hiểu và tuân thủ các nguyên tắc cơ bản trong trao đổi thông tin, chia sẻ thông tin
+c. Bước đầu hình thành và phát triển tư duy giải quyết vấn đề với sự hỗ trợ của máy tính và các hệ thống thông tin
+d. Hình thành và phát triển kỹ năng sử dụng công cụ kỹ thuật số, làm quen và sử dụng Internet
+**➡️ Đáp án đúng: b, c, d**
+
+---
+
+### Câu 28
+
+Tin học chỉ là môn học công cụ để trợ giúp con người. Phát biểu trên là đúng hay sai?
+a. Đúng
+b. Sai
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 29
+
+Ở cấp Tiểu học, chương trình môn Tin học được ghép cơ học với môn nào sau đây?
+a. Công nghệ
+b. Vật lí
+c. Tiếng Anh
+d. Toán học
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 1
+
+“Mục tiêu chúng của chương trình môn Tin học là góp phần hình thành, phát triển những (1)…… chủ yếu và (2)………… chung đã được xác định trong chương trình tổng thể; môn Tin học là môn đóng vai trò chủ lực trong việc hình thành và phát triển (3) ………. Tin học của học sinh.”
+a. (1) - Phẩm chất; (2) - Năng lực; (3) - Kỹ năng
+b. (1) - Năng lực; (2) - Năng lực; (3) - Phẩm chất
+c. (1) - Năng lực; (2) - Phẩm chất; (3) - Năng lực
+d. (1) - Phẩm chất; (2) - Năng lực; (3) - Năng lực
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 2
+
+Nội dung nào thể hiện rõ nhất vai trò “chủ đạo” của môn Tin học trong Chương trình GDPT 2018?
+a. Hỗ trợ học sinh hình thành năng lực số và phát triển học tập suốt đời.
+b. Giúp học sinh quản lý và xử lý hiệu quả các nguồn dữ liệu số trong nhiều lĩnh vực.
+c. Trang bị kiến thức lập trình, cấu trúc dữ liệu và thuật toán.
+d. Rèn luyện kỹ năng khai thác phần mềm thông dụng trong học tập và đời sống.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 5
+
+Một giáo viên lớp 10 muốn áp dụng mạch kiến thức Khoa học máy tính để định hướng nghề nghiệp theo chương trình GDPT 2018. Hoạt động nào sau đây được cho là hiệu quả?
+a. Hướng dẫn thiết kế thuật toán quản lý lịch học bằng Python.
+b. Hướng dẫn học sinh tìm hiểu mạch kiến thức khoa học máy tính.
+c. Cung cấp tài liệu về hoạt động định hướng nghề nghiệp.
+d. Yêu cầu học sinh nắm bắt được các cấu trúc dữ liệu hữu ích.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 7 *(Chọn 4)*
+
+Phương án nào sau đây là đặc điểm của chương trình giáo dục phổ thông 2018?
+A. Dạy theo 1 bộ sách giáo khoa.
+B. Có sự đổi mới về PPDH, phương pháp kiểm tra, đánh giá.
+C. Định hướng hình thành, phát triển phẩm chất năng lực cho HS.
+D. Định hướng chuẩn kiến thức, kỹ năng theo nội dung.
+E. Nội dung phân biệt thành 2 giai đoạn.
+F. SGK được dùng để tham khảo.
+G. Nội dung giáo dục gần như đồng nhất cho tất cả HS.
+**➡️ Đáp án đúng: B, C, E, F**
+
+---
+
+### Câu 8
+
+Mục tiêu nào dưới đây KHÔNG phải là một trong những mục tiêu cụ thể của chương trình Tin học ở cấp tiểu học?
+a. Hình thành nhu cầu thu thập, sử dụng thông tin và ý tưởng điều khiển máy tính.
+b. Sử dụng máy tính để vui chơi, học tập, xem và tìm kiếm thông tin.
+c. Tạo ra sản phẩm số đơn giản và chia sẻ phục vụ học tập, cuộc sống.
+d. Biết bảo vệ sức khoẻ khi sử dụng máy tính và Internet.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 9
+
+Môn Tin học ở cấp THPT theo GDPT 2018 có vị trí như thế nào?
+a. Là môn lựa chọn, bình đẳng với các môn như Vật lý, Hóa học.
+b. Là môn học bắt buộc xuyên suốt từ lớp 10 đến lớp 12.
+c. Là môn ghép cơ học với phân môn Công nghệ.
+d. Là môn tự chọn nhưng không liên quan đến định hướng nghề nghiệp.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 11
+
+Điểm khác biệt quan trọng của môn Tin học ở cấp trung học phổ thông (THPT) so với cấp trung học cơ sở (THCS) là gì?
+a. Nâng cao kiến thức cơ bản và mở rộng sang một số chủ đề nâng cao trong lĩnh vực tin học.
+b. Rèn luyện các kĩ năng ứng dụng CNTT trong học tập và đời sống hằng ngày ở mức độ cao hơn.
+c. Tiếp cận các phần mềm và công cụ mới, phục vụ cho nhu cầu học tập và trải nghiệm thực tiễn.
+d. Tập trung định hướng nghề nghiệp, tìm hiểu một số ngành nghề trong lĩnh vực tin học.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 12
+
+Một trong những tính chất nổi bật của môn Tin học trong chương tình GDPT 2018 là gì?
+a. Đào tạo HS trở thành chuyên gia về CNTT hoặc giúp định hướng nghề nghiệp.
+b. Giúp HS phát triển kỹ năng làm việc nhóm thông qua các dự án công nghệ được giao.
+c. Phát triển khả năng sáng tạo trong việc ứng dụng công nghệ để giải quyết vấn đề.
+d. Cung cấp kiến thức về lập trình cơ bản và nâng cao để giải quyết các bài toán đưa ra.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 13
+
+Theo Chương trình môn Tin học, ở giai đoạn giáo dục cơ bản, mục tiêu chủ yếu của học sinh cấp Trung học cơ sở là gì?
+a. Bước đầu hình thành tư duy giải quyết vấn đề với sự hỗ trợ của máy tính.
+b. Tìm hiểu nguyên lí hoạt động của hệ thống máy tính và phát triển tư duy máy tính.
+c. Lập trình điều khiển robot giáo dục và thiết kế thuật toán.
+d. Học cách sử dụng, khai thác các phần mềm thông dụng để làm ra sản phẩm số.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 14
+
+Trong ba mạch kiến thức của chương trình môn Tin học, mạch kiến thức DL được hiểu là gì?
+a. Digital Literacy – Học vấn số hoá.
+b. Deep Learning – Học máy sâu.
+c. Data Logic – Logic dữ liệu.
+d. Digital Library – Thư viện số.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 16
+
+Đối với cấp THCS, mục tiêu cụ thể về chương trình giáo dục môn Tin học mà học sinh cần đáp ứng được là gì?
+a. Mở rộng kiến thức, kỹ năng phát triển toàn diện phẩm chất năng lực
+b. Bắt đầu hình thành năng lực Tin học
+c. Tiếp tục phát triển năng lực tin học đã hình thành ở cấp Tiểu học
+d. Củng cố và nâng cao năng lực tin học đã dược hình thành
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 17
+
+Năng lực Tin học được chia làm bao nhiêu năng lực thành phần?
+a. 8
+b. 5
+c. 6
+d. 7
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 18
+
+Định hướng CT GDPT 2018 hướng tới điều gì?
+a. Hình thành, phát triển phẩm chất, năng lực HS
+b. Cải thiện điểm số của học sinh trong quá trình học tập
+c. Truyền thụ kiến thức những gì học sinh đã học được từ trong sách giáo khoa
+d. Phân hóa nhằm so sánh kết quả học tập giữa các HS với nhau
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 19 *(Chọn nhiều đáp án)*
+
+Chương trình môn Tin học được xây dựng dựa trên những quan điểm nào sau đây?
+A. Tính thiết thực.
+B. Tính toàn diện.
+C. Tính khoa học, hiện đại và sư phạm.
+D. Tính bền vững.
+E. Tính kế thừa và phát triển.
+F. Tính mở.
+**➡️ Đáp án đúng: A, C, E, F**
+
+---
+
+### Câu 21
+
+Chương trình môn Tin học 2018 của Việt Nam có bao nhiêu mạch kiến thức?
+a. 6
+b. 3
+c. 2
+d. 5
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 24
+
+Một trong những mục tiêu cụ thể của môn Tin học cấp THPT là:
+a. Có hiểu biết cơ bản về pháp luật, đạo đức và văn hoá trong môi trường số Bước đầu nhận biết được một số ngành nghề chính thuộc lĩnh vực Tin học
+b. Phát triển tư duy và khả năng giải quyết vấn đề"
+c. Tạo ra và chia sẻ sản phẩm số đơn giản phục vụ học tập, cuộc sống
+d. Ứng dụng tin học, tạo ra sản phẩm số phục vụ cộng đồng và nâng cao hiệu quả công việc.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 25 *(Chọn 2)*
+
+Mục tiêu về năng lực tin học cụ thể đối với cấp tiểu học là gì?
+a. Phát triển và định hướng nghề nghiệp.
+b. Bắt đầu hình thành năng lực Tin học.
+c. Làm quen với công nghệ kĩ thuật số.
+d. Phát triển năng lực tin học.
+e. Nâng cao năng lực tin học.
+**➡️ Đáp án đúng: b, c**
+
+---
+
+### Câu 26
+
+Hãy chỉ ra phương án phản ánh đúng nhất cách Tin học đóng góp vào giáo dục STEAM và việc tạo sản phẩm liên môn?
+a. Tập trung nhiều vào đào tạo kĩ năng sử dụng công cụ văn phòng để học sinh thuận lợi trong học tập và làm việc sau này.
+b. Hình thành tư duy thuật toán và kỹ năng xử lý dữ liệu, kết hợp yếu tố nghệ thuật và công nghệ để tạo sản phẩm ICT có giá trị thực tiễn.
+c. Cung cấp công cụ đa phương tiện (thí nghiệm ảo, multimedia, bài giảng điện tử) để các môn khác minh họa và trình bày sản phẩm.
+d. Khuyến khích khai thác CNTT trong tất cả các môn để tạo ra sự hứng thú cho học sinh học tập từ đó nâng cao hoạt động dạy và học.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 28
+
+Ở cấp Trung học phổ thông (THPT), mục tiêu cụ thể của môn Tin học là?
+a. Củng cố, nâng cao năng lực tin học và định hướng nghề nghiệp.
+b. Hoàn thiện năng lực tin học ở mức cơ bản.
+c. Rèn luyện kĩ năng soạn thảo văn bản và bảng tính.
+d. Làm quen bước đầu với công nghệ kĩ thuật số.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 29
+
+Năng lực Tin học nào sau đây được kí hiệu là Nla?
+a. Ứng xử phù hợp trong môi trường số
+b. Sử dụng và quản lí các phương tiện CNTT và truyền thông
+c. Hợp tác trong môi trường số
+d. Ứng dụng CNTT và truyền thông trong học và tự học
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 2
+
+Ở cấp THCS, chương trình GDPT 2018 môn Tin học giúp học sinh phát triển năng lực tin học ở mức nào?
+a. Lựa chọn, ghi nhớ và lưu trữ thông tin; hiểu và sử dụng khái niệm thuật toán một cách trực quan.
+b. Xử lý, trình bày và lưu trữ thông tin; hiểu và áp dụng khái niệm thuật toán một cách trực quan.
+c. Lựa chọn, xử lý và trình bày thông tin; hiểu và sử dụng khái niệm thuật toán và lập trình trực quan.
+d. Phân tích, xử lý và ghi nhớ thông tin; hiểu và sử dụng khái niệm thuật toán và lập trình trực quan.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 6
+
+Mục tiêu chính của chương trình môn Tin học là góp phần hình thành và phát triển điều gì? (Chọn phương án đúng nhất)
+a. 7 phẩm chất chủ yếu, 5 năng lực chung, 7 năng lực đặc thù
+b. 5 phẩm chất chủ yếu, 9 năng lực chung, 6 năng lực đặc thù
+c. 5 phẩm chất chủ yếu, 3 năng lực chung, 7 năng lực đặc thù
+d. 5 phẩm chất chủ yếu, 4 năng lực chung, 8 năng lực đặc thù
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 7
+
+Đặc điểm chính của môn Tin học trong chương trình giáo dục phổ thông 2018 là gì?
+a. Tập trung vào lý thuyết mà không cần thực hành
+b. Tập trung vào phần cứng máy tính, giúp học sinh phát triển kỹ năng tìm tòi, khám phá
+c. Kết hợp lý thuyết và thực hành, giúp học sinh phát triển kỹ năng thực tiễn
+d. Tập trung vào lập trình, giúp học sinh phát triển tư duy thuật toán và điều khiển.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 8
+
+Quan điểm “tính thiết thực” trong xây dựng chương trình môn Tin học được thể hiện chủ yếu qua nội dung nào dưới đây?
+a. Phục vụ định hướng nghề nghiệp và gắn với giáo dục STEM/STEAM.
+b. Mở về phương pháp, hình thức học tập và cập nhật thường xuyên.
+c. Lựa chọn các nội dung cơ bản và hiện đại của DL, ICT, CS.
+d. Kế thừa những ưu điểm của chương trình cũ và tránh trùng lặp kiến thức.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 9
+
+Một trong những quan điểm quan trọng khi xây dựng chương trình GDPT 2018 môn Tin học là gì?
+a. Tính khoa học và toàn diện.
+b. Tính đồng nhất với các môn tự nhiên khác.
+c. Tính ứng dụng trong thực tế.
+d. Tính kế thừa và phát triển.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 10
+
+Ở cấp THPT, môn Tin học có vị trí như thế nào trong chương trình GDPT 2018?
+a. Môn bắt buộc như Toán và Ngữ văn
+b. Chỉ học khi theo định hướng khoa học tự nhiên
+c. Môn học lựa chọn, bình đẳng với Vật lí, Hóa học,…
+d. Môn tự chọn, không bắt buộc
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 11
+
+Theo quan điểm xây dựng chương trình môn Tin học, “tính mở” thể hiện ở điểm nào?
+a. Hình thức giáo dục đa dạng, linh hoạt.
+b. Khai thác chương trình môn Tin học phổ thông của các nước tiên tiến.
+c. Chọn lọc nội dung cơ bản, phổ thông và hiện đại.
+d. Thực hiện giáo dục STEM.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 12
+
+Một nhóm học sinh dùng công nghệ thông tin để thiết kế video tuyên truyền về “Uống nước nhớ nguồn, tri ân anh hùng liệt sĩ”. Phẩm chất nào được thể hiện rõ nhất?
+a. Chăm chỉ.
+b. Yêu nước.
+c. Nhân ái.
+d. Trung thực.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 13
+
+Mục tiêu chính của việc trang bị “Học vấn số hóa phổ thông (DL) cho học sinh là gì?
+a. Nâng cao khả năng sử dụng thiết bị số có đạo đức, văn hoá và tuân thủ pháp luật.
+b. Khuyến khích áp dụng hệ thống máy tính để giải quyết vấn đề một cách sáng tạo.
+c. Phát triển khả năng thiết kế và phát triển các hệ thống máy tính phức tạp.
+d. Cung cấp hiểu biết sâu sắc về cấu trúc dữ liệu và ngôn ngữ lập trình bậc cao.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 14
+
+Ở cấp Trung học phổ thông, môn Tin học được phân hóa theo những định hướng nào?
+a. Công nghệ đa phương tiện và Internet.
+b. Công nghệ thông tin và công nghệ phần cứng.
+c. Tin học ứng dụng và khoa học máy tính.
+d. Lập trình căn bản và nâng cao.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 15
+
+Đâu KHÔNG phải là quan điểm xây dựng chương trình môn tin học?
+a. Tính khoa học, hiện đại và sư phạm
+b. Tính thiết thực
+c. Tính kế thừa và phát triển
+d. Tính truyền thống
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 16
+
+Điểm khác biệt lớn nhất về mục tiêu của Chương trình GDPT 2018 so với Chương trình GDPT 2006 là gì?
+a. Định hướng phát triển phẩm chất và năng lực cho học sinh.
+b. Chú trọng đến việc truyền đạt đầy đủ và chính xác kiến thức hàn lâm.
+c. Giảm tải nội dung học tập giúp người học tiếp thu kiến thức một cách nhẹ nhàng.
+d. Tập trung vào quá trình ghi nhớ và nắm vững kiến thức lý thuyết.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 17
+
+Ở cấp Tiểu học, môn Tin học và Công nghệ trong CTGDPT 2018 có đặc điểm nào sau đây?
+a. Tích hợp toàn diện giữa nội dung lý thuyết và thực hành.
+b. Tập trung rèn kỹ năng sử dụng phần mềm.
+c. Tự chọn cho HS yêu thích kỹ thuật và công nghệ.
+d. Kết hợp hai phân môn độc lập, bắt buộc từ lớp 3.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 18
+
+Yếu tố nào sau đây có vai trò quan trọng trong việc thiết kế chương trình môn Tin học hiện đại?
+a. Đảm bảo có đầy đủ các bài thực hành
+b. Đảm bảo có đầy đủ các bài kiểm tra lý thuyết
+c. Tập trung vào phần cứng và phần mềm máy tính
+d. Đảm bảo nội dung luôn cập nhật và liên quan đến thực tiễn
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 20
+
+Học Tin học là học cách sử dụng máy tính hoặc phần mềm máy tính là đúng hay sai?
+a. Sai
+b. Đúng
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 21
+
+Vị trí môn tin học trong chương trình Giáo dục phổ thông mới là gì?
+a. Là môn học bắt buộc
+b. Là môn học bắt buộc ở cấp Tiểu học và THCS
+c. Là môn học bắt buộc ở cấp Tiểu học và THCS và là môn tự chọn ở cấp THPT.
+d. Là môn học bắt buộc ở cấp Tiểu học và THCS và là môn lựa chọn ở cấp THPT.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 23
+
+Ở cấp Tiểu học, môn Tin học và Công nghệ có đặc điểm nào sau đây?
+a. Là môn tích hợp hoàn toàn, kiến thức hai phân môn hòa lẫn với nhau.
+b. Chỉ có phân môn Tin học, không có phân môn Công nghệ.
+c. Là môn học bắt buộc, được ghép cơ học từ hai phân môn độc lập.
+d. Là môn tự chọn, học sinh có thể học hoặc không.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 25  *(Chọn các phương án đúng)*
+
+Phát biểu nào sau đây là đúng về vai trò của môn Tin học trong chương trình Giáo dục phổ thông mới:
+a. Có ảnh hưởng lớn đến cách sống, cách suy nghĩ và hành động của con người, là công cụ hiệu quả hỗ trợ tự học, tự học suốt đời
+b. Là môn học công cụ cho các môn học khác
+c. Giúp học sinh thích ứng và hoà nhập với xã hội hiện đại, hình thành và phát triển năng lực Tin học để học tập, làm việc và nâng cao chất lượng cuộc sống, đóng góp vào xây dựng và bảo vệ Tổ quốc
+d. Chuẩn bị cho học sinh khả năng tìm kiếm, tiếp nhận, mở rộng tri thức và sáng tạo trong thời đại CMCN 4.0 và toàn cầu hoá
+**➡️ Đáp án đúng: a, b, c, d**
+
+---
+
+### Câu 26
+
+Chọn đáp án có các cụm từ thích hợp để hoàn thiện câu sau:
+“Mục tiêu chung của chương trình môn Tin học là góp phần hình thành, phát triển những (1)…….. chủ yếu và (2)…….. chung đã được xác định trong chương trình tổng thể; môn Tin học là môn đóng vai trò chủ lực trong việc hình thành và phát triển (3)………. Tin học của học sinh.”
+a. (1) - Năng lực; (2) - Phẩm chất; (3) - Năng lực.
+b. (1) - Phẩm chất; (2) - Năng lực; (3) - Năng lực
+c. (1) - Năng lực; (2) - Năng lực; (3) - Phẩm chất
+d. (1) - Phẩm chất; (2) - Năng lực; (3) - Kỹ năng
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 27
+
+Theo quan điểm tính kế thừa và phát triển, chương trình Tin học được xây dựng dựa theo những yếu tố nào?
+a. Nội dung chương trình mở, cùng với các hình thức giáo dục linh hoạt đa dạng theo nhu cầu thực tiễn.
+b. Hướng tới mục tiêu phục vụ định hướng nghề nghiệp, đồng thời tích hợp giáo dục liên môn STEM toàn diện.
+c. Kế thừa chương trình môn Tin học hiện hành và khai thác chương trình Tin học phổ thông của các nước tiên tiến.
+d. Lựa chọn các nội dung cơ bản, phổ thông, đáp ứng xu thế hiện đại.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 28
+
+Tính kế thừa và phát triển trong chương trình môn Tin học có ý nghĩa như thế nào?
+a. Khai thác phương pháp giảng dạy mới từ các chương trình nước khác mà không cần xem xét tính phù hợp.
+b. Đảm bảo không thay đổi chương trình để tránh nhầm lẫn cho học sinh.
+c. Kế thừa chương trình Tin học hiện hành và khai thác chương trình Tin học phổ thông của các nước tiên tiến.
+d. Tạo điều kiện áp dụng công nghệ mới mà không cần thay đổi toàn bộ nội dung.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 29
+
+Sai lầm nào sau đây phổ biến trong giáo dục Tin học ở tiểu học?
+a. Xem nhẹ giáo dục ICT, chú trọng giáo dục CS.
+b. Coi Tin học như một môn lựa chọn riêng biệt.
+c. Cho rằng Tin học và Công nghệ là môn tích hợp.
+d. Ghép Tin học và Công nghệ thành một môn.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 30
+
+Phương án nào sau đây thể hiện mục tiêu của chương trình môn Tin học 2018?
+a. Trang bị cho học sinh những kiến thức và kỹ năng cần thiết để chuẩn bị cho các kỳ thi tin học.
+b. Trang bị cho học sinh những kiến thức và kỹ năng cần thiết để sử dụng được máy tính thành thạo.
+c. Trang bị cho học sinh những kỹ năng và kiến thức cần thiết để trở thành lập trình viên.
+d. Trang bị cho học sinh những kỹ năng và kiến thức cần thiết để thích ứng và phát triển trong xã hội số hóa.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 1
+
+Quan điểm “tính thiết thực” của chương trình Tin học 2018 nhấn mạnh điều gì?
+a. Đáp ứng định hướng nghề nghiệp và thực hiện giáo dục STEM.
+b. Nội dung chương trình mở, hình thức giáo dục đa dạng.
+c. Khai thác chương trình môn Tin học phổ thông của các nước tiên tiến.
+d. Chọn lọc các nội dung cơ bản, phổ thông và hiện đại.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 2
+
+Môn tin học ở cấp THPT có phải môn bắt buộc không?
+a. Có
+b. Không
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 3
+
+So với cấp Tiểu học, mục tiêu phát triển năng lực Tin học ở cấp THCS có điểm nhấn khác biệt nào sau đây?
+a. Biết chia một vấn đề lớn thành các nhiệm vụ nhỏ và sử dụng khái niệm thuật toán.
+b. Bắt đầu hình thành nhu cầu thu thập thông tin và ý tưởng điều khiển máy tính.
+c. Có hiểu biết toàn diện và định hướng nghề nghiệp rõ ràng trong lĩnh vực tin học.
+d. Làm quen với thế giới số thông qua việc vui chơi, giải trí đơn thuần
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 13
+
+Phương án nào sau đây là đặc điểm của chương trình giáo dục phổ thông 2018? (Chọn nhiều đáp án)
+a. Nội dung giáo dục gần như đồng nhất cho tất cả HS
+b. Dạy theo 1 bộ SGK
+c. Định hướng hình thành, phát triển phẩm chất năng lực cho HS
+d. SGK dùng để tham khảo
+e. Nội dung phân biệt thành 2 giai đoạn
+f. Định hướng chuẩn kiến thức, kỹ năng theo nội dung
+g. Có sự đổi mới về PPDH, phương pháp kiểm tra, đánh giá
+**➡️ Đáp án đúng: c, d, e, g**
+
+---
+
+### Câu 18
+
+Mục tiêu chính của chương trình môn Tin học là góp phần hình thành và phát triển điều gì?: (Chọn phương án đúng nhất )
+a. 5 phẩm chất chủ yếu, 4 năng lực chung, 8 năng lực đặc thù
+b. 5 phẩm chất chủ yếu, 9 năng lực chung, 6 năng lực đặc thù
+c. 7 phẩm chất chủ yếu, 5 năng lực chung, 7 năng lực đặc thù
+d. 5 phẩm chất chủ yếu, 3 năng lực chung, 7 năng lực đặc thù
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 19
+
+Chọn đáp án có các cụm từ thích hợp để hoàn thiện câu sau: “Mục tiêu chung của chương trình môn Tin học là góp phần hình thành, phát triển những (1)…….. chủ yếu và (2)…….. chung đã được xác định trong chương trình tổng thể; môn Tin học là môn đóng vai trò chủ lực trong việc hình thành và phát triển (3)………. Tin học của học sinh.”
+a. (1) - Phẩm chất; (2) - Năng lực; (3) - Kỹ năng
+b. (1) - Phẩm chất; (2) - Năng lực; (3) - Năng lực
+c. (1) - Năng lực; (2) - Năng lực; (3) - Phẩm chất
+d. (1) - Năng lực; (2) - Phẩm chất; (3) - Năng lực.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 13
+
+Điểm khác biệt quan trọng của môn Tin học ở cấp THPT so với cấp THCS là gì?
+a. Tiếp cận các phần mềm và công cụ mới, phục vụ cho nhu cầu học tập và trải nghiệm thực tiễn.
+b. Tập trung định hướng nghề nghiệp, tìm hiểu một số ngành nghề trong lĩnh vực tin học.
+c. Rèn luyện các kĩ năng ứng dụng CNTT trong học tập và đời sống hằng ngày ở mức độ cao hơn.
+d. Nâng cao kiến thức cơ bản và mở rộng sang một số chủ đề nâng cao trong lĩnh vực tin học.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 16
+
+Môn “Tin học” trong chương trình GDPT 2018 được coi là môn học bắt buộc ở cấp học nào?
+a. Cấp Tiểu học và cấp Trụng học cơ sở
+b. Chỉ cấp Tiểu học
+c. Chỉ cấp Trung học sơ sở
+d. Cả 3 cấp học
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 30
+
+Một nhóm học sinh dùng CNTT để thiết kế video tuyên truyền về “Uống nước nhớ nguồn, tri ân anh hùng liệt sĩ”. Phẩm chất nào được thể hiện rõ nhất?
+a. Yêu nước.
+b. Nhân ái.
+c. Chăm chỉ.
+d. Trung thực.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 7
+
+Một trường THPT triển khai hoạt động “Học sinh sử dụng công cụ lập trình để tạo trò chơi nhỏ học Toán”. Hoạt động này thể hiện rõ mục tiêu nào của chương trình môn Tin học ở cấp THPT?
+a. Nâng cao kỹ năng thành thạo ngôn ngữ và công cụ lập trình cơ bản.
+b. Phát triển năng lực lựa chọn, đánh giá công cụ và phương án kỹ thuật.
+c. Phát triển tư duy giải quyết vấn đề, thiết kế thuật toán và lập trình.
+d. Phát triển năng lực tích hợp Tin học vào việc hỗ trợ học tập liên môn.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 13
+
+Ở cấp Tiểu học, môn Tin học và Công nghệ trong chương trình GDPT 2018 có đặc điểm nào sau đây?
+a. Tập trung rèn kỹ năng sử dụng phần mềm.
+b. Tích hợp toàn diện giữa lý thuyết và thực hành.
+c. Kết hợp hai phân môn độc lập, bắt buộc từ lớp 3.
+d. Tự chọn cho HS yêu thích kỹ thuật – công nghệ.
+**➡️ Đáp án đúng: c**
+
+---

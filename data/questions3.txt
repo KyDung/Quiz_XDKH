@@ -1,0 +1,1553 @@
+### Câu 1
+
+Đặc điểm nổi bật của đánh giá trong chương trình Tin học mới 2018 so với trước đây là gì?
+a. Đánh giá năng lực thông qua các sản phẩm cụ thể.
+b. Đánh giá chỉ tập trung vào kết quả cuối cùng.
+c. Tập trung vào đánh giá kiến thức lý thuyết.
+d. Sử dụng chủ yếu các bài kiểm tra viết.
+**➡️ Đáp án đúng: a** 
+
+---
+
+### Câu 2
+
+Nhận định nào sau đây KHÔNG PHẢI là mục đích của đánh giá quá trình?
+a. Cả giáo viên và học sinh cùng tham gia đánh giá.
+b. Đánh giá nhằm xếp loại người học sau một giai đoạn học tập.
+c. Đánh giá thực hiện ngay trong quá trình dạy học.
+d. Mục đích đánh giá là điều chỉnh hoạt động của cả giáo viên và học sinh.
+**➡️ Đáp án đúng: b** 
+
+---
+
+### Câu 3
+
+Mạch kiến thức CS chú trọng đánh giá năng lực gì của học sinh?
+a. Năng lực vận dụng kiến thức
+b. Năng lực sáng tạo và tư duy hệ thống
+c. Năng lực sử dụng công nghệ
+d. Năng lực giải quyết vấn đề và sáng tạo
+**➡️ Đáp án đúng: b** 
+
+---
+
+### Câu 4
+
+Trong đánh giá kết quả giáo dục, mục tiêu đánh giá KHÔNG bao gồm:
+a. Học sinh tự điều chỉnh quá trình học
+b. Giáo viên điều chỉnh hoạt động dạy
+c. Phối hợp nhiều hình thức đánh giá
+d. Gia đình theo dõi, giúp đỡ con em học tập
+**➡️ Đáp án đúng: c** 
+
+---
+
+### Câu 5
+
+Trong chủ đề “Đạo đức, pháp luật và văn hoá môi trường số”, phương pháp dạy học nào giúp học sinh suy ngẫm và đưa ra quyết định ứng xử phù hợp?
+a. Dự án nhỏ và dạy học theo tình huống.
+b. Hợp tác, chú trọng rèn luyện kĩ thuật thuyết trình nhóm.
+c. Định hướng sản phẩm kết hợp báo cáo kết quả thảo luận.
+d. Phát hiện - giải quyết vấn đề thông qua tranh luận mở.
+**➡️ Đáp án đúng: a** 
+
+---
+
+### Câu 6
+
+Việc coi trọng dạy học trực quan và thực hành trong môn Tin học nhằm mục tiêu nào?
+a. Hình thành thói quen học tập qua các ví dụ minh họa sinh động.
+b. Tăng khả năng ghi nhớ các định nghĩa và thuật ngữ chuyên môn.
+c. Nâng cao khả năng vận dụng kiến thức qua tình huống mô phỏng.
+d. Gắn kiến thức với thao tác thực tế trên máy tính và sản phẩm số.
+**➡️ Đáp án đúng: d**  
+
+---
+
+### Câu 7
+
+Tính mở trong đánh giá môn Tin học được thể hiện qua việc:
+a. Tập trung vào việc so sánh kết quả giữa các học sinh
+b. Đa dạng hóa hình thức đánh giá, như bài tập, dự án, sản phẩm
+c. Đánh giá kiến thức lý thuyết.
+d. Sử dụng một loại hình bài kiểm tra duy nhất
+**➡️ Đáp án đúng: b**  
+
+---
+
+### Câu 8
+
+Khi dạy học các nội dung thuộc mạch kiến thức ICT (Ứng dụng Tin học), phương pháp nào sau đây là phù hợp và được ưu tiên nhất?
+a. Theo dự án và định hướng sản phẩm để học sinh tạo ra các ứng dụng cụ thể.
+b. Nêu và giải quyết vấn đề nhằm phát triển tư duy máy tính và tư duy hệ thống.
+c. Đàm thoại phát hiện và dạy học truy vấn để hình thành các khái niệm nền tảng.
+d. Theo tình huống để xử lí các vấn đề về đạo đức, pháp luật trong môi trường số.
+**➡️ Đáp án đúng: a**  
+
+---
+
+### Câu 9
+
+Trong các phương pháp giáo dục giúp hình thành, phát triển năng lực Tin học; đâu là phương pháp giúp hình thành, phát triển 2 năng lực NLa và NLb?
+a. Dạy học định hướng sản phẩm
+b. Dạy học truy vấn
+c. Dạy học dự án
+d. Dạy học nhận dạng và thể hiện
+**➡️ Đáp án đúng: d**  
+
+---
+
+### Câu 11
+
+Trong chủ đề “Máy tính và xã hội tri thức”, phương pháp “Dạy học nhận dạng và thể hiện” được đề xuất nhằm mục đích chủ yếu nào dưới đây?
+a. Giúp học sinh nhận diện thách thức trong môi trường số và chia sẻ góc nhìn về giải pháp công nghệ.
+b. Khuyến khích học sinh phát hiện vấn đề và trình bày ý kiến thông qua các hoạt động thảo luận và tranh biện.
+c. Cơ hội để học sinh xác định, nhận biết các vấn đề liên quan đến công nghệ và trình bày quan điểm cá nhân.
+d. Phát triển được năng lực phân tích và đánh giá các tình huống thực tế thông qua thảo luận nhóm.
+**➡️ Đáp án đúng: c** 
+
+---
+
+### Câu 12
+
+Khi đánh gia kết quả giáo dục môn Tin học theo chương tình GDPT 2018, giáo vên cần chú trọng điều gì?
+a. Chỉ đánh giá kết quả cuối cùng mà không xem xét quá trình.
+b. Đánh giá lý thuyết mà không cần xem xét thực hành.
+c. Đánh giá chỉ dựa trên điểm số
+d. Đánh giá sản phẩm số và độ hoàn thiện của sản phẩm .
+**➡️ Đáp án đúng: d**  
+
+---
+
+### Câu 13
+
+Theo chương trình giáo dục phổ thông 2018 việc đánh giá năng lực thường xuyên dựa vào yếu tố nào?
+a. Các bài kiểm tra đánh giá
+b. Việc quan sát trên lớp
+c. Số lượng bài tập được nộp
+d. Yêu cầu cần đạt
+**➡️ Đáp án đúng: d** 
+
+---
+
+### Câu 14
+
+Một học sinh THCS thu thập thông tin từ nhiều nguồn, chọn lọc và trình bày bằng sơ đồ tư duy số. Sản phẩm này thể hiện rõ nhất năng lực nào theo mô tả trong chương trình?
+a. Giải quyết vấn đề một cách sáng tạo thông qua việc tạo ra sản phẩm số.
+b. Số hoá để tạo ra phần mềm sơ đồ tư duy bằng các phần mềm công nghệ.
+c. Tuân thủ pháp luật về bản quyền khi tìm kiếm thông tin trên Internet.
+d. Giao tiếp và hợp tác trong môi trường số nhằm tạo ra các sản phẩm số.
+**➡️ Đáp án đúng: a** 
+
+---
+
+### Câu 15
+
+Khi đánh giá các chủ đề có trọng tâm là CS thì cần chú trọng những điều gì dưới đây? (Chọn nhiều đáp án)
+a. Khả năng vận dụng kiến thức của HS
+b. Năng lực sáng tạo
+c. Tư duy có tính hệ thống của HS
+d. Thái độ, tình cảm, hành vi cư xử của HS
+**➡️ Đáp án đúng: b, c** 
+
+---
+
+### Câu 16
+
+Để phản ánh đúng mục tiêu "đánh giá năng lực và phẩm chất của người học" trong môn Tin học, phương thức đánh giá nào sau đây là phù hợp nhất?
+a. Thông qua một bài thi trắc nghiệm khách quan cuối kỳ mang tính phân hoá câu hỏi.
+b. Kết hợp nhiều hình thức: quá trình học tập, sản phẩm dự án và bài kiểm tra định kỳ.
+c. Dựa trên kết quả các bài kiểm tra thực hành lập trình trên máy tính của từng cá nhân.
+d. Thông qua việc học sinh thực hiện và trình bày một dự án học tập theo nhóm.
+**➡️ Đáp án đúng: b** 
+
+---
+
+### Câu 17
+
+Theo định hướng phương pháp giáo dục , để phát triển năng lực tự chủ và tự học, phương pháp dạy học nào phù hợp nhất?
+a. Theo tình huống, kết hợp các hoạt động trải nghiệm cá nhân.
+b. Thực hành, dự án và các kĩ thuật dạy học tích cực.
+c. Phát hiện và giải quyết vấn đề, sử dụng đàm thoại truy vấn.
+d. Định hướng sản phẩm kết hợp hoạt động nhóm và thảo luận.
+**➡️ Đáp án đúng: b** 
+
+---
+
+### Câu 18
+
+Nội dung và yêu cầu cần đạt của một số chủ đề trong Chương trình môn Tin học giúp hình thành và phát triển trực tiếp ba thành phần nào của năng lực Tin học?
+a. Nla, Nlc, Nld.
+b. Nlc, Nld, Nle.
+c. Nla, Nlb, Nld.
+d. Nlc, Nlb, Nle.
+**➡️ Đáp án đúng: b** 
+
+---
+
+### Câu 19
+
+“Hoạt động trải nghiệm” là một trong các hình thức tổ chức dạy học tiêu biểu cho bài học thuộc các chủ đề nào sau đây? (Chọn nhiều đáp án)
+a. Mạng máy tính và xã hội tri thức.
+b. Mạng máy tính và Internet.
+c. Hướng nghiệp trong Tin học.
+d. Đạo đức, pháp luật và văn hóa trong môi trường số.
+**➡️ Đáp án đúng: c, d**  
+
+---
+
+### Câu 20
+
+Giáo viên muốn phát triển cho học sinh năng lực tự chủ và tự học thông qua việc giao vụ nghiên cứu một chủ đề, giáo viên đã gợi ý các nguồn tài liệu, hướng dẫn cách phân tích thông tin và yêu cầu học sinh tự trình bày kết quả. Hoạt động này đã kết hợp những phương pháp dạy học nào?
+a. Nhận dạng và thể hiện, hợp tác.
+b. Dự án, vấn đáp - tìm tòi.
+c. Nhận dạng và thể hiện, truy vấn.
+d. Dự án, dạy tình huống.
+**➡️ Đáp án đúng: b**  
+
+---
+
+### Câu 21
+
+Phương pháp dạy học dưới đây phù hợp nhất với định hướng khoa học máy tính?
+a. Dạy học hợp tác
+b. Dạy học nêu và giải quyết vấn đề
+c. Dạy học khám phá
+d. Dạy học dự án
+**➡️ Đáp án đúng: b** 
+
+---
+
+### Câu 22
+
+Đâu là một trong những nguyên tắc đánh giá kết quả giáo dục được nhắc đến trong chương trình GDPT 2018?
+a. Chú trọng đánh giá sản phẩm số của HS và độ hoàn thiện của sản phẩm.
+b. Xây dựng công cụ đánh giá dựa vào nội dung của chủ đề lựa chọn cụ thể.
+c. Kết luận đánh giá giáo dục của GV về mỗi HS chú trọng kết quả đánh giá định kì.
+d. Xác định được sự ổn định của từng thành phần năng lực qua mỗi cấp học.
+**➡️ Đáp án đúng: a**  
+
+---
+
+### Câu 23
+
+Phương án nào sau đây KHÔNG phải là định hướng đánh giá mục tiêu giáo dục ?
+a. Đánh giá kết quả củng cố và phát triển năng lực đặc thù trong dạy học môn Tin học.
+b. Đánh giá kết quả củng cố và phát triển kiến thức so với mục tiêu đề ra trong quá trình dạy học môn Tin học.
+c. Đánh giá kết quả củng cố và phát triển một số phẩm chất chủ yếu thông qua dạy học môn Tin học
+d. Đánh giá kết quả củng cố và phát triển năng lực chung thông qua dạy học môn Tin học
+**➡️ Đáp án đúng: b**  
+
+---
+
+### Câu 24
+
+Theo chương trình môn Tin học, mục tiêu đánh giá nhằm cung cấp thông tin nào sau đây về học sinh?
+a. Mức độ tham gia của học sinh trong các hoạt động nhóm.
+b. Mức độ thực hiện các dự án cá nhân của học sinh.
+c. Mức độ hiểu biết và ứng dụng kiến thức trong thực tế của học sinh.
+d. Mức độ đáp ứng YCCĐ của chương trình và sự tiến bộ của học sinh.
+**➡️ Đáp án đúng: d** 
+
+---
+
+### Câu 25
+
+Phương pháp đánh giá nào sau đây phù hợp nhất để đánh giá khả năng tư duy thuật toán của học sinh?
+a. Quan sát học sinh làm bài tập trên máy tính.
+b. Bài thực hành viết chương trình giải quyết bài toán.
+c. Bài kiểm tra trắc nghiệm lý thuyết về thuật toán.
+d. Bài tập vẽ sơ đồ khối mô tả thuật toán.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 26
+
+Sản phẩm nào dưới đây là sản phẩm Tin học có trọng tâm ICT ở cấp THCS ?
+a. Bài thuyết trình PowerPoint về một chủ đề đã học
+b. Một bài vẽ trên giấy được quét vào máy tính
+c. Sử dụng phần mềm soạn nhạc để tạo bài hát
+d. Bài tập chép lại đoạn văn trên máy tính
+**➡️ Đáp án đúng: a** 
+
+---
+
+### Câu 27
+
+Dựa vào yếu tố nào dưới đây để đánh giá thường xuyên?
+a. Bộ kiểm tra chung
+b. Năng khiếu của HS
+c. Yêu cầu cần đạt
+d. Bộ tiêu chí dùng chung
+**➡️ Đáp án đúng: c** 
+
+---
+
+### Câu 28
+
+Chọn đáp án có các cụm từ thích hợp để hoàn thiện câu sau:
+“Đánh giá trong giáo dục Tin học chủ yếu là đánh giá ***(1)*** theo ***(2)***, đồng thời góp phần đánh giá ***(3)*** đã được xác định trong Chương trình tổng thể.”
+A. (1) năng lực Tin học; (2) chuẩn đầu ra của từng cấp học; (3) phẩm chất cá nhân.
+B. (1) kiến thức và kỹ năng; (2) chuẩn đầu ra của từng cấp học; (3) kĩ năng thực hành tin học ứng dụng.
+C. (1) năng lực Tin học; (2) 5 thành phần năng lực; (3) phẩm chất và năng lực chung.
+D. (1) kiến thức và kỹ năng; (2) 5 thành phần năng lực; (3) phẩm chất và năng lực chung.
+**➡️ Đáp án đúng: C** 
+
+---
+
+### Câu 29
+
+GV Tin học áp dụng phương pháp “Flipped Classroom” (lớp học đảo ngược). Đặc điểm cốt lõi nhất của phương pháp này là gì?
+a. HS học lý thuyết ở nhà qua video, trên lớp dành thời gian để luyện tập, thảo luận và giải quyết vấn đề.
+b. HS học lý thuyết ở nhà qua sách giáo khoa, trên lớp dành thời gian làm bài kiểm tra và luyện tập kiến thức.
+c. GV giao nhiệm vụ hoặc dự án trên lớp, HS dành thời gian về nhà để hoàn thành sản phẩm và trình bày trên lớp.
+d. GV giảng lý thuyết nhanh trên lớp, HS dành thời gian về nhà để làm bài tập và luyện tập chủ động.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 30
+
+Yếu tố nào sau đây là một điểm mới và quan trọng trong nội dung đánh giá ở chương trình môn Tin học?
+a. Học sinh làm ra sản phẩm số
+b. Học sinh tham gia các cuộc thi
+c. Học sinh học thuộc lòng lý thuyết
+d. Học sinh viết báo cáo lý thuyết
+**➡️ Đáp án đúng: a** 
+
+---
+
+### Câu 1
+
+Để đánh giá năng lực giao tiếp và hợp tác trong dạy học môn Tin học, công cụ nào sau đây là phù hợp nhất?
+a. Bài kiểm tra
+b. Bản câu hỏi tự kiểm tra
+c. Bảng đánh giá hoạt động nhóm
+d. Hồ sơ học tập
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 2
+
+Ở cấp trung học phổ thông, khuyến khích sử dụng các phương pháp dạy học nào?
+a. Dạy học theo tình huống và dạy học nêu và giải quyết vấn đề
+b. Dạy học theo dự án và dạy học nêu và giải quyết vấn đề
+c. Dạy học theo tình huống và dạy học vấn đáp – tìm tòi
+d. Dạy học vấn đáp – tìm tòi và dạy học theo dự án
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 3
+
+Phương pháp dạy học dự án được khuyến khích áp dụng nhiều nhất ở cấp học nào trong chương trình môn Tin học?
+a. Trung học phổ thông
+b. THCS và THPT
+c. Trung học cơ sở
+d. Tiểu học
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 4
+
+Đối với các chủ đề có trọng tâm là kiến thức ICT, phương pháp đánh giá nào là phù hợp nhất?
+a. Đánh giá qua sản phẩm số của học sinh.
+b. Đánh giá qua việc kiểm tra lý thuyết.
+c. Đánh giá định tính thông qua quan sát hành vi.
+d. Đánh giá qua việc làm bài tập nhóm.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 5
+
+Dạy học nhận dạng và thể hiện là phương pháp hình thành, phát triển những năng lực Tin học nào sau đây?
+a. NLb, NLd, NLe
+b. NLb, NLc, NLe
+c. NLa, NLd
+d. NLa, NLb
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 6
+
+Trong quá trình đánh giá, giáo viên nên chú trọng vào yếu tố nào để khuyến khích học sinh tự học và khám phá?
+a. Tập trung vào những lỗi sai của học sinh.
+b. Đánh giá kết quả cuối cùng của bài tập.
+c. So sánh kết quả của học sinh với nhau.
+d. Quá trình học tập, cách tiếp cận vấn đề của học sinh.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 7
+
+Khi đánh giá các chủ đề có trọng tâm mạch kiến thức CS, cần chú trọng định hướng đánh giá nào sau đây?
+a. Đánh giá qua việc quan sát xem học sinh sử dụng được các thiết bị số và phần mềm cơ bản thông dụng.
+b. Đánh giá học sinh xử lý tình huống cụ thể; quan sát thái độ, tình cảm, hành vi ứng xử trong môi trường số.
+c. Đánh giá khả năng vận dụng kiến thức kĩ năng làm ra sản phẩm.
+d. Đánh giá năng lực sáng tạo và tư duy hệ thống của học sinh.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 8
+
+Theo Chương trình GDPT môn Tin học 2018, nguyên tắc nào dưới đây KHÔNG đúng với định hướng đánh giá?
+a. Chú trọng đánh giá năng lực vận dụng kiến thức, kĩ năng thông qua sản phẩm số của học sinh.
+b. Bám sát yêu cầu cần đạt của từng bài học trong mỗi chủ đề ở mỗi lớp, mỗi cấp học.
+c. Xác định sự tiến bộ của từng học sinh so với giai đoạn trước để có biện pháp hỗ trợ phù hợp.
+d. Sử dụng kết quả kiểm tra định kỳ làm căn cứ để phản ánh năng lực Tin học của học sinh.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 9
+
+Đối với đánh giá thường xuyên; giáo viên sẽ thực hiện theo định hướng nào sau đây?:
+a. Không cần thông báo cho học sinh
+b. Chỉ tập trung vào điểm số
+c. Theo dõi quá trình học tập của học sinh
+d. Đánh giá chỉ một lần trong học kì
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 10
+
+Đâu là phương pháp và kĩ thuật dạy học tiêu biểu cho chủ đề D (Đạo đức, pháp luật và văn hóa trong môi trường số)?
+a. Dạy học theo dự án nhỏ và dạy học dựa trên truy vấn
+b. Dạy học theo dự án nhỏ và dạy học theo tình huống
+c. Dạy học theo tình huống và vấn đáp – tìm tòi
+d. Dạy học theo tình huống và dạy học nêu vấn đề
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 11
+
+Phương án nào sau đây KHÔNG đúng khi mô tả về hoạt động của giáo viên trong quá trình tổ chức dạy học (Chọn nhiều đáp án)
+a. Khi dạy học, giáo viên không nhất thiết phải sử dụng máy tính.
+b. Tuỳ theo nội dung mỗi bài, ở các hoạt động sẽ có chung một hình thức tổ chức dạy học phù hợp, tránh sử dụng nhiều hình thức tổ chức.
+c. Giáo viên nhất thiết phải sử dụng máy tính trong dạy học
+d. Tuỳ theo nội dung mỗi bài, ở mỗi hoạt động lựa chọn hình thức tổ chức dạy học phù hợp, nên kết hợp đa dạng hình thức tổ chức.
+**➡️ Đáp án đúng: b, c**
+
+---
+
+### Câu 12
+
+Phương pháp nào sau đây được sử dụng để khai thác tính đa dạng của môi trường số trong giáo dục?
+a. Dạy học phân hóa
+b. Dạy học theo tình huống
+c. Dạy học trực quan
+d. Dạy học dự án
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 13
+
+Để phát huy năng lực hợp tác, tự học và tính chủ động của học sinh, giáo viên nên ưu tiên hình thức tổ chức nào?
+a. Phương pháp thuyết trình.
+b. Phương pháp trò chơi.
+c. Phương pháp dạy học dự án.
+d. Phương pháp nêu và giải quyết vấn đề.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 14
+
+Các định hướng phương pháp giáo dục môn Tin học nào dưới đây là đúng? (Chọn nhiều đáp án)
+a. Coi trong DH trực quan và hạn chế thực hành.
+b. Khuyến khích sử dụng PPDH theo dự án để phát huy NL làm việc nhóm, NL tự học và tính chủ động của HS.
+c. Lựa chọn hình thức tổ chức DH đa dạng trong cùng một đơn vị kiến thức của bài học.
+d. Chú ý thực hiện DH phân hóa.
+**➡️ Đáp án đúng: b, c, d**
+
+---
+
+### Câu 15
+
+Theo CTGDPT 2018 môn Tin học, việc đánh giá dựa trên căn cứ và nội dung nào? (Chọn nhiều đáp án)
+a. Kết hợp việc đánh giá của giáo viên với tự đánh giá và đánh giá đồng đẳng của HS.
+b. Chú trọng đánh giá thường xuyên, định kỳ.
+c. Đánh giá năng lực Tin học theo 05 thành phần: Nla, Nlb, Nlc, Nld, Nle.
+d. Góp phần đánh giá 05 phẩm chất chủ yếu và 03 năng lực chung.
+e. Phối hợp nhiều hình thức đánh giá.
+f. Các yêu cầu cần đạt về phẩm chất và năng lực.
+**➡️ Đáp án đúng: a, b, c, d, e, f**
+
+---
+
+### Câu 16
+
+Yếu tố nào sau đây cần được coi trọng khi đánh giá năng lực trong mạch kiến thức ICT?
+a. Khả năng vận dụng làm ra sản phẩm
+b. Khả năng nhớ và thuộc lòng quy trình
+c. Khả năng sáng tạo và tư duy hệ thống
+d. Khả năng xử lý tình huống cụ thể
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 17
+
+Đâu KHÔNG phải là nguyên tắc đánh giá kết quả giáo dục?
+a. Chú trọng vào định hướng học tập của học sinh
+b. Xác định được sự tăng trưởng của từng thành phần năng lực qua mỗi cấp học
+c. Bám sát vào yêu cầu cần đạt để dạy học và đánh giá
+d. Chú trọng đánh giá sản phẩm số của HS và độ hoàn thiện của sản phẩm
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 18
+
+Theo căn cứ lý luận và khoa học, vai trò của hoạt động kiểm tra đánh giá trong giáo dục là gì?
+a. Kiểm tra đánh giá giúp cải thiện quá trình dạy học và phát triển năng lực của người học.
+b. Kiểm tra đánh giá thường được sử dụng để so sánh thành tích của học sinh giữa các lớp học, nhưng không phải là mục tiêu chính.
+c. Kiểm tra đánh giá có thể ảnh hưởng đến một số thành tố trong quá trình dạy học, nhưng không phải tất cả
+d. Kiểm tra đánh giá chủ yếu nhằm xác định điểm số của học sinh, nhưng cũng có thể liên quan đến một số khía cạnh của dạy học.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 19
+
+Trong mạch kiến thức nào sau đây mà khi đánh giá kết quả giáo dục người GV cần coi trong đánh giá khả năng vận dụng kiến thức, kĩ năng làm ra sản phẩm?
+a. Khoa học máy tính (CS); Học vấn số hóa và phổ thông (DL).
+b. Học vấn số hóa và phổ thông (DL).
+c. Công nghệ thông tin và truyền thông (ICT).
+d. Khoa học máy tính (CS); Công nghệ thông tin và truyền thông (ICT).
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 20
+
+Ở cấp tiểu học, phương pháp dạy học nào dưới đây giúp phát huy, khuyến khích được các khả năng và sở thích khác nhau của học sinh trong việc sử dụng máy tính?
+a. Dạy học thực hành
+b. Dạy học phân hóa
+c. Dạy học dự án
+d. Dạy học thuyết trình
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 21
+
+Đâu KHÔNG phải là mục tiêu trong dạy học phân hóa ở cấp trung học cơ sở?
+a. Giúp học sinh phát hiện khả năng của mình đối với môn Tin học
+b. Định hướng nghề nghiệp cho học sinh
+c. Khơi gợi niềm đam mê với môn Tin học cho học sinh
+d. Giúp học sinh lựa chọn những chủ đề tùy chọn thích hợp
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 22
+
+Trong môn tin học, căn cứ nào để lựa chọn Phương Pháp giáo dục phù hợp với nội dung dạy học để đáp ứng mục tiêu dạy học phát triển phẩm chất, năng lực ?
+a. Yêu cầu cần đạt về phẩm chất chủ yếu, năng lực chung, năng lực đặc thù trong chương trình môn tin học.
+b. Yêu cầu cần đạt về năng lực đặc thù trong chương trình môn tin học.
+c. Yêu cầu cần đạt về phẩm chất, năng lực trong chương trình tổng thể.
+d. Yêu cầu cần đạt và nội dung cụ thể ở các lớp trong chương trình môn Tin Học.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 23
+
+“Chú trọng đánh giá năng lực sáng tạo và tư duy hệ thống của HS” là nội dung chính của hoạt động đánh giá ở mạch kiến thức nào ?
+a. Mạch kiến thức DL
+b. Mạch kiến thức ICT
+c. Mạch kiến thức ICT và DL
+d. Mạch kiến thức CS
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 24
+
+Sản phẩm của học sinh trong quá trình học Tin học có vai trò như thế nào trong việc đánh giá?
+a. Chỉ là một phần nhỏ trong quá trình đánh giá.
+b. Chỉ có ý nghĩa đối với những học sinh có năng khiếu.
+c. Là cơ sở để đánh giá sự sáng tạo và khả năng giải quyết vấn đề.
+d. Được sử dụng để so sánh kết quả giữa các học sinh.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 25
+
+Trong một bài dạy thuộc mạch kiến thức Tin học ứng dụng (ICT), giáo viên đã thực hiện trên phòng máy tính để tạo cơ hội cho học sinh được thực hành, thử nghiệm vận dụng từng đơn vị kiến thức ngay tại lớp. Việc làm này của giáo viên thể hiện rõ nhất nguyên tắc nào dưới đây trong dạy học phát triển phẩm chất, năng lực?
+a. Tăng cường dạy học, giáo dục phân hoá.
+b. Tăng cường những hoạt động thực hành, trải nghiệm cho học sinh
+c. Nội dung dạy học, giáo dục phải đảm bảo tính cơ bản, thiết thực, hiện đại.
+d. Tăng cường dạy học, giáo dục tích hợp.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 27
+
+Mục tiêu của việc thực hiện dạy học phân hóa là gì?
+a. Để tăng cường kiến thức lý thuyết
+b. Để giảm thời gian dạy học
+c. Để đáp ứng nhu cầu và khả năng khác nhau của học sinh
+d. Để tất cả học sinh học cùng một cách
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 28
+
+Phương án nào dưới đây thể hiện ý nghĩa đặc biệt của việc xây dựng chiến lược dạy học, giáo dục của người GV khi triển khai chương tình GDPT 2018?
+a. Tạo không khí học tập vui vẻ, thoải mái để HS và GV thực hiện hiệu quả các hoạt động học tập trong môn học và hoạt động giáo dục.
+b. Tạo cơ hội tốt nhất cho tập thể học sinh, nhóm học sinh và từng học sinh tự tin tham gia các kì thi đánh giá trên diện rộng.
+c. Tạo điều kiện cho GV phát huy sở trường khi được chọn lựa, sử dụng phương pháp và kĩ thuật dạy học tích cực.
+d. Tạo cơ hội tốt nhất cho tập thể học sinh, nhóm học sinh và từng học sinh hình thành, phát triển các phẩm chất chủ yếu và năng lực cốt lõi.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 29
+
+Mục tiêu quan trọng nhất của phương pháp dạy học thực hành trong môn Tin học là gì?
+a. Giúp học sinh ghi nhớ được các bước thao tác trên phần mềm của máy tính.
+b. Giúp học sinh làm quen thuần thục với nhiều loại thiết bị phần cứng khác nhau.
+c. Hướng tới thay thế các tiết học lý thuyết khô khan bằng các giờ thực hành quan trọng.
+d. Rèn luyện kỹ năng vận dụng kiến thức lý thuyết vào giải quyết nhiệm vụ cụ thể.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 30
+
+Phương án nào sau đây KHÔNG phải là nguyên tắc đánh giá kết quả giáo dục?
+a. Đánh giá chỉ dựa trên kết quả cuối kỳ
+b. Chú trọng đánh giá vì sự tiến bộ của mỗi cá nhân HS
+c. Bám sát vào yêu cầu cần đạt để dạy học và đánh giá
+d. Xác định sự tăng trưởng của từng thành phần năng lực qua mỗi cấp học
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 1
+
+Kết luận đánh giá của GV về năng lực Tin học của mỗi học sinh dựa trên sự đánh giá tổng hợp các kết quả đánh giá nào sau đây?
+a. Đánh giá đồng đẳng và đánh giá tự đánh giá.
+b. Đánh giá thường xuyên và đánh giá định kỳ
+c. Đánh giá thường xuyên và đánh giá dựa trên quan sát
+d. Đánh giá thông qua sản phẩm và đánh giá dựa trên hồ sơ học tập.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 2
+
+Phương án nào sau đây KHÔNG phải là mục tiêu của đánh giá giáo dục?
+a. Đánh giá chỉ số thông minh (IQ) của học sinh.
+b. Giáo viên điều chỉnh hoạt động giảng dạy của mình.
+c. CBQL nhà trường có giải pháp cải thiện chất lượng giáo dục.
+d. Gia đình giám sát và hỗ trợ việc học tập của con em mình.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 3
+
+Trong chương trình GDPT 2018 môn Tin học, đâu là trọng tâm đánh giá kết quả giáo dục ở mạch kiến thức CS?
+a. Coi trọng đánh giá khả năng vận dụng kiến thức kĩ năng làm ra sản phẩm.
+b. Đánh giá khả năng sử dụng được các thiết bị số một cách có đạo đức, văn hóa và tuân thủ pháp luật.
+c. Chú trọng đánh giá năng lực sáng tạo và tư duy hệ thống của học sinh.
+d. Đánh giá qua quan sát thái độ, tình cảm, hành vi của HS trong môi trường số.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 4
+
+Trong môn Tin học ở cấp Tiểu học, khi giáo viên muốn học sinh vừa tiếp thu kiến thức mới vừa phát triển kỹ năng làm việc nhóm, phù hợp cho cả chủ đề “Tổ chức, lưu trữ, tìm kiếm và trao đổi thông tin” và chủ đề ”Đạo đức, pháp luật và văn hóa trong môi trường số” thì giáo viên nên lựa chọn phương pháp nào?
+a. Vấn đáp - tìm tòi.
+b. Dạy học theo dự án nhỏ.
+c. Dạy học theo tình huống.
+d. Dạy học thực hành.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 5
+
+Trong Chương trình GDPT 2018, đánh giá kết quả giáo dục có mối quan hệ với “yêu cầu cần đạt” như thế nào?
+a. Một chiều, trong đó giáo viên đánh giá dựa vào nội dung chương trình để suy ra mức độ đạt yêu cầu của học sinh.
+b. Tương hỗ, trong đó yêu cầu cần đạt xác định mục tiêu, đánh giá là công cụ cung cấp thông tin để điều chỉnh việc dạy học.
+c. Song hành nhưng độc lập, với đánh giá tập trung vào việc đo lường kiến thức, còn yêu cầu cần đạt tập trung vào kỹ năng.
+d. Mang tính tham khảo, trong đó giáo viên có thể chọn cách đánh giá tùy ý để xác định mức độ hoàn thành yêu cầu cần đạt.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 6
+
+Trong chủ đề “Mạng máy tính và Internet”, hình thức tổ chức dạy học nào được ưu tiên để tăng cường sự tham gia tích cực của học sinh?
+a. Hoạt động trải nghiệm tập thể, lồng ghép giáo dục đạo đức số.
+b. Quan sát - thảo luận trên lớp, báo cáo sản phẩm theo nhóm.
+c. Thực hành cá nhân, nhóm nhỏ, giải quyết tình huống thực tế.
+d. Thảo luận trên lớp với tình huống giả định, kết hợp dự án nhỏ.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 7
+
+Chương trình giáo dục phổ thông xác định mục tiêu đánh giá kết quả giáo dục là gì? (Chọn nhiều đáp án)
+a. Bảo đảm sự tiến bộ của từng học sinh và nâng cao chất lượng giáo dục
+b. Để hướng dẫn hoạt động học tập, điều chỉnh các hoạt động dạy học, quản lí và phát triển chương trình
+c. Phát hiện học sinh giỏi để thi đội tuyển của trường, huyện, tỉnh, quốc gia
+d. Cung cấp thông tin chính xác, kịp thời, có giá trị về mức độ đáp ứng yêu cầu cần đạt của chương trình và sự tiến bộ của học sinh
+**➡️ Đáp án đúng: a, b, d**
+
+---
+
+### Câu 8
+
+Theo chương trình giáo dục phổ thông 2018, khi xây dựng hồ sơ học tập để đánh giá năng lực tin học của học sinh, yếu tố nào là cần thiết nhất?
+a. Lưu trữ và cập nhật kết quả đánh giá thường xuyên
+b. Tập trung vào kết quả từ các bài kiểm tra trắc nghiệm
+c. Chỉ sử dụng điểm số từ các bài kiểm tra định kỳ
+d. Đánh giá dựa trên nội dung của chủ đề lựa chọn cụ thể
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 10
+
+Trong dạy học chủ đề Hướng nghiệp với Tin học lớp 11, một học sinh trong lớp yêu thích thiết kế trò chơi điện tử, có ý tưởng sáng tạo tốt nhưng kỹ năng lập trình còn hạn chế. Giáo viên muốn hướng nghiệp theo năng lực cá nhân và tạo cơ hội phát triển toàn diện. Cách tổ chức nào dưới đây phù hợp nhất?
+a. Giao cho học sinh tự luyện tập lập trình theo tài liệu tham khảo, sau đó báo cáo lại tiến bộ.
+b. Chỉ định học sinh học nâng cao lập trình, tạm gác lại phần sáng tạo ý tưởng để tập trung khắc phục điểm yếu.
+c. Mời chuyên gia đến giới thiệu nghề thiết kế trò chơi, học sinh ghi chép và rút ra yêu cầu nghề nghiệp.
+d. Tổ chức hoạt động dự án: học sinh tham gia nhóm thiết kế trò chơi, đảm nhận phần ý tưởng và học thêm lập trình cơ bản từ bạn bè.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 11
+
+Đâu là nội dung cần chú trọng khi đánh giá ở mạch kiến thức DL?
+a. Chú trọng đánh giá khả năng vận dụng kiến thức kĩ năng làm ra sản phẩm của HS.
+b. Coi trọng đánh giá năng lực, phẩm chất và tư duy hệ thống của HS.
+c. Đánh giá qua quan sát thái độ, tình cảm, hành vi ứng xử của HS trong môi trường số.
+d. Đánh giá sự tham gia của HS trong các hoạt động ngoại khóa.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 12
+
+Theo chương trình GDPT 2018, trong quá trình tổ chức dạy học giáo viên cần: (Chọn phương án SAI)
+a. Chú ý thực hiện dạy học phân hoá.
+b. Sử dụng duy nhất một phương pháp dạy học truyền thống để đảm bảo tính ổn định và hiệu quả
+c. Tuỳ theo nội dung bài, ở mỗi hoạt động, lựa chọn hình thức tổ chức dạy học phù hợp
+d. Áp dụng các phương pháp dạy học tích cực, coi trọng dạy học trực quan và thực hành
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 13
+
+Trong mạch kiến thức CS (Khoa học máy tính), GV cần chú trọng đánh giá năng lực nào sau đây?
+a. Năng lực hoàn thành bài tập theo yêu cầu của giáo viên.
+b. Năng lực hòa nhập với xã hội hiện đại và sử dụng các thiết bị số một cách hiệu quả
+c. Năng lực sử dụng phần mềm cơ bản và xử lý tình huống trong môi trường số.
+d. Năng lực sáng tạo và tư duy có tính hệ thống của học sinh.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 14
+
+Trong chương trình GDPT 2018 môn Tin học ở cấp THCS đâu là sản phẩm học tập thể hiện được tư duy hệ thống và tính sáng tạo trong giải quyết vấn đề của HS?
+a. Một đoạn hoạt hình được tạo ra bởi môi trường lập trình trực quan.
+b. Văn bản đơn giản ghi lại một bài thơ yêu thích kèm theo hình ảnh minh họa mà học sinh tự chọn.
+c. Sơ đồ tư duy hay bài trình chiếu, hoặc văn bản được chuẩn bị để trình bày một vấn đề.
+d. Một bản vẽ bằng phần mềm đồ họa, một đồ thủ công làm theo hướng dẫn trên web hay video.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 15
+
+Theo định hướng chung của chương trình môn Tin học, yếu tố nào dưới đây KHÔNG phải là trọng tâm trong phương pháp giáo dục?
+a. Áp dụng các phương pháp dạy học tích cực, coi trọng trực quan và thực hành.
+b. Chú trọng việc truyền thụ kiến thức một chiều từ giáo viên sang học sinh.
+c. Gắn nội dung kiến thức với các vấn đề thực tế, yêu cầu học sinh đề xuất giải pháp qua sản phẩm số.
+d. Khuyến khích sử dụng phương pháp dạy học theo dự án để phát huy làm việc nhóm và tự học.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 16
+
+Kỹ năng nào sau đây cần được đặc biệt chú trọng trong dạy học Tin học?
+a. Kỹ năng sử dụng phần mềm ứng dụng.
+b. Kỹ năng sử dụng thành thạo máy tính
+c. Kỹ năng giải quyết vấn đề và tư duy logic
+d. Kỹ năng giao tiếp làm việc nhóm.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 17
+
+Trong khi đánh giá kết quả hoạt động học tập của môn Tin học, một học sinh có điểm kiểm tra định kỳ khá cao, nhưng khi tham gia dự án nhóm em lại gặp khó khăn trong việc áp dụng công cụ Tin học. Để phản ánh đúng năng lực thực tế của học sinh này, giáo viên nên làm gì?
+a. Có thêm các hoạt động thực hành trong các tiết học, sử dụng kết quả để điều chỉnh nhận định trình độ tin học của học sinh.
+b. Trao đổi với các giáo viên bộ môn khác để lấy thêm thông tin và dựa vào đó xác định trình độ tin học của học sinh.
+c. Xếp loại học sinh dựa trên điểm trung bình cộng có trọng số của bài kiểm tra định kỳ và điểm của dự án nhóm.
+d. Sử dụng kết quả điểm kiểm tra định kỳ của học sinh, coi đây là kết quả khách quan nhất.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 18
+
+Trong một tiết học về an toàn thông tin, giáo viên yêu cầu học sinh xử lí tình huống giả định khi nhận email lạ có đính kèm tệp. Việc này thuộc mạch kiến thức nào?
+a. CS (Computer Science).
+b. DL (Digital Literacy).
+c. ICT (Information and Communication Technology),
+d. Tư duy phản biện chung.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 19
+
+Nguyên tắc nào sau đây đảm bảo cho mỗi người học phát triển tối đa năng lực, sở trường, nhu cầu, sở thích cá nhân trong dạy học theo định hướng phát triển phẩm chất, năng lực?
+a. Dạy học phân hoá.
+b. Tạo môi trường để học sinh chủ động kiến tạo dưới sự hướng dẫn của giáo viên, làm cơ sở để hình thành phẩm chất, năng lực.
+c. Nội dung dạy học, giáo dục đảm bảo cơ bản, cốt lõi, hiện đại.
+d. Dạy học tích hợp.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 20
+
+Đâu KHÔNG phải định hướng chung cho phương pháp giáo dục của chương trình môn học ở các cấp học?
+a. Áp dụng các phương pháp dạy học tích cực, coi trọng dạy học trực quan và thực hành
+b. Tùy theo nội dung bài, ở mỗi hoạt động, lựa chọn hình thức tổ chức dạy học phù hợp
+c. Thực hiện dạy học phân hóa cho từng cấp học
+d. Dạy học kết hợp với định hướng nghề nghiệp cho người học
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 21
+
+Để đánh giá dự án “Cẩm nang số về học tập trực tuyến”, GV đưa ra 4 tiêu chí:
+(1) Tính chính xác nội dung; (2) Tính thẩm mỹ; (3) Quá trình hợp tác nhóm; (4) Thời gian hoàn thành.
+Theo định hướng đánh giá phát triển năng lực, những tiêu chí nào nên đặt trọng tâm hơn?
+A. (2) và (4).
+B. (1) và (2).
+C. (1) và (3).
+D. (3) và (4).
+**➡️ Đáp án đúng: C**
+
+---
+
+### Câu 22
+
+Trong một tiết học Tin học ở lớp 10, giáo viên đưa ra tình huống: “Hệ thống máy tính trong phòng học thường xuyên bị lỗi kết nối mạng, các em hãy quan sát, tìm hiểu, phân tích nguyên nhân và đề xuất giải pháp khắc phục”. Hoạt động này chủ yếu nhằm phát triển năng lực nào của học sinh?
+a. Nla.
+b. Nle.
+c. Nlc.
+d. Nld.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 23
+
+Vận dụng các phương pháp giáo dục và các hình thức tổ chức dạy học một cách linh hoạt, sáng tạo, phù hợp với mục tiêu, nội dung giáo dục, đối tượng học sinh và điều kiện cụ thể nằm trong định hướng nào của phương pháp giáo dục ?
+a. Định hướng về phương pháp hình thành, phát triển phẩm chất chủ yếu và năng lực chung.
+b. Không nằm trong định hướng của phương pháp giáo dục.
+c. Định hướng chung.
+d. Định hướng về phương pháp, hình thức tổ chức dạy học đặc thù trong giáo dục tin học.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 24
+
+Cách tốt nhất để làm nảy sinh nhu cầu nhận thức ở học sinh là gì ?
+a. Nêu nhiệm vụ rõ ràng, hướng dẫn học sinh biết cách giải quyết nhiệm vụ.
+b. Tạo ra ấn tượng tốt đẹp ở học sinh đối với hoạt động học.
+c. Tổ chức tốt các phong trào thi đua, có động viên khen thưởng kịp thời.
+d. Tạo tình huống có vấn đề và đặt học sinh vào tình huống đó.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 25
+
+Căn cứ nào sau đây KHÔNG phải là cơ sở để xây dựng cách thức đánh giá trong chương trình Tin học mới?
+a. Các cơ chế đổi mới từ Đảng và nhà nước.
+b. Ý kiến đóng góp của xã hội.
+c. Kết quả nghiên cứu khoa học về giáo dục.
+d. Thực tiễn giảng dạy và học tập.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 27
+
+Giáo viên có thể lựa chọn PPDH và kỹ thuật dạy học tiêu biểu nào trong dạy học Chủ đề C (Tổ chức, lưu trữ, tìm kiếm và trao đổi thông tin)?
+a. Dạy học theo tình huống
+b. Đàm thoại – phát hiện
+c. Vấn đáp – tìm tòi
+d. Dạy học theo dự án
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 28
+
+Khi triển khai mạch kiến thức CS (Khoa học máy tính), việc đánh giá cần chú trọng đến yếu tố nào?
+a. Khả năng vận dụng kiến thức để giải quyết vấn đề thay vì chỉ làm trắc nghiệm nhanh.
+b. Chất lượng sản phẩm số, thể hiện được ý tưởng và tư duy sáng tạo, không chỉ số lượng.
+c. Mức độ hiểu và áp dụng kiến thức về phần cứng, phần mềm vào bối cảnh thực tế.
+d. Năng lực sáng tạo và tư duy có tính hệ thống, đặc biệt là tư duy thuật toán.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 29
+
+Ở cấp trung học phổ thông, phương pháp dạy học nào được khuyến khích để phát triển tư duy máy tính?
+a. Phương pháp dạy học phân hóa.
+b. Phương pháp dạy học trực tuyến
+c. Phương pháp dạy học nêu và giải quyết vấn đề.
+d. Phương pháp dạy học thực hành.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 30
+
+Trong đánh giá kết quả giáo dục, biểu hiện nào sau đây thể hiện mức độ vận dụng của học sinh sau khi hoàn thành các nội dung của chủ đề F ở chương trình Tin học lớp 11?
+a. Nêu được tầm quan trọng và một số biện pháp bảo mật CSDL.
+b. Sử dụng được các truy vấn để tìm kiếm và kết xuất thông tin từ CSDL.
+c. Diễn đạt được khái niệm CSDL, khóa, khóa ngoài, truy vấn, cập nhật dữ liệu.
+d. Phân biệt được hai loại kiến trúc hệ CSDL là tập trung và phân tán.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 1
+
+Trong chủ đề D: “Đạo đức, pháp luật và văn hóa trong môi trường số”, những PPDH nào sau đây nên được sử dụng?
+a. Dạy học theo tình huống, dạy học theo dự án nhỏ.
+b. Trên lớp, thực hành, hoạt động trải nghiệm.
+c. Dạy học nhận dạng và thể hiện, kĩ thuật dạy học tích cực.
+d. Dạy học theo dự án nhỏ, dạy học thực hành.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 2
+
+Khi xây dựng quy chế đánh giá định kỳ môn Tin học, một giáo viên đề xuất chỉ cần tổ chức kiểm tra thực hành để đánh giá năng lực của học sinh. Đề xuất này có tuân thủ nguyên tắc đánh giá "tính Chuẩn" hay không? Vì sao?
+a. Có. Vì bài kiểm tra thực hành là phương pháp hiệu quả để đánh giá năng lực tin học, thể hiện được khả năng ứng dụng của học sinh.
+b. Có. Vì chương trình nêu rõ "Không nhất thiết chỉ sử dụng một hình thức kiểm tra miễn đạt được mục tiêu đo lường, đánh giá năng lực."
+c. Không. Vì việc đánh giá định kỳ phải sử dụng cả bài kiểm tra trên lớp và thực hành trên phòng máy để đảm bảo tính khách quan.
+d. Không. Vì bài kiểm tra thực hành không thể đánh giá được toàn bộ từng năng lực đặc thù tin học của học sinh.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 3
+
+Những nội dung dạy học thuộc chủ đề nào sau đây sẽ đạt hiệu quả tốt hơn nếu sử dụng phương pháp dạy học dự án?
+a. Mạng máy tính và Internet.
+b. Máy tính và xã hội tri thức.
+c. Giải quyết vấn đề với sự trợ giúp của máy tính.
+d. Ứng dụng tin học.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 5
+
+Trong CTGDPT 2018, đâu là những hình thức đánh giá trong định hướng chung về đánh giá kết quả giáo dục? (Chọn nhiều đáp án)
+a. Chú trọng đánh giá thường xuyên, phối hợp nhiều hình thức đánh giá.
+b. Đánh giá kết quả dựa trên sản phẩm cuối cùng, bài thi cuối cùng sau khi kết thúc năm học.
+c. Kết hợp đánh giá quá trình với đánh giá tổng kết; đánh giá định tính với đánh giá định lượng.
+d. Kết hợp việc đánh giá của giáo viên với tự đánh giá và đánh giá đồng đằng của HS.
+**➡️ Đáp án đúng: a, c, d**
+
+---
+
+### Câu 6
+
+Phương pháp dạy học nào sau đây phù hợp với chủ đề định hướng Khoa học máy tính nhằm phát triển tư duy máy tính của học sinh?
+a. PP dạy học theo tình huống
+b. PP dạy học nhận dạng và thể hiện
+c. PP dạy học nêu và giải quyết vấn đề
+d. PP dạy học theo dự án nhỏ
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 7
+
+Mục tiêu đánh giá trong chương trình môn Tin học 2018 nhấn mạnh điều gì? (Chọn nhiều đáp án)
+a. Đánh giá năng lực vận dụng kiến thức, kỹ năng của học sinh vào thực tiễn
+b. Đánh giá việc học sinh có làm bài tập về nhà đầy đủ hay không
+c. Đánh giá mức độ đáp ứng yêu cầu cần đạt của chương trình và sự tiến bộ của học sinh.
+d. Đánh giá kết quả học tập của học sinh.
+**➡️ Đáp án đúng: a, c, d**
+
+---
+
+### Câu 8
+
+Định hướng phương pháp dạy học phân hoá nhằm mục tiêu gì?
+a. Giảm tải cho giáo viên
+b. Tạo điều kiện cho mỗi học sinh phát triển tối đa khả năng của mình
+c. Đảm bảo tất cả học sinh đều được học giống như nhau
+d. Áp dụng cho học sinh yếu kém
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 11
+
+Giáo viên cần lập hồ sơ học tập dưới dạng cơ sở dữ liệu cho học sinh để:
+a. Cập nhật kết quả đánh giá thường xuyên trong quá trình học tập.
+b. Theo dõi hoạt động ngoài giờ học.
+c. Đánh giá sản phẩm cuối cùng sau khi học.
+d. Lưu trữ điểm số cuối kỳ của mỗi học sinh.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 12
+
+Ý nghĩa quan trọng nhất của đánh giá định kỳ trong giáo dục là gì?
+a. Ghi nhận sự tiến bộ liên tục của học sinh trong suốt quá trình học tập, chú trọng đến sự thay đổi theo thời gian.
+b. Đưa ra dữ liệu giúp giáo viên điều chỉnh kế hoạch, phương pháp và hình thức tổ chức dạy học cho phù hợp.
+c. Cung cấp thông tin phản hồi thường xuyên để học sinh kịp thời điều chỉnh phương pháp và thói quen học tập.
+d. Xác nhận mức độ đạt được của học sinh so với yêu cầu cần đạt, làm căn cứ tổng kết kết quả học tập.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 14
+
+Đánh giá dựa trên “Sản phẩm của học sinh” là phương pháp đánh giá chủ yếu của mạch kiến thức nào?
+a. ICT và CS
+b. DL
+c. ICT
+d. CS
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 15
+
+Phương pháp và kỹ thuật dạy học theo tình huống là lựa chọn tiêu biểu trong dạy học chủ đề nào ở chương trình Tin học phổ thông?
+a. Chủ đề C
+b. Chủ đề B
+c. Chủ đề D
+d. Chủ đề F
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 16
+
+Đâu là phương pháp phù hợp để hình thành và phát triển Nla (Sử dụng và quản lý các phương tiện công nghệ thông tin và truyền thông) ?
+a. Dạy học nhận dạng và thể hiện, dạy học thực hành.
+b. Dạy học dự án, dạy học định hướng sản phẩm.
+c. Dạy học dự án, dạy học phát hiện và giải quyết vấn đề.
+d. Dạy học nhận dạng và thể hiện, dạy học theo tình huống.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 17
+
+Phương pháp dạy học nào phù hợp với nhiều chủ đề của định hướng Khoa học máy tính và mục tiêu phát triển tư duy máy tính cho học sinh?
+a. Phương pháp dạy học thực hành
+b. Phương pháp dạy học nêu và giải quyết vấn đề
+c. Phương pháp dạy học khám phá có hướng dẫn
+d. Phương pháp dạy học dự án
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 18
+
+Đánh giá kết quả học tập và đánh giá để cải tiến học tập khác nhau cơ bản về khía cạnh nào?
+a. Mục đích đánh giá
+b. Tiêu chí đánh giá
+c. Nghi thức đánh giá
+d. Phương pháp đánh giá
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 19
+
+Theo Chương trình GDPT 2018 môn Tin học, phương pháp dạy học dự án được khuyến khích áp dụng ở cấp nào và phù hợp với chủ đề nào?
+a. THPT – Giải quyết vấn đề với sự trợ giúp của máy tính.
+b. THPT – Ứng dụng Tin học.
+c. THCS – Ứng dụng tin học.
+d. THCS – Giải quyết vấn đề với sự trợ giúp của máy tính.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 20
+
+Trong chương trình GDPT 2018 môn Tin học ở cấp THCS đâu là sản phẩm thể hiện được tư duy hệ thống và tính sáng tạo trong giải quyết vấn đề của HS?
+a. Một đoạn hoạt hình được tạo ra bởi môi trường lập trình trực quan.
+b. Văn bản đơn giản ghi lại một bài thơ yêu thích kèm theo hình ảnh minh họa mà học sinh tự chọn.
+c. Một bản vẽ bằng phần mềm đồ họa, một đồ thủ công làm theo hướng dẫn trên web hay video.
+d. Sơ đồ tư duy hay bài trình chiếu, hoặc văn bản được chuẩn bị để trình bày một vấn đề.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 21
+
+Theo Chương trình GDPT 2018 môn Tin học, một trong những điểm mới về đánh giá là gì?
+a. Ưu tiên hình thức kiểm tra viết và trắc nghiệm khách quan trên giấy.
+b. Chú trọng kiểm tra khả năng ghi nhớ khái niệm và quy trình học tập.
+c. Hạn chế dần việc sử dụng đánh giá định tính trong quá trình học tập.
+d. Tăng cường đánh giá thông qua sản phẩm số do học sinh thực hiện.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 22
+
+Trong Chương trình Giáo dục phổ thông 2018 môn Tin học, mỗi mạch kiến thức (ICT, CS, DL) có định hướng đánh giá khác nhau, phản ánh đặc thù về năng lực mà học sinh cần hình thành. Khi so sánh giữa ICT và CS, điểm khác biệt trọng tâm trong đánh giá là gì?
+a. ICT đánh giá theo nhóm nhưng CS đánh giá cá nhân.
+b. ICT tập trung vào sản phẩm, CS chú trọng tư duy và sáng tạo.
+c. ICT đánh giá kiến thức lý thuyết trong khi CS đánh giá thực hành.
+d. ICT đánh giá định tính, CS đánh giá định lượng.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 23
+
+Đánh giá thường xuyên và định kì trong giáo dục tin học bám sát những thành phần nào?
+a. Ba năng lực chung và các mạch nội dung DL, ICT, CS
+b. Năm thành phần của năng lực tin học và ba năng lực chung
+c. Năm thành phần của năng lực tin học và các mạch nội dung DL, ICT, CS
+d. Năm phẩm chất chủ yếu và ba năng lực chung
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 24
+
+Khi áp dụng phương pháp dạy học hợp tác, giáo viên cần thiết kế các hoạt động sao cho các nhóm học sinh có thể đạt được mục tiêu học tập chung. Một trong những yếu tố quan trọng để đảm bảo hiệu quả của phương pháp này là gì?
+a. Học sinh cần được phân chia ngẫu nhiên vào các nhóm không cần xem xét sự đồng đều về trình độ
+b. Các nhóm học sinh hoàn thành bài tập một cách độc lập
+c. Mỗi nhóm học sinh cần phải tự quản lý và đánh giá công việc của mình
+d. Các nhóm học sinh có số lượng thành viên đều nhau
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 25
+
+Khi đánh giá năng lực trên diện rộng cần căn cứ trên chuẩn yêu cầu cần đạt đối với chủ đề bắt buộc ĐÚNG hay SAI?
+a. Đúng
+b. Sai
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 27
+
+Phương pháp dạy học nào không KHÔNG phát huy năng lực tự chủ và tự học?
+a. Dạy học nhận dạng và thể hiện
+b. Dạy học theo dự án
+c. Dạy học tình huống
+d. Dạy học hợp tác
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 28
+
+Đâu là phương pháp dạy học tích cực trong số các phương pháp dạy học dưới đây?
+a. Phương pháp dạy học theo dự án.
+b. Phương pháp thuyết trình
+c. Phương pháp quan sát
+d. Phương pháp dạy học vấn đáp.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 29
+
+Một giáo viên muốn đánh giá năng lực môn Tin học của học sinh lớp 8. Thay vì chỉ chấm điểm bài kiểm tra viết, giáo viên tổ chức cho học sinh thực hiện dự án thiết kế poster bằng phần mềm đồ họa, sau đó thuyết trình sản phẩm trước lớp và tự đánh giá chéo lẫn nhau. Cách đánh giá này thể hiện rõ nhất định hướng nào của Chương trình GDPT 2018?
+a. Đánh giá định kỳ, chú trọng kiến thức trọng tâm của từng chủ đề và mức độ ghi nhớ, hiểu biết khái niệm cốt lõi.
+b. Đánh giá diện rộng, tập trung vào sự thống nhất nội dung và hình thức thi chuẩn hóa giữa các lớp, các trường trong một địa phương.
+c. Đánh giá thường xuyên, coi trọng quá trình hình thành năng lực, sự tiến bộ cá nhân và sản phẩm sáng tạo của học sinh.
+d. Đánh giá tổng kết, nhấn mạnh việc phân loại kết quả học sinh thành các mức độ giỏi, khá, trung bình, yếu để báo cáo và thống kê.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 30
+
+Trong chương trình GDPT 2018, đâu là mục tiêu đánh giá kết quả giáo dục? (Chọn nhiều đáp án)
+a. Gia đình theo dõi, giúp đỡ con em học tập
+b. HS tự điều chỉnh quá trình học, GV điều chỉnh hoạt động dạy
+c. CBQL nhà trường có giải pháp cải thiện chất lượng giáo dục
+d. Phát hiện học sinh giỏi để thi đội tuyển của trường, huyện, tỉnh, quốc gia
+**➡️ Đáp án đúng: a, b, c**
+
+---
+
+### Câu 1
+
+Yếu tố nào sau đây thuộc về căn cứ thực tiễn khi xây dựng nội dung đánh giá của chương trình Tin học?
+a. Kết quả đánh giá giáo dục phổ thông và tuyển sinh đại học.
+b. Chương trình tổng thể do Bộ GD&ĐT ban hành năm 2017.
+c. Phương pháp luận xây dựng chương trình theo định hướng phát triển năng lực.
+d. Văn kiện chỉ đạo của Trung ương về giáo dục.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 2
+
+Khi Đánh giá ở mạch kiến thức CS, GV cần chú trọng điều gì?
+a. Chú trọng bám sát mục tiêu của từng mạch kiến thức theo chương trình giáo dục
+b. Chú trọng đánh giá năng lực sáng tạo và tư duy hệ thống của HS
+c. Phối hợp đánh giá cách HS xử lí tình huống cụ thể với đánh giá thông qua quan sát thái độ, tình cảm, hành vi ứng xử của học sinh trong môi trường số
+d. Chú trọng đánh giá khả năng vận dụng kiến thức kĩ năng làm ra sản phẩm
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 3
+
+Phương pháp nào sau đây giúp học sinh phát triển kĩ năng tư duy sáng tạo trong môn Tin học?
+a. Phương pháp dạy học sáng tạo
+b. Phương pháp dạy học thông qua dự án
+c. Phương pháp dạy học dựa trên thuyết giảng
+d. Phương pháp dạy học trực quan
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 4
+
+Trong quá trình tổ chức dạy học ở phòng thực hành máy tính, giáo viên cần chú trọng điều gì ?
+a. Hạn chế việc sử dụng máy tính để tập trung vào lý thuyết
+b. Tập trung vào việc cho học sinh học thuộc lòng các công cụ
+c. Tổ chức cho học sinh làm bài kiểm tra lý thuyết thay vì thực hành
+d. Đảm bảo các hoạt động được tổ chức linh hoạt, tạo sự hào hứng chủ động
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 5
+
+Phát biểu “Học sinh sẽ thể hiện năng lực tốt hơn nếu không được thông báo trước là mình đang được đánh giá” là đúng hay sai?
+a. Sai
+b. Đúng
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 7
+
+Phát biểu nào sau đây KHÔNG đúng với định hướng đổi mới về đánh giá kết quả giáo dục môn Tin học trong chương trình GDPT 2018?
+a. Chú trọng đánh giá khả năng vận dụng tri thức vào nhưng tình huống cụ thể
+b. Đa dạng các công cụ đánh giá, kết hợp việc đánh giá của giáo viên với tự đánh giá lẫn nhau của học sinh
+c. Coi trọng kiến thức, kĩ năng, thái độ được quy định trong chương trình môn Tin học
+d. Tăng cường ứng dụng công nghệ thông tin vào đánh giá để tạo hứng thú học tập cho học sịnh
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 8
+
+Để thực hiện dạy học chủ đề: “ Tổ chức, lưu trữ, tìm kiếm và trao đổi thông tin ” giáo viên nên lựa chọn PP và KT DH tiêu biểu nào ?
+a. Dạy học theo dự án nhỏ, dạy học theo tình huống
+b. Dạy học theo dự án nhỏ, vấn đáp - tìm tòi, dạy học thực hành
+c. Các kĩ thuật dạy học tích cực, dạy học nhận dạng và thể hiện
+d. Dạy học định hướng sản phẩm, dạy học theo dự án
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 10
+
+Phương pháp "dạy học theo dự án" đặc biệt phù hợp để phát triển các nhóm năng lực chung nào sau đây?
+a. Tự chủ, tự học, ghi nhớ và tái hiện kiến thức.
+b. Năng lực thực hành nhóm, giao tiếp và hợp tác.
+c. Giao tiếp, hợp tác và cùng tư duy logic.
+d. Năng lực tự chủ, tự học, giao tiếp và hợp tác.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 11
+
+Nhằm hình thành, phát triển năng lực thành phần Nla môn Tin học cho học sinh, giáo viên nên lựa chọn phương pháp dạy học nào sau đây? (Chọn nhiều đáp án)
+a. Dạy học nhận dạng và thể hiện.
+b. Dạy học theo tình huống.
+c. Dạy học theo dự án.
+d. Dạy học thực hành.
+**➡️ Đáp án đúng: a, d**
+
+---
+
+### Câu 14
+
+Trong bối cảnh Chương trình GDPT 2018 môn Tin học có tính mở, hoạt động đánh giá cần được coi là trọng tâm trong quá trình dạy học chủ yếu bởi lí do nào?
+a. Kết quả đánh giá cung cấp cơ sở điều chỉnh dạy học, quản lí và phát triển chương trình địa phương theo hướng hiệu quả và linh hoạt.
+b. Hoạt động đánh giá tạo căn cứ để thiết kế các hình thức kiểm tra định kì, bảo đảm sự thống nhất trong phạm vi nhà trường với toàn ngành.
+c. Thông tin từ đánh giá phản ánh mức độ tiếp thu kiến thức, kĩ năng và sự tiến bộ của học sinh trong toàn bộ quá trình học tập.
+d. Đánh giá giúp nhận diện năng lực nổi trội của học sinh và định hướng các biện pháp bồi dưỡng phù hợp cho từng cá nhân.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 15
+
+Điền vào chỗ trống để hoàn thành phát biểu sau: Với các chủ đề có trọng tâm là ICT, cần coi trọng đánh giá ………...
+a. khả năng vận dụng kiến thức kỹ năng làm ra sản phẩm.
+b. phối hợp cách học sinh xử lý tình huống cụ thể với biểu hiện bên ngoài.
+c. khách quan, công bằng, không dựa trên xúc cảm cá nhân.
+d. năng lực sáng tạo và tư duy có hệ thống.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 16
+
+Theo CTGDPT 2018 môn Tin học, mục đích chính của việc 'đánh giá thường xuyên' là gì?
+a. Chẩn đoán kiến thức, kĩ năng hiện tại của học sinh và xác định năng lực tin học đang ở đâu trên trục phát triển.
+b. Đánh giá được năng lực tin học đối chiếu với mức YCCĐ của một lớp, một cấp học, hay một giai đoạn.
+c. Thu thập điểm số nhằm cung cấp bằng chứng cho quá trình học tập và hoàn thành các bài kiểm tra.
+d. Thực hiện các bài kiểm tra trên diện rộng nhằm mục đích so sánh chất lượng giáo dục giữa các trường học.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 17
+
+Những chủ đề nào sau đây đặc biệt thích hợp với tổ chức dạy học tại phòng máy tính và thực hiện phương pháp dạy học thực hành ở cấp THPT (Chọn nhiều đáp án)?
+a. Chủ đề B “Mạng máy tính và Internet”
+b. Chủ đề G “Hướng nghiệp với Tin học”
+c. Chủ đề E “Ứng dụng tin học”
+d. Chủ đề A “Máy tính và xã hội tri thức”
+**➡️ Đáp án đúng: a, c**
+
+---
+
+### Câu 24
+
+Trong chương trình GDPT 2018, đâu là mục tiêu đánh giá kết quả giáo dục? (Chọn nhiều đáp án)
+a. Gia đình theo dõi, giúp đỡ con em học tập
+b. HS tự điều chỉnh quá trình học, GV điều chỉnh hoạt động dạy
+c. Phát hiện học sinh giỏi để thi đội tuyển của trường, huyện, tỉnh, quốc gia
+d. CBQL nhà trường có giải pháp cải thiện chất lượng giáo dục
+**➡️ Đáp án đúng: a, b, d**
+
+---
+
+### Câu 26
+
+Định hướng chung về phương pháp giáo dục KHÔNG bao gồm nội dung nào sau đây?
+a. Chú trọng dạy học trực quan và thực hành.
+b. Tổ chức chuyên môn hóa các môn học.
+c. Khai thác tính đa dạng của môi trường số.
+d. Áp dụng dạy học phân hóa và theo tình huống.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 27
+
+“Hoạt động trải nghiệm” là một trong các hình thức tổ chức dạy học tiêu biểu cho bài học thuộc các chủ đề nào sau đây? (chọn 2 phương án)
+A. Mạng máy tính và xã hội tri thức.
+B. Hướng nghiệp trong Tin học.
+C. Mạng máy tính và Internet.
+D. Đạo đức, pháp luật và văn hóa trong môi trường số.
+**➡️ Đáp án đúng: B, D**
+
+---
+
+### Câu 29
+
+Chương trình giáo dục phổ thông xác định mục tiêu đánh giá kết quả giáo dục là gì? (Chọn nhiều đáp án)
+a. Cung cấp thông tin chính xác, kịp thời, có giá trị về mức độ đáp ứng yêu cầu cần đạt của chương trình và sự tiến bộ của học sinh
+b. Phát hiện học sinh giỏi để thi đội tuyển của trường, huyện, tỉnh, quốc gia
+c. Để hướng dẫn hoạt động học tập, điều chỉnh các hoạt động dạy học, quản lí và phát triển chương trình
+d. Bảo đảm sự tiến bộ của từng học sinh và nâng cao chất lượng giáo dục
+**➡️ Đáp án đúng: a, c, d**
+
+---
+
+### Câu 1
+
+“Hoạt động trải nghiệm” là một trong các hình thức tổ chức dạy học tiêu biểu cho bài học thuộc các chủ đề nào sau đây? (Chọn nhiều đáp án)
+a. Hướng nghiệp trong Tin học.
+b. Mạng máy tính và Internet.
+c. Đạo đức, pháp luật và văn hóa trong môi trường số.
+d. Mạng máy tính và xã hội tri thức.
+**➡️ Đáp án đúng: a, c**
+
+---
+
+### Câu 2
+
+Theo CTGDPT 2018 môn Tin học, việc đánh giá dựa trên căn cứ và nội dung nào? (Chọn nhiều đáp án)
+a. Chú trọng đánh giá thường xuyên, định kỳ.
+b. Kết hợp việc đánh giá của giáo viên với tự đánh giá và đánh giá đồng đẳng của HS.
+c. Các yêu cầu cần đạt về phẩm chất và năng lực.
+d. Phối hợp nhiều hình thức đánh giá.
+e. Đánh giá năng lực Tin học theo 05 thành phần: Nla, Nlb, Nlc, Nld, Nle.
+f. Góp phần đánh giá 05 phẩm chất chủ yếu và 03 năng lực chung.
+**➡️ Đáp án đúng: a, b, c, d, e, f**
+
+---
+
+### Câu 6
+
+Phương pháp dạy học nào sau đây là phù hợp để dạy nội dung thuộc chủ đề B “Mạng máy tính và Internet” và chủ đề E “Ứng dụng tin học”?
+a. Phương pháp dạy học thực hành
+b. Phương pháp dạy học nêu và giải quyết vấn đề
+c. Phương pháp dạy học hợp tác
+d. Phương pháp dạy học dự án
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 8
+
+Phương pháp dạy học phát hiện và giải quyết vấn đề là một trong những phương pháp tiêu biểu được sử dụng để hình thành và phát triển năng lực nào dưới đây?
+a. NLc
+b. NLa
+c. NLd
+d. NLe
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 18
+
+Nhằm hình thành, phát triển năng lực thành phần Nla môn Tin học cho học sinh, giáo viên nên lựa chọn phương pháp dạy học nào sau đây? (Chọn nhiều đáp án)
+a. Dạy học theo tình huống.
+b. Dạy học thực hành.
+c. Dạy học theo dự án.
+d. Dạy học nhận dạng và thể hiện.
+**➡️ Đáp án đúng: b, d**
+
+---
+
+### Câu 21
+
+Khi đánh giá các chủ đề có trọng tâm là CS thì cần chú trọng những điều gì dưới đây? (Chọn nhiều đáp án)
+a. Năng lực sáng tạo
+b. Tư duy có tính hệ thống của HS
+c. Thái độ, tình cảm, hành vi cư xử của HS
+d. Khả năng vận dụng kiến thức của HS
+**➡️ Đáp án đúng: a, b, d**
+
+---
+
+### Câu 5
+
+Các định hướng phương pháp giáo dục môn Tin học nào dưới đây là đúng? (Chọn nhiều đáp án)
+a. Khuyến khích sử dụng PPDH theo dự án để phát huy NL làm việc nhóm, NL tự học và tính chủ động của HS.
+b. Coi trong DH trực quan và hạn chế thực hành.
+c. Chú ý thực hiện DH phân hóa.
+d. Lựa chọn hình thức tổ chức DH đa dạng trong cùng một đơn vị kiến thức của bài học.
+**➡️ Đáp án đúng: a, c, d**
+
+---
+
+### Câu 12
+
+Một trong những nguyên tắc đánh giá là: “Chú trọng đánh giá vì.....của mỗi cá nhân HS.”
+a. Sự thay đổi
+b. Sự cố gắng
+c. Sư tiến bộ
+d. Sư phát triển
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 13
+
+Để phát triển tư duy máy tính cho học sinh ở cấp trung học phổ thông theo định hướng Khoa học máy tính, giáo viên nên sử dụng phương pháp nào sau đây?
+a. Phương pháp dạy học lý thuyết thuần túy mà không áp dụng thực hành
+b. Phương pháp dạy học thực hành, khuyến khích học sinh nêu và giải quyết vấn đề
+c. Phương pháp dạy học chỉ bao gồm các hoạt động nhóm mà không có yêu cầu về tư duy cá nhân
+d. Phương pháp chỉ tập trung vào việc giải quyết các bài tập đơn giản mà không liên quan đến tư duy máy tính
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 14
+
+Theo định hướng chung của chương trình môn Tin học, yếu tố nào dưới đây KHÔNG phải là trọng tâm trong phương pháp giáo dục?
+a. Chú trọng việc truyền thụ kiến thức một chiều từ giáo viên sang học sinh.
+b. Khuyến khích sử dụng phương pháp dạy học theo dự án để phát huy làm việc nhóm và tự học.
+c. Gắn nội dung kiến thức với các vấn đề thực tế, yêu cầu học sinh đề xuất giải pháp qua sản phẩm số.
+d. Áp dụng các phương pháp dạy học tích cực, coi trọng trực quan và thực hành.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 18
+
+Điểm khác biệt cơ bản giữa đánh giá thường xuyên và đánh giá định kỳ là gì?
+a. Phạm vi học sinh tham gia và nội dung môn học được lựa chọn để đánh giá.
+b. Tần suất báo cáo kết quả cho phụ huynh và học sinh.
+c. Thời điểm và mục đích sử dụng kết quả đánh giá trong dạy học.
+d. Hình thức tổ chức và số lượng công cụ kiểm tra được áp dụng trong quá trình dạy học.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 20
+
+Mục tiêu đánh giá trong chương trình môn Tin học 2018 nhấn mạnh điều gì? (Chọn nhiều đáp án)
+a. Đánh giá mức độ đáp ứng yêu cầu cần đạt của chương trình và sự tiến bộ của học sinh.
+b. Đánh giá kết quả học tập của học sinh.
+c. Đánh giá năng lực vận dụng kiến thức, kỹ năng của học sinh vào thực tiễn
+d. Đánh giá việc học sinh có làm bài tập về nhà đầy đủ hay không
+**➡️ Đáp án đúng: a, b, c**
+
+---
+
+### Câu 27
+
+Trong CTGDPT 2018, đâu là những hình thức đánh giá trong định hướng chung về đánh giá kết quả giáo dục? (Chọn nhiều đáp án)
+a. Chú trọng đánh giá thường xuyên, phối hợp nhiều hình thức đánh giá.
+b. Kết hợp việc đánh giá của giáo viên với tự đánh giá và đánh giá đồng đằng của HS.
+c. Kết hợp đánh giá quá trình với đánh giá tổng kết; đánh giá định tính với đánh giá định lượng.
+d. Đánh giá kết quả dựa trên sản phẩm cuối cùng, bài thi cuối cùng sau khi kết thúc năm học.
+**➡️ Đáp án đúng: a, b, c**
+
+---

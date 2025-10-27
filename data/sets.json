@@ -1,0 +1,32 @@
+[
+  {
+    "id": "questions1",
+    "label": "questions1.txt",
+    "file": "./data/questions1.txt"
+  },
+  {
+    "id": "questions2",
+    "label": "questions2.txt",
+    "file": "./data/questions2.txt"
+  },
+  {
+    "id": "questions3",
+    "label": "questions3.txt",
+    "file": "./data/questions3.txt"
+  },
+  {
+    "id": "questions4",
+    "label": "questions4.txt",
+    "file": "./data/questions4.txt"
+  },
+  {
+    "id": "questions5",
+    "label": "questions5.txt",
+    "file": "./data/questions5.txt"
+  },
+  {
+    "id": "questions7",
+    "label": "questions7.txt",
+    "file": "./data/questions7.txt"
+  }
+]

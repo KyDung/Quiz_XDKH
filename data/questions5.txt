@@ -1,0 +1,1657 @@
+### Câu 1
+
+Trong quá trình xây dựng kế hoạch giáo dục của tổ chuyên môn, vai trò của tổ trưởng chuyên môn là gì?
+a. Đánh giá các kế hoạch giáo dục cá nhân của giáo viên.
+b. Chịu trách nhiệm chính và tổ chức xây dựng kế hoạch.
+c. Trực tiếp xây dựng kế hoạch giáo dục cho tổ và nhà trường.
+d. Tham gia đóng góp ý kiến và hỗ trợ các giáo viên khác.
+**➡️ Đáp án đúng: b** 
+
+---
+
+### Câu 2
+
+Vai trò của giáo viên trong việc thực hiện kế hoạch giáo dục của tổ chuyên môn là gì?
+a. Tham gia vào quá trình xây dựng và thực hiện kế hoạch
+b. Giám sát học sinh thực hiện các hoạt động
+c. Cần giảng dạy theo kế hoạch
+d. Tập trung vào dạy học học sinh
+**➡️ Đáp án đúng: a** 
+
+---
+
+### Câu 3
+
+Yếu tố nào sau đây KHÔNG phải là thành phần bắt buộc trong một kế hoạch giáo dục tổ chuyên môn?
+a. Ngân sách thực hiện.
+b. Nội dung giảng dạy.
+c. Mục tiêu cụ thể.
+d. Phương pháp giảng dạy.
+**➡️ Đáp án đúng: a**  
+
+---
+
+### Câu 4
+Kế hoạch giáo dục của tổ chuyên môn bao gồm các thành phần nào dưới đây?
+a. Kế hoạch dạy học môn học và kế hoạch bồi dưỡng học sinh giỏi.
+b. Kế hoạch sinh hoạt chuyên đề và kế hoạch tổ chức hoạt động trải nghiệm.
+c. Kế hoạch dạy học môn học và kế hoạch tổ chức hoạt động giáo dục.
+d. Kế hoạch giảng dạy cá nhân và kế hoạch tổ chức hoạt động hướng nghiệp.
+**➡️ Đáp án đúng: c** 
+
+---
+
+### Câu 5
+
+Trong quá trình xây dựng kế hoạch giáo dục của tổ Tin học, tổ trưởng nhận thấy thiết bị dạy học phục vụ cho một số chủ đề lập trình không còn hoạt động tốt, nếu giữ nguyên kế hoạch cũ sẽ khó đảm bảo yêu cầu cần đạt. Để kế hoạch khả thi và hiệu quả nhất, tổ chuyên môn nên thực hiện bước nào dưới đây?
+a. Giữ nguyên kế hoạch cũ để đảm bảo tiến độ năm học, đồng thời cấp thiết bổ sung thiết bị phục vụ cho các tiết học có nội dung thực hành.
+b. Báo cáo Hiệu trưởng và điều chỉnh lại nội dung, thời lượng các bài học liên quan, đồng thời xác định phương án thay thế thiết bị phù hợp.
+c. Điều chỉnh lại nội dung dạy học, thời lượng các bài học liên quan đồng thời học sinh tự học, tự nghiên cứu các nội dung bài học tại nhà.
+d. Thay đổi kế hoạch dạy học phù hợp để đảm bảo tiến độ năm học, đồng thời hướng dẫn học sinh thực hành tại nhà thông qua video hướng dẫn.
+**➡️ Đáp án đúng: b**  
+
+---
+
+### Câu 6
+
+Điền vào chỗ trống: “Số tiết của mỗi bài học phụ thuộc vào nhiều yếu tố, quan trọng nhất là số lượng …(1)... và …(2)... trong mỗi yêu cầu.”
+a. (1) - mức độ cần đạt; (2) - mục tiêu cần đạt
+b. (1) - nội dung cần đạt; (2) - mục tiêu cần đạt.
+c. (1) - yêu cầu cần đạt; (2) - mức độ cần đạt.
+d. (1) - nội dung cần đạt; (2) - mức độ cần đạt.
+**➡️ Đáp án đúng: c**  
+
+---
+
+### Câu 7
+
+Kế hoạch giáo dục của tổ chuyên môn là gì?
+a. Là bản dự kiến kế hoạch triển khai tất cả các hoạt động của tổ chuyên môn trong một năm học, nhằm thực hiện những mục tiêu phát triển của tổ chuyên môn và của nhà trường, bảo đảm yêu cầu thực hiện CTGDPT.
+b. Là bản dự kiến kế hoạch triển khai tất cả các hoạt động của tổ chuyên môn trong một năm học, nhằm thực hiện những mục tiêu phát triển của tổ chuyên môn, bảo đảm yêu cầu thực hiện CTGDPT.
+c. Là bản dự kiến kế hoạch triển khai tất cả các hoạt động của tổ chuyên môn trong một khoảng thời gian học kéo dài nhiều năm, nhằm thực hiện những mục tiêu phát triển của của nhà trường, bảo đảm yêu cầu thực hiện CTGDPT.
+d. Là hoạt động thiết kế các hoạt động của tổ chuyên môn trong một năm học, nhằm thực hiện những mục tiêu phát triển của tổ chuyên môn và của nhà trường, bảo đảm yêu cầu thực hiện CTGDPT.
+**➡️ Đáp án đúng: a** 
+
+---
+
+### Câu 8
+
+Một trường THPT có nhiều giáo viên lớn tuổi, ít tiếp xúc với công nghệ mới, trong khi Chương trình GDPT 2018 môn Tin học lại nhấn mạnh việc ứng dụng công nghệ thông tin. Khi xây dựng Kế hoạch giáo dục của tổ Tin học, Tổ trưởng cần ưu tiên giải pháp nào để đảm bảo "tính khả thi" và hiệu quả tổng thể?
+a. Đánh giá năng lực thực tế của giáo viên, sắp xếp nhiệm vụ hợp lý và kết hợp bồi dưỡng, hỗ trợ để bảo đảm thực hiện hiệu quả kế hoạch của tổ.
+b. Phân công nhiệm vụ dựa trên năng lực từng thành viên, giao nội dung đòi hỏi kỹ năng cao cho giáo viên có kinh nghiệm sử dụng công nghệ tốt hơn.
+c. Trao đổi với Ban giám hiệu để tổ chức các hoạt động tập huấn, hướng dẫn giáo viên lớn tuổi từng bước tiếp cận và sử dụng công nghệ trong dạy học.
+d. Điều chỉnh mức độ yêu cầu của các nội dung có yếu tố công nghệ, lựa chọn hoạt động phù hợp với năng lực hiện có của đội ngũ giáo viên.
+**➡️ Đáp án đúng: a** 
+
+---
+
+### Câu 9
+
+Sắp xếp đúng thứ tự các bước dưới đây trong việc xây dựng và thực hiện kế hoạch giáo dục của tổ chuyên môn: 1. Phân tích đặc điểm tình hình; 2.Xây dựng kế hoạch tổ chức các hoạt động giáo dục; 3.Xây dựng kế hoạch dạy học; 4. Rà soát hoàn thiện dự thảo và thông qua tổ chuyên môn.
+
+a. 1, 3, 2, 4.
+b. 3, 2, 4, 1.
+c. 1, 4, 3, 2.
+d. 3, 1, 2, 4.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 10
+
+Những biểu hiện nào dưới đây thể hiện được việc đáp ứng yêu cầu đảm bảo tính khả thi trong xây dựng kế hoạch giáo dục của tổ chuyên môn? (Chọn nhiều đáp án)
+
+a. Linh động trong những trường hợp cần thiết để thực hiện kế hoạch một cách hiệu quả, phù hợp với tình hình thực tế
+b. Chú trọng và tính đến sự phân hóa của các yếu tố liên quan để xây dựng kế hoạch
+c. Phân tích đặc điểm tình hình của tổ chuyên môn và của nhà trường
+d. Cần được xây dựng dựa trên các căn cứ pháp lý cụ thể và các kế hoạch cấp cao
+**➡️ Đáp án đúng: a, b, c**
+
+---
+
+### Câu 11
+
+Việc xây dựng kế hoạch dạy học và kế hoạch giáo dục của tổ chuyên môn còn thể hiện những ý nghĩa nào sau đây? (Chọn nhiều đáp án)
+
+a. Đối với việc triển khai thực hiện chương trình, kế hoạch của tổ chuyên môn giúp bảo đảm tính đạo đức.
+b. Đối với công tác quản lí, giúp bảo đảm tính thống nhất giữa các tổ chuyên môn trong thực hiện kế hoạch giáo dục.
+c. Đối với công tác quản lí, giúp bảo đảm tính sư phạm giữa các tổ chuyên môn trong thực hiện kế hoạch giáo dục.
+d. Đối với việc triển khai thực hiện chương trình, là một căn cứ quan trọng để phân công nhiệm vụ cho GV tổ bộ môn.
+**➡️ Đáp án đúng: b, d**
+
+---
+
+### Câu 12
+
+Bước đầu tiên trong quy trình xây dựng kế hoạch giáo dục của tổ chuyên môn là gì?
+
+a. Xây dựng mục tiêu giáo dục
+b. Lập danh sách các hoạt động giáo dục
+c. Đánh giá kết quả hoạt động
+d. Phân tích đặc điểm tình hình
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 13
+
+Tổ chuyên môn Tin học có hai giáo viên trẻ mới ra trường, rất năng động song còn thiếu kinh nghiệm trong việc dẫn dắt học sinh thực hiện các dự án tích hợp theo định hướng STEM. Kế hoạch năm học của nhà trường yêu cầu mỗi tổ phải triển khai một dự án STEM đổi mới. Với vai trò Tổ trưởng, để đảm bảo dự án không chỉ thành công mà còn phát triển năng lực bền vững cho giáo viên mới, hành động nào thể hiện tầm nhìn và chiến lược tối ưu nhất?
+
+a. Báo cáo Ban Giám hiệu về hạn chế kinh nghiệm đội ngũ giáo viên mới, đề xuất tạm hoãn hoặc giản lược yêu cầu dự án STEM hiện tại.
+b. Khuyến khích hai giáo viên mới tự chủ nghiên cứu, lên kế hoạch và thực hiện dự án độc lập nhằm rèn luyện sự tự tin, tự chủ.
+c. Phân công toàn bộ dự án STEM cho các giáo viên lâu năm, yêu cầu giáo viên mới hỗ trợ khâu đơn giản và làm quen quy trình.
+d. Bồi dưỡng phương pháp STEM, kèm cặp trực tiếp giáo viên mới, cùng họ thực hiện dự án thí điểm và sinh hoạt chuyên môn rút kinh nghiệm.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 14
+
+Trong việc xây dựng phân phối chương trình, đâu là điều tổ chuyên môn KHÔNG cần chú ý để đảm bảo tính hợp lý và khả thi cho việc thực hiện CTGDPT môn Tin học?
+
+a. Phân tích đặc điểm học sinh và các yếu tố tổ chức dạy học để xác định thời lượng và nội dung giảng dạy phù hợp.
+b. Liệt kê các YCCĐ tương ứng với các bài học đã xác định dựa vào CTGDPT.
+c. Xác định thời gian giảng dạy dựa trên kinh nghiệm cá nhân của từng giáo viên.
+d. Căn cứ vào yêu cầu chương trình cùng với việc xem xét điều kiện thực tế của nhà trường.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 15
+
+Ai sẽ là người phê duyệt kế hoạch giáo dục của tổ chuyên môn Tin học?
+
+a. Hiệu trưởng.
+b. Tổ trưởng tổ chuyên môn.
+c. Ban giám hiệu.
+d. Giáo viên bộ môn.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 16
+
+Kế hoạch giáo dục của tổ chuyên môn có vai trò định hướng cho giáo viên xây dựng kế hoạch cá nhân như thế nào?
+
+a. Là tài liệu giúp giáo viên thuận tiện trong việc bố trí thời gian giảng dạy, nhưng không ảnh hưởng đến việc lựa chọn nội dung bài học
+b. Công cụ chủ yếu để tổ chuyên môn lập kế hoạch kiểm tra, đánh giá kết quả học tập của học sinh trong xuyên suốt thời gian dạy học.
+c. Khung tham khảo giúp các giáo viên trong tổ thống nhất về định hướng chung, song vẫn cần linh hoạt khi áp dụng vào thực tế.
+d. Căn cứ để giáo viên xác định mục tiêu, nội dung và tiến độ dạy học, đồng thời điều chỉnh phù hợp với đặc điểm học sinh của lớp mình.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 17
+
+Trong bản kế hoạch dạy học khối 11, một số chủ đề nâng cao được bố trí trước khi học sinh học xong các phần kiến thức cơ bản; đồng thời lịch kiểm tra giữa kì lại diễn ra khi chưa hoàn tất toàn bộ nội dung nền tảng, để bảo đảm tính logic và sự phù hợp với tiến trình, tổ chuyên môn nên làm gì?
+
+a. Mỗi giáo viên tự linh hoạt lồng ghép phần cơ bản khi dạy nội dung nâng cao và vẫn tổ chức kiểm tra như kế hoạch cũ.
+b. Giữ nguyên bố cục hiện tại, bổ sung chuyên đề ôn tập hỗ trợ để học sinh nắm chắc phần cơ bản trước khi kiểm tra.
+c. Sắp xếp lại thứ tự của các chủ đề từ cơ bản đến nâng cao và đồng thời điều chỉnh lại lịch kiểm tra theo tiến độ thực tế.
+d. Thay đổi thời điểm kiểm tra muộn hơn một chút, còn thứ tự chủ đề thì giữ nguyên để tránh xáo trộn kế hoạch tổng thể.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 18
+
+Khi xây dựng kế hoạch dạy học, yếu tố nào cần được quan tâm đặc biệt?
+
+a. Đảm bảo có đủ giáo viên dạy các lớp
+b. Cần đảm bảo đủ số lượng bài kiểm tra
+c. Cần quan tâm đến những môn học bắt buộc
+d. Đảm bảo thời lượng chương trình phù hợp
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 19
+
+Việc giáo viên tham gia xây dựng KHGD của tổ chuyên môn có ý nghĩa gì?
+
+a. Tạo cơ sở để giáo viên chủ động triển khai kế hoạch cá nhân và bài dạy theo hướng dẫn chung.
+b. Đảm bảo kế hoạch có tính thống nhất và đồng thuận, phù hợp mục tiêu chung của tổ.
+c. Giúp nâng cao khả năng phối hợp giữa giáo viên và cán bộ quản lý trong tổ chức thực hiện.
+d. Góp phần hoàn thiện nội dung chương trình và nâng cao chất lượng hoạt động giáo dục.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 20
+
+Khi khẳng định Kế hoạch giáo dục của tổ chuyên môn là "một nhịp cầu nối giữa mục tiêu chung của chương trình với các bài học cụ thể của GV", điều này nhấn mạnh vai trò nào của kế hoạch nhất?
+
+a. Đảm bảo sự công bằng giữa các học sinh đều phát triền hài hoà năng lực và phẩm chất.
+b. Cụ thể hóa các yêu cầu cần đạt của chương trình tổng thể thành nhiệm vụ dạy học chi tiết.
+c. Đảm bảo thống nhất giữa phương pháp giảng dạy với yêu cầu cần đạt của chương trình.
+d. Là cơ sở để Ban Giám hiệu theo dõi, giám sát và đánh giá hoạt động của tổ chuyên môn.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 21
+
+Trong quá trình thực hiện kế hoạch giáo dục của tổ chuyên môn, một lớp học thường xuyên bị trùng lịch hoạt động ngoại khóa khiến tiến độ giảng dạy bị chậm. Là giáo viên trong tổ, bạn nên chọn cách xử lý nào sau đây để vừa đảm bảo kế hoạch chung, vừa phù hợp với tình hình thực tế?
+
+a. Thông tin lên Ban giám hiệu để nhận chỉ đạo điều chỉnh kế hoạch phù hợp với tình hình.
+b. Điều chỉnh thời khóa biểu cho lớp mình và triển khai dạy bù vào những tiết trống để đảm bảo nội dung.
+c. Báo cáo với tổ trưởng, cùng trao đổi để điều chỉnh lịch dạy và cập nhật vào kế hoạch giảng dạy cá nhân.
+d. Giữ nguyên tiến độ ban đầu, sau đó tổ chức bổ sung các buổi học tăng cường vào cuối kỳ để kịp chương trình.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 22
+
+Khi xây dựng kế hoạch giáo dục của tổ chuyên môn, việc phân tích đặc điểm học sinh, tình hình đội ngũ, thiết bị dạy học là nhằm đáp ứng yêu cầu nào?
+
+a. Tính logic.
+b. Tính linh hoạt.
+c. Tính pháp lý.
+d. Tính khả thi.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 23
+
+Khi xây dựng kế hoạch giáo dục của tổ chuyên môn, yếu tố nào sau đây giúp đảm bảo rằng kế hoạch được thực hiện theo nguyên tắc cụ thể hóa và linh hoạt của Chương trình giáo dục phổ thông (CTGDPT)?
+
+a. Sự thay đổi tình hình thực tiễn và điều chỉnh kế hoạch kịp thời.
+b. Dựa trên các căn cứ pháp lý và các kế hoạch cấp cao hơn.
+c. Đảm bảo sự thống nhất trong và giữa các môn học.
+d. Sự phân tích đặc điểm tình hình của tổ chuyên môn và nhà trường.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 24
+
+Đâu KHÔNG phải mục tiêu chính của việc xây dung kế hoạch giáo dục cho tổ chuyên môn?
+
+a. Nâng cao cơ sở vật chất của nhà trường.
+b. Nâng cao chất lượng giảng dạy của giáo viên.
+c. Đảm bảo sự thống nhất trong việc thực hiện chương trình giáo dục.
+d. Đánh giá kết quả học tập của học sinh.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 26
+
+Khi xây dựng kế hoạch giáo dục của tổ chuyên môn cần phải dựa vào tài liệu nào sau đây để xây dựng kế hoạch?
+
+a. Sách giáo khoa của môn học
+b. Kế hoạch năm học của trường
+c. Các báo cáo của các tổ chuyên môn
+d. Đánh giá của học sinh về giáo viên
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 27
+
+Vai trò của các giáo viên trong tổ (không phải tổ trưởng) khi xây dựng kế hoạch giáo dục của tổ chuyên môn là gì?
+
+a. Xây dựng kế hoạch theo cá nhân sau đó trình kế hoạch với tổ sau đó nhận góp ý bổ sung từ tổ trưởng.
+b. Thực hiện một cách hợp lý, đúng đắn kế hoạch ngay sau khi được tổ trưởng phân công.
+c. Thực hiện, đồng thời giúp đỡ việc xây dựng kế hoạch của của các thành viên trong tổ.
+d. Tham gia đóng góp ý kiến hoặc trực tiếp xây dựng một phần kế hoạch dưới sự phân công của tổ trưởng.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 28
+
+Kế hoạch giáo dục của tổ chuyên môn sẽ do ai/bộ phận nào phê duyệt và công bố như một phần của kế hoạch giáo dục nhà trường?
+
+a. Tổ trưởng tổ chuyên môn
+b. Thanh tra của Sở GD&ĐT
+c. Hiệu trưởng nhà trường
+d. Trưởng Phòng Đào tạo
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 29
+
+Kế hoạch giáo dục của tổ chuyên môn bao gồm các loại nào dưới đây? (Chọn nhiều đáp án)
+
+a. Kế hoạch dạy học của tổ chuyên môn.
+b. Kế hoạch trải nghiệm của tổ chuyên môn.
+c. Kế hoạch tổ chức các hoạt động giáo dục của tổ chuyên môn.
+d. Kế hoạch bài dạy của tổ chuyên môn.
+**➡️ Đáp án đúng: a, c**
+
+---
+
+### Câu 30
+
+Ý nghĩa của việc xây dựng kế hoạch giáo dục của tổ chuyên môn đối với công tác quản lý là gì? (Chọn nhiều đáp án)
+
+a. Là cơ sở để Tổ trưởng chuyên môn, Hiệu trưởng nhà trường theo dõi, đôn đốc thực hiện cũng như phát triển các khung đánh giá kết quả học tập của học sinh.
+b. Nhằm đảm bảo tốt việc thực hiện kế hoạch giáo dục của nhà trường.
+c. Giúp bảo đảm tính thống nhất giữa các tổ chuyên môn trong thực hiện kế hoạch giáo dục của nhà trường trong năm học.
+d. Giúp bảo đảm tính dân chủ giữa các tổ chuyên môn trong thực hiện kế hoạch giáo dục của nhà trường trong năm học.
+e. Giúp xác định chỉ tiêu tuyển sinh năm tiếp theo của nhà trường.
+f. Là cơ sở để Tổ trưởng chuyên môn, Hiệu trưởng nhà trường theo dõi, đôn đốc thực hiện cũng như đánh giá việc thực hiện công tác trong năm học nhằm đảm bảo thực hiện hiệu quả các công việc đã đề ra.
+**➡️ Đáp án đúng: c, f**
+
+---
+
+
+### Câu 2
+
+Tổ Tin học có 2 giáo viên, phụ trách 6 lớp, mỗi lớp 35 học sinh. Phòng máy hiện có 20 máy tính. Giải pháp nào khả thi nhất để đảm bảo học sinh vẫn đạt yêu cầu cần đạt về thực hành?
+
+a. Tổ chức cho 2 học sinh sử dụng chung một máy tính, đồng thời thiết kế bài tập theo hướng phân vai để cả hai đều có cơ hội thao tác.
+b. Lên kế hoạch mượn thêm phòng máy của bộ môn khác hoặc bố trí lịch ngoài giờ, đảm bảo mỗi học sinh có máy khi làm bài thực hành chính.
+c. Chia lớp thành các nhóm luân phiên, kết hợp cho nhóm ngoài máy thực hiện hoạt động mô phỏng, thảo luận hoặc chuẩn bị bài tập.
+d. Bổ sung một phần tiết thực hành bằng hoạt động ngoại tuyến (giấy bút, mô phỏng), nhưng vẫn giữ nguyên yêu cầu đầu ra của chương trình.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 3
+
+Tại sao mỗi giáo viên trong tổ chuyên môn cần tham gia vào việc xây dựng kế hoạch giáo dục của tổ?
+
+a. Để đảm bảo kế hoạch có sự đồng thuận và thống nhất cao giữa các thành viên.
+b. Để tổ chức và phân công nhiệm vụ cho các giáo viên khác trong tổ.
+c. Để có thể giám sát và kiểm tra quá trình thực hiện kế hoạch của tổ.
+d. Để thể hiện trách nhiệm cá nhân đối với việc thực hiện kế hoạch chung.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 4
+
+Kế hoạch giáo dục của tổ chuyên môn có ý nghĩa gì đối với giáo viên?
+
+a. Cơ sở để tổ trưởng phân công nhiệm vụ giảng dạy và các hoạt động giáo dục cho giáo viên.
+b. Là lộ trình công việc rõ ràng để giáo viên theo dõi tiến độ cá nhân và thực hiện nhiệm vụ được giao.
+c. Giúp giáo viên định vị được nội dung bài dạy của mình, đảm bảo tính kết nối với các thành viên trong tổ.
+d. Là căn cứ để giáo viên xây dựng kế hoạch dạy học cá nhân và kế hoạch bài dạy chi tiết.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 5
+
+Mục nào sau đây KHÔNG có trong khung kế hoạch dạy học của tổ chuyên môn?
+
+a. Mục tiêu giáo dục năm học
+b. Phân phối chương trình
+c. Đặc điểm tình hình đội ngũ giáo viên và thiết bị dạy học
+d. Kế hoạch kiểm tra, đánh giá định kỳ
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 7
+
+Hãy điền vào chỗ trống:“Căn cứ vào kế hoạch thời gian năm học do Ủy ban nhân dân tỉnh, thành phố trực thuộc Trung ương quyết định và hướng dẫn nhiệm vụ giáo dục trung học hằng năm của Sở GD&ĐT, Hiệu trưởng nhà trường tổ chức họp các thành phần liên quan để xây dựng khung kế hoạch thời gian thực hiện chương trình của từng môn học bắt buộc, môn học tự chọn, hoạt động giáo dục bắt buộc, nội dung giáo dục địa phương bảo đảm tổng số tiết/năm học quy định trong chương trình. Yêu cầu khi xây dựng cần (1) ………….., phân tích (2) ……… để thực hiện chương trình, xác định (3)………., từ đó xây dựng (4) ………….”
+
+a. (1)Tìm hiểu chương trình GDPT 2018; (2) tình hình giáo viên trong trường; (3) mục tiêu giáo dục của nhà trường; (4) phân phối thời gian thực hiện môn học
+b. (1)Xác định căn cứ pháp lý; (2) tình hình giáo viên trong trường; (3) mục tiêu giáo dục của nhà trường; (4) phân phối thời gian thực hiện môn học
+c. (1)Tìm hiểu chương trình GDPT 2018; (2) điều kiện thực tiễn nhà trường ; (3) thành phần thực hiện chương trình; (4) khung thời gian thực hiện chương trình
+d. (1)Tìm hiểu chương trình GDPT 2018; (2) điều kiện thực tiễn nhà trường; (3) mục tiêu giáo dục của nhà trường; (4) khung thời gian thực hiện chương trình
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 8
+
+Ai là người trực tiếp tham gia xây dựng và thực hiện kế hoạch giáo dục tổ chuyên môn?
+
+a. Tất cả giáo viên trong tổ.
+b. Ban giám hiệu nhà trường
+c. Tổ trưởng.
+d. Hiệu trưởng.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 9
+
+Khi xây dựng kế hoạch giáo dục của tổ chuyên môn cần đảm bảo những yêu cầu nào?
+
+a. Tính pháp lý, tính khả thi, tính logic, tính đa chiều.
+b. Tính pháp lý, tính đồng bộ, tính khả thi, tính linh hoạt.
+c. Tính pháp lý, tính khoa học, tính khả thi, tính linh hoạt.
+d. Tính pháp lý, tính khả thi, tính logic, tính linh hoạt.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 10
+
+Quy trình xây dựng kế hoạch giáo dục của tổ chuyên môn KHÔNG THỂ tuân theo một quy trình tuyến tính cứng nhắc vì:
+
+a. Nội dung kế hoạch chịu sự chi phối đồng thời từ kế hoạch nhà trường, các tổ chuyên môn khác và các quy định pháp lý.
+b. Việc lập kế hoạch đòi hỏi có sự trao đổi, bàn luận xen kẽ giữa các thành viên và sự điều chỉnh dựa trên mối liên hệ ngược.
+c. Quy trình soạn thảo cần tiến hành theo nhiều bước song song thay vì tuần tự, trong đó có bước rà soát và lấy ý kiến góp ý.
+d. Quá trình xây dựng gắn với nhiều yếu tố khác nhau và thường xuyên phải cân nhắc điều kiện thực tế của nhà trường.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 11
+
+Tiêu chí nào là quan trọng nhất được đặt ra để đánh giá sự thành công của kế hoạch giáo dục?
+
+a. Sự phối hợp của các bên liên quan
+b. Chất lượng giảng dạy
+c. Đạt được mục tiêu giáo dục
+d. Tính linh hoạt của kế hoạch
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 12
+
+Kế hoạch giáo dục của tổ chuyên môn giúp giáo viên làm gì trong quá trình triển khai thực hiện chương trình ?
+
+a. Tạo điều kiện để giáo viên tham gia các hoạt động nghiên cứu khoa học, ứng dụng công nghệ thông tin vào giảng dạy.
+b. Cung cấp cơ sở để giáo viên triển khai kế hoạch cá nhân và kế hoạch bài dạy
+c. Định hướng việc đổi mới phương pháp và hình thức tổ chức dạy học, đáp ứng nhu cầu của người học.
+d. Phát triển kỹ năng sư phạm, nâng cao năng lực chuyên môn nghiệp vụ của giáo viên.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 13
+
+Giữa học kỳ I, tổ chuyên môn phát hiện tiến độ phân phối chương trình giữa các lớp chênh lệch hơn 2 tuần do đặc điểm học sinh đầu vào khác nhau. Nếu là tổ trưởng chuyên môn bạn sẽ chọn giải pháp nào?
+
+a. Đề xuất tổ chức thêm tiết phụ đạo, hỗ trợ học tập cho lớp chậm, giúp bổ sung kiến thức mà không cần thay đổi kế hoạch chung đã ban hành.
+b. Cho phép giáo viên tự điều chỉnh tiến độ theo năng lực học sinh từng lớp, nhưng vẫn đảm bảo thực tế dạy học phù hợp, hiệu quả theo kế hoạch chung.
+c. Tổ chức họp chuyên môn để rà soát nguyên nhân, thống nhất phương án điều chỉnh phân phối chương trình và báo cáo hiệu trưởng xem xét, phê duyệt.
+d. Yêu cầu giáo viên chủ động, linh hoạt dạy bù hoặc tăng tốc độ giảng dạy để kịp tiến độ, sau đó tổng hợp và báo cáo tình hình với nhà trường.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 15
+
+Sau khi được rà soát và hoàn thiện, ai là người có đủ thẩm quyền phê duyệt kế hoạch giáo dục của tổ chuyên môn để chính thức đưa vào thực hiện?
+
+a. Tổ trưởng tổ chuyên môn.
+b. Trưởng phòng GD & ĐT.
+c. Giáo viên bộ môn.
+d. Hiệu trưởng nhà trường.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 16
+
+Kế hoạch giáo dục của tổ chuyên môn không phải là một kế hoạch cứng nhắc vì lý do nào?
+
+a. Đảm bảo tính thống nhất trong các hoạt động giáo dục của nhà trường.
+b. Dựa trên sự hướng dẫn của sở GD&ĐT và nhà trường.
+c. Có thể điều chỉnh khi có thay đổi từ tình hình thực tế.
+d. Được xây dựng dựa trên phân tích tình hình thực tiễn của tổ chuyên môn.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 17
+
+Sự linh hoạt trong kế hoạch giáo dục của tổ chuyên môn được thể hiện như thế nào? (Câu hỏi chọn nhiều đáp án)
+
+A. Hoạt động được sắp xếp lại cho phù hợp với điều kiện dạy học của nhà trường.
+B. Một số nội dung được giản lược để việc thực hiện trở nên gọn nhẹ, hiệu quả hơn.
+C. Giáo viên triển khai linh động khi xây dựng thành kế hoạch cá nhân và bài dạy.
+D. Nội dung và thời gian thực hiện được điều chỉnh phù hợp khi tình hình thay đổi.
+**➡️ Đáp án đúng: A, C, D**
+
+---
+
+### Câu 18
+
+Tình huống: Trong quá trình thực hiện kế hoạch giáo dục, tổ Tin học đối mặt với ba thay đổi đột ngột:
+
+* Thời lượng học kỳ II bị rút ngắn.
+* Phải bổ sung một chuyên đề mới theo chỉ đạo của Sở GD&ĐT.
+* Học sinh khối 12 cần ưu tiên tối đa cho việc ôn tập thi tốt nghiệp.
+
+Câu hỏi: Tổ chuyên môn cần vận dụng các nguyên tắc xây dựng kế hoạch như thế nào để đưa ra giải pháp điều chỉnh tối ưu nhất?
+
+A. Áp dụng giải pháp công bằng: giảm đều một phần thời lượng của tất cả các chủ đề hiện có để chia sẻ cho chuyên đề mới và thời gian ôn tập.
+B. Đảm bảo quyền lợi khối 12: giữ nguyên kế hoạch khối 10, 11 nhưng dạy với nhịp độ nhanh hơn, dùng thời gian tiết kiệm được để tăng cường ôn tập cho khối 12.
+C. Ưu tiên cắt bỏ một số nội dung không cần thiết trong chương trình để có đủ thời lượng dạy chuyên đề của Sở, thời gian còn lại dồn để ôn thi.
+D. Rà soát tổng thể: tinh giản các nội dung không cốt lõi, tích hợp các bài học tương đồng, bố trí chuyên đề mới và ưu tiên thời gian ôn tập trọng tâm cho khối 12.
+**➡️ Đáp án đúng: D**
+
+---
+
+### Câu 19
+
+Nội dung nào sau đây KHÔNG thuộc phần phân tích đặc điểm tình hình trong quy trình xây dựng kế hoạch?
+
+a. Kế hoạch huy động các nguồn lực xã hội phục vụ hoạt động dạy học và giáo dục.
+b. Chất lượng giáo viên trong tổ về số lượng, trình độ và chuẩn nghề nghiệp.
+c. Thiết bị dạy học và các phòng học bộ môn có thể sử dụng trong năm.
+d. Số lượng học sinh của từng khối lớp và số học sinh học chuyên đề lựa chọn.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 20
+
+Khi xây dựng kế hoạch giáo dục của tổ chuyên môn cần thực hiện những yêu cầu nào dưới đây? (Chọn nhiều đáp án)
+
+a. Chú trọng đến sự thống nhất với các môn học và hoạt động giáo dục khác
+b. Dựa trên việc phân tích đặc điểm tình hình của tổ chuyên môn và của nhà trường
+c. Đảm bảo sự tham gia tích cực của học sinh
+d. Xây dựng dựa trên các căn cứ pháp lý cụ thể và các kế hoạch cấp cao hơn
+**➡️ Đáp án đúng: a, b, d**
+
+---
+
+### Câu 21
+
+Tổ chuyên môn Tin học của một trường THPT có 6 giáo viên (GV), trong đó 1 GV sắp nghỉ hưu, 2 GV mới ra trường, và 3 GV có kinh nghiệm. Khi xây dựng kế hoạch dạy học cho các khối lớp, Tổ trưởng cần ưu tiên phân công chuyên đề dạy học lựa chọn (105 tiết/năm) như thế nào để đảm bảo tính khả thi và hiệu quả?
+
+a. Cho giáo viên sắp nghỉ hưu dạy chuyên đề lớp 10, đồng thời chia đều GV trẻ và GV có kinh nghiệm dạy chuyên đề lớp 11,12.
+b. Giao các chuyên đề mới, khó và các chuyên đề lớp 12 cho GV có kinh nghiệm, đồng thời tăng cường dự giờ, hỗ trợ GV trẻ.
+c. Ưu tiên phân công các chuyên đề mới cho GV mới ra trường để tạo điều kiện cọ xát, đồng thời đánh giá được năng lực chuyên môn thực tế của GV trẻ.
+d. Căn cứ vào tổng thời lượng (số tiết) dạy học môn học của các khối lớp để phân công và đảm bảo số tiết/tuần phù hợp định mức.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 22
+
+Đâu là các nội dung thuộc khung phân phối chương trình kế hoạch dạy học của tổ chuyên môn? (Chọn nhiều đáp án)
+
+a. Số tiết
+b. Bài học
+c. Yêu cầu cần đạt
+d. Kiểm tra đánh giá
+e. Thời điểm
+**➡️ Đáp án đúng: a, b, c, e**
+
+---
+
+### Câu 23
+
+Ý nghĩa của kế hoạch giáo dục tổ chuyên môn đối với việc triển khai chương trình là gì?
+
+a. Kế hoạch tổng thể chỉ đạo toàn bộ hoạt động giáo dục trong năm học.
+b. Căn cứ để giáo viên xây dựng kế hoạch cá nhân và bài giảng phù hợp.
+c. Cơ sở tổ chức các hoạt động kiểm tra, đánh giá và sinh hoạt chuyên môn định kỳ.
+d. Tài liệu giúp nhà trường giám sát và kiểm tra hoạt động giảng dạy của tổ.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 25
+
+Khi xây dựng kế hoạch các bài kiểm tra đánh giá định kỳ cho HS, người GV cần đánh giá với các nội dung cụ thể nào sau đây? (Chọn nhiều đáp án)
+
+a. Hình thức thực hiện bài kiểm tra, đánh giá.
+b. Thiết bị hỗ trợ và địa điểm để tổ chức bài kiểm tra, đánh giá.
+c. Thời điểm thực hiện bài kiểm tra, đánh giá (tuần thứ, năm, tháng)
+d. Thời gian làm bài cụ thể cho từng bài kiểm tra.
+e. YCCĐ (Mức độ cần đạt của HS đến thời điểm kiểm tra, đánh giá theo phân phối chương trình).
+**➡️ Đáp án đúng: a, b, c, d, e**
+
+---
+
+### Câu 27
+
+Kế hoạch giáo dục của tổ chuyên môn có ý nghĩa như thế nào đối với công tác quản lý của nhà trường?
+
+a. Căn cứ để tổ chức, chỉ đạo và kiểm tra các hoạt động giáo dục.
+b. Công cụ định hướng để học sinh xây dựng kế hoạch học tập cá nhân.
+c. Giúp giáo viên lựa chọn phương pháp và chuẩn bị bài dạy phù hợp.
+d. Cơ sở để phụ huynh nắm rõ chương trình, phối hợp cùng nhà trường.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 28
+
+Kế hoạch giáo dục của tổ chuyên môn Tin học được ví như “nhịp cầu nối” giữa mục tiêu chương trình với bài học cụ thể vì lý do trực tiếp nào sau đây?
+
+a. Làm cơ sở để giáo viên cụ thể hóa thành kế hoạch giảng dạy và bài học.
+b. Giúp theo dõi tiến trình thực hiện và điều chỉnh hoạt động kịp thời.
+c. Thể hiện định hướng phát triển chung của tổ và mục tiêu của nhà trường.
+d. Góp phần tạo sự đồng bộ trong tổ chức hoạt động dạy học của nhà trường.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 29
+
+Số lượng học sinh học chuyên đề lựa chọn được thống kê dựa trên căn cứ nào?
+
+a. Quyết định phân công của Hiệu trưởng.
+b. Khả năng cơ sở vật chất của nhà trường.
+c. Đề xuất từ giáo viên chủ nhiệm các lớp.
+d. Kết quả đăng ký của học sinh.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 30
+
+Ý nào sau đây KHÔNG phải là vai trò của giáo viên trong việc thực hiện kế hoạch giáo dục của tổ chuyên môn?
+
+a. GV chỉ cần nắm rõ các công việc và nhiệm vụ đặt ra trong kế hoạch mà không cần thực hiện theo đúng lịch trình.
+b. GV cần nắm rõ các công việc và nhiệm vụ đặt ra trong kế hoạch để thực hiện theo đúng lịch trình.
+c. Mỗi GV có thể cụ thể hóa kế hoạch của tổ chuyên môn thành kế hoạch cá nhân chi tiết để thực hiện các nhiệm vụ một cách hiệu quả.
+d. Nếu GV là tổ trưởng chuyên môn còn phải theo dõi, kiểm tra việc thực hiện các kế hoạch để đảm bảo các nhiệm vụ được thực hiện.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 1
+
+Khi xây dựng kế hoạch giáo dục, điều gì cần được chú trọng?
+
+a. Tính linh hoạt và tính thống nhất
+b. Tính ổn định
+c. Tập trung vào lý thuyết bài dạy
+d. Đảm bảo tất cả các môn học đều được đánh giá giống nhau
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 2
+
+Yếu tố nào sau đây ÍT ảnh hưởng nhất đến vai trò của giáo viên trong việc xây dựng và thực hiện kế hoạch giáo dục?
+
+a. Sự quan tâm của phụ huynh học sinh.
+b. Điều kiện làm việc của nhà trường.
+c. Trình độ chuyên môn của giáo viên.
+d. Chính sách giáo dục của nhà nước.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 3
+
+Việc xây dựng kế hoạch giáo dục của tổ chuyên môn có ý nghĩa gì đối với công tác quản lý của nhà trường?
+
+a. Là cơ sở để các tổ chuyên môn phối hợp thực hiện các quy định quản lý chuyên môn.
+b. Hỗ trợ tổ trưởng phân bổ thời lượng và sắp xếp lịch dạy cho giáo viên trong tổ.
+c. Giúp bảo đảm tính thống nhất và là căn cứ theo dõi, đánh giá việc thực hiện kế hoạch giáo dục.
+d. Giúp giáo viên điều chỉnh nội dung và phương pháp dạy học phù hợp với điều kiện và nhu cầu học sinh.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 4
+
+Đâu KHÔNG phải là yêu cầu đối với xây dựng kế hoạch của tổ chuyên môn?
+
+a. Đảm bảo tính logic.
+b. Đảm bảo tính đa dạng.
+c. Đảm bảo tính pháp lý.
+d. Đảm bảo tính khả thi.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 5
+
+Khi xây dựng kế hoạch giáo dục của tổ chuyên môn, cần căn cứ vào yếu tố nào dưới đây? (Câu hỏi chọn nhiều đáp án)
+
+A. Kết quả khảo sát ý kiến của học sinh về chương trình học.
+B. Chương trình GDPT và hướng dẫn nhiệm vụ năm học của sở GD&ĐT.
+C. Điều kiện thực tế về đội ngũ giáo viên, cơ sở vật chất nhà trường.
+D. Xây dựng dựa trên căn cứ pháp lý cụ thể và kế hoạch cấp cao hơn.
+E. Đề xuất từ ban đại diện cha mẹ học sinh về các hoạt động giáo dục.
+**➡️ Đáp án đúng: B, C, D**
+
+---
+
+### Câu 6
+
+Khi xây dựng phân phối chương trình môn Tin học lớp 10 (70 tiết/năm), tổ chuyên môn cần làm gì để phân bổ mạch "Lập trình cơ bản" chiếm 53%?
+
+a. Phân bổ 8 tiết dựa trên tỉ lệ 11% cho mạch biểu diễn thông tin và kiến thức nền tảng.
+b. Dự kiến 4 tiết dự trên tỉ lệ 6% cho định hướng nghề nghiệp trong lĩnh vực công nghệ thông tin.
+c. Xác định chính xác 7 tiết dựa trên tỉ lệ 10% cho ứng dụng phần mềm thiết kế đồ họa.
+d. Tính toán 37 tiết dựa trên tỉ lệ thời lượng và các yêu cầu cần đạt được từ chương trình môn học.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 8
+
+Phần đặc điểm tình hình trong kế hoạch dạy học của tổ chuyên môn cần trình bày những nội dung nào dưới đây? (Chọn nhiều đáp án)
+
+a. Phòng học bộ môn
+b. Tình hình tài chính trong năm học
+c. Đặc điểm học sinh, đội ngũ giáo viên
+d. Thiết bị dạy học
+**➡️ Đáp án đúng: a, c, d**
+
+---
+
+### Câu 9
+
+Bản dự kiến kế hoạch triển khai tất cả các hoạt động của tổ chuyên môn trong một năm học, nhằm thực hiện những mục tiêu phát triển của tổ chuyên môn và của nhà trường, bảo đảm yêu cầu thực hiện CTGDPT là gì?
+
+a. Kế hoạch dạy học
+b. Kế hoạch giáo dục của tổ chuyên môn
+c. Kế hoạch giáo dục nhà trường
+d. Phát triển chương trình giáo dục phổ thông
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 10
+
+Kế hoạch giáo dục của tổ chuyên môn bao gồm những nội dung nào?
+
+a. Kế hoạch phát triển chuyên môn của tổ, bao gồm các hoạt động bồi dưỡng, tự học và nghiên cứu khoa học.
+b. Kế hoạch dạy học môn học và kế hoạch tổ chức các hoạt động giáo dục
+c. Kế hoạch đánh giá học sinh định kỳ và thường xuyên, bao gồm cả đánh giá quá trình và đánh giá kết quả.
+d. Kế hoạch giảng dạy chi tiết của từng giáo viên trong tổ, bao gồm cả phương pháp và tài liệu sử dụng.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 11
+
+Khi xây dựng kế hoạch của tổ chuyên môn cần đảm bảo các yêu cầu nào sau đây? (Chọn nhiều đáp án)
+
+a. Đảm bảo tính linh hoạt
+b. Đảm bảo tính pháp lý
+c. Đảm bảo tính logic
+d. Đảm bảo tính khoa học
+e. Đảm bảo tính khả thi
+**➡️ Đáp án đúng: a, b, c, e**
+
+---
+
+### Câu 12
+
+Yếu tố nào sau đây KHÔNG phải là nội dung chính trong kế hoạch giáo dục của tổ chuyên môn?
+
+a. Tổ chức các hoạt động ngoại khóa
+b. Dự đoán kế hoạch giáo dục của nhà trường
+c. Lập kế hoạch dạy học cho từng môn học
+d. Xác định mục tiêu giáo dục của năm học
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 13
+
+Tại sao cần phải đảm bảo tính pháp lý khi xây dựng kế hoạch giáo dục tổ chuyên môn?
+
+a. Nhằm đảm bảo tính thống nhất trong và giữa các môn học
+b. Có thể linh hoạt triển khai kế hoạch theo đặc thù cá nhân và yêu cầu thực tế của lớp học để đảm bảo hiệu quả dạy học
+c. Nhằm phân bổ thời gian học và thời gian kiểm tra, đánh giá một cách hợp lý theo kế hoạc của nhà trường
+d. Nhằm đảm bảo tính thống nhất giữa các loại kế hoạch và thực hiện hiệu quả chương trình giáo dục phổ thông
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 14
+
+Kế hoạch giáo dục của tổ chuyên môn đóng vai trò như thế nào trong việc triển khai thực hiện chương trình?
+
+a. Là một công cụ để giáo viên đánh giá học sinh.
+b. Là một nhịp cầu nối giữa mục tiêu chung của chương trình với các bài học cụ thể.
+c. Là một danh sách các hoạt động giáo dục cần thực hiện.
+d. Là một hướng dẫn chi tiết cho việc xây dựng kế hoạch bài dạy
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 16
+
+Vai trò trọng yếu của tổ trưởng tổ chuyên môn trong quá trình xây dựng kế hoạch giáo dục là gì?
+
+a. Phê duyệt kế hoạch cá nhân của mỗi giáo viên hiện có trong tổ bộ môn chính.
+b. Đánh giá định kỳ toàn bộ các hoạt động giáo dục của tất cả các học sinh trong khối.
+c. Tổ chức họp và phân công nhiệm vụ cụ thể để các thành viên cùng tham gia biên soạn.
+d. Thực hiện việc phân phối chương trình cho từng loại bài học theo đúng yêu cầu đã ban hành.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 17
+
+Kế hoạch giáo dục của tổ chuyên môn Tin học ở trường THPT được xây dựng dựa trên cơ sở nào?
+
+a. Mục tiêu giáo dục cấp quốc gia
+b. Chương trình GDPT 2018 và định hướng giáo dục của nhà trường
+c. Số lượng giáo viên trong tổ chuyên môn
+d. Cơ sở vật chất của trường
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 18
+
+Đâu KHÔNG phải là yêu cầu đối với xây dựng kế hoạch của tổ chuyên môn?
+
+a. Đảm bảo tính pháp lý.
+b. Đảm bảo tính khoa học, tính sư phạm.
+c. Đảm bảo tính khả thi.
+d. Đảm bảo tính logic.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 19
+
+Trong quá trình xây dựng KHGD, tổ chuyên môn nhận thấy đội ngũ giáo viên trong tổ có sự chênh lệch lớn về kinh nghiệm, trong đó nhiều giáo viên trẻ mới vào nghề còn thiếu kỹ năng tổ chức hoạt động học tập. Số phòng học bộ môn của nhà trường lại không đủ cho tất cả các lớp, đồng thời BGH yêu cầu các tổ phải phối hợp để thống nhất lịch kiểm tra nhằm tránh gây áp lực cho HS. Trong tình huống này, phương án nào sau đây được xem là phù hợp nhất để đảm bảo tính khả thi và logic của kế hoạch?
+
+a. Điều chỉnh kế hoạch kiểm tra phù hợp với lịch chung, đồng thời sắp xếp thời khóa biểu để tránh trùng lặp phòng học.
+b. Phân công lớp học dựa trên năng lực của giáo viên, đồng thời sắp xếp phòng học bộ môn theo mức độ ưu tiên.
+c. Tổ chức nhóm sinh hoạt chuyên môn để hỗ trợ giáo viên trẻ, đồng thời phân công giảng dạy cân đối giữa các thành viên.
+d. Vừa thống nhất lịch kiểm tra với các môn khác, vừa kết hợp hỗ trợ chuyên môn và bố trí phòng học hợp lý.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 20
+
+Kế hoạch giáo dục của tổ chuyên môn có vai trò gì? (Chọn nhiều đáp án)
+
+a. Tạo điều kiện kết nối giữa nhà trường và phụ huynh.
+b. Giúp giáo viên có định hướng rõ ràng trong công việc.
+c. Tạo điều kiện để giáo viên phối hợp làm việc hiệu quả.
+d. Giúp học sinh định hướng nghề nghiệp.
+**➡️ Đáp án đúng: b, c**
+
+---
+
+### Câu 21
+
+Quy trình xây dựng kế hoạch giáo dục của tổ chuyên môn KHÔNG bao gồm bước nào sau đây?
+
+a. Xây dựng kế hoạch dạy học
+b. Xây dựng kế hoạch tổ chức các hoạt động giáo dục
+c. Xây dựng kế hoạch trải nghiệm, hướng nghiệp.
+d. Phân tích đặc điểm tình hình
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 22
+
+Trong buổi họp xây dựng kế hoạch giáo dục, tổ chuyên môn dự định tổ chức hoạt động ngoại khóa "Ngày hội Lập trình viên tương lai" cho học sinh khối 11. Để hoạt động này thực sự logic và mang lại hiệu quả cao nhất, tổ chuyên môn nên lựa chọn thời điểm tổ chức như thế nào?
+
+a. Tổ chức vào tuần đầu tiên của năm học để tạo không khí hứng khởi cho học sinh về môn học cũng như hiểu biết, định hướng nghề nghiệp tương lai.
+b. Tổ chức vào cuối học kỳ II, sau khi tất cả các môn đã hoàn thành kiểm tra để học sinh có thời gian tham gia hoạt động.
+c. Tổ chức ngay sau khi học sinh đã học xong các nội dung cốt lõi về lập trình và thuật toán, để các em có đủ kiến thức nền tảng tham gia và vận dụng.
+d. Tổ chức vào bất kỳ thời điểm nào thuận tiện cho giáo viên miễn không trùng với các hoạt động khác của nhà trường.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 23
+
+Để đảm bảo tính khả thi phải dựa vào những yếu tố nào?
+
+a. Dựa trên các hoạt động giáo dục mà các cấp trên đề ra, theo xu hướng xã hội mà đưa ra các hoạt động giáo dục phù hợp
+b. Dựa trên phân tích tình hình thực tế của tổ chuyên môn và nhà trường (học sinh, đội ngũ giáo viên, cơ sở vật chất…).
+c. Dựa trên các nội dung dạy học, hoạt động giáo dục theo mạch kiến thức, đảm bảo tính thống nhất trong và giữa các môn học
+d. Dựa vào căn cứ pháp lý cự thể bao gồm hướng dẫn của Sở GD&ĐT, khung kế hoạch chương trình của nhà trường, nội dung giáo dục địa phương và các văn bản hướng dẫn khác
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 24
+
+Mục tiêu chính của kế hoạch giáo dục của tổ chuyên môn Tin học là gì?
+
+a. Đảm bảo dạy đủ số tiết theo quy định của Bộ GD&ĐT
+b. Tăng cường sử dụng công nghệ thông tin trong mọi môn học
+c. Phát triển phẩm chất, năng lực học sinh theo hướng tiếp cận chương trình Tin học mới
+d. Tập trung nâng cao chất lượng giáo viên của tổ
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 25
+
+Trình tự nào dưới đây phản ánh đúng các bước xây dựng kế hoạch giáo dục của tổ chuyên môn?
+
+A. Phân tích đặc điểm tình hình -> Xây dựng kế hoạch dạy học -> Xây dựng kế hoạch tổ chức các hoạt động giáo dục -> Rà soát, hoàn thiện kế hoạch giáo dục của tổ chuyên môn.
+B. Xây dựng kế hoạch dạy học -> Xây dựng kế hoạch tổ chức các hoạt động giáo dục -> Phân tích đặc điểm tình hình -> Điều chỉnh, hoàn thiện kế hoạch giáo dục của tổ chuyên môn.
+C. Phân tích đặc điểm tình hình -> Xây dựng kế hoạch giáo dục của giáo viên -> Xây dựng kế hoạch tổ chức các hoạt động giáo dục -> Điều chỉnh, hoàn thiện kế hoạch giáo dục của tổ chuyên môn.
+D. Phân tích đặc điểm tình hình -> Xây dựng kế hoạch tổ chức các hoạt động giáo dục -> Xây dựng kế hoạch dạy học -> Rà soát, hoàn thiện kế hoạch giáo dục của tổ chuyên môn.
+**➡️ Đáp án đúng: A**
+
+---
+
+### Câu 26
+
+Những phát biểu nào dưới đây đúng khi nói về ý nghĩa của việc xây dựng kế hoạch giáo dục của tổ chuyên môn? (Câu hỏi nhiều lựa chọn)
+
+A. Là cơ sở để xây dựng chương trình giáo dục địa phương.
+B. Phát huy quyền tự chủ của tổ chuyên môn và của giáo viên.
+C. Là căn cứ quan trọng để phân công nhiệm vụ cho giáo viên bộ môn.
+D. Giúp khai thác có hiệu quả cơ sở vật chất, thiết bị dạy học.
+**➡️ Đáp án đúng: B, C, D**
+
+---
+
+### Câu 27
+
+Giáo viên bộ môn (không phải là tổ trưởng tổ chuyên môn) KHÔNG có nhiệm vụ nào dưới đây trong xây dựng và thực hiện kế hoạch giáo dục của tổ chuyên môn? (Chọn đáp án đúng)
+
+a. Tổ chức xây dựng kế hoạch giáo dục của tổ chuyên môn
+b. Tham gia xây dụng câu hỏi theo sự phân công của tổ chuyên môn
+c. Tham gia xây dựng, đóng góp ý kiến để để hoàn thiện kế hoạch
+d. Cụ thể hóa thành kế hoạch cá nhân theo nhiệm vụ được phân công để thực hiện
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 28
+
+Trong khi rà soát kế hoạch, tổ chuyên môn phát hiện một chuyên đề trùng lặp phần lớn với nội dung của môn khác. Phương án xử lý nào vừa đảm bảo tính khoa học của chuyên đề vừa phù hợp với yêu cầu quản lý và vận hành chương trình?
+
+a. Thiết kế lại chuyên đề theo mô hình song song: giữ phần khung chung (dạy chung) giữa hai môn, riêng phần chuyên sâu thì mỗi môn đảm nhiệm nội dung đi sâu khác nhau, có thỏa thuận phân công và đánh giá chung.
+b. Rút gọn một số nội dung trùng, chuyển phần còn lại thành mô-đun thực hành hoặc bài tập liên kết, đồng thời ký kết phối hợp công tác giảng dạy với môn có nội dung trùng.
+c. Giữ nguyên lại cấu trúc chuyên đề, bổ sung phần minh họa và bài tập ứng dụng khác biệt nhằm tạo điểm nhấn thực hành so với môn kia.
+d. Điều chỉnh cấu trúc và nội dung chuyên đề theo hướng tích hợp, xác định rõ phần nào thuộc trách nhiệm chuyên môn chính và phần nào phối hợp chung.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 29
+
+Tổ chuyên môn Tin học đang thảo luận để xây dựng Kế hoạch tổ chức các hoạt động giáo dục (như Câu lạc bộ Tin học) trong năm học(Bước 3). Để đảm bảo tính logic và hiệu quả trong việc triển khai các hoạt động này, Tổ chuyên môn cần lưu ý:
+
+a. Chọn địa điểm luôn ở ngoài khuôn viên nhà trường như cơ sở sản xuất, kinh doanh, hoặc di sản để tăng tính trải nghiệm.
+b. Xác định thời điểm tổ chức cần lưu ý sự liên quan của hoạt động với các nội dung dạy học theo hướng.
+c. Lựa chọn thời điểm tổ chức không liên quan đến các nội dung dạy học để tránh chồng chéo với lịch học chính khóa.
+d. Luôn ưu tiên mục tiêu hình thành và phát triển phẩm chất hơn mục tiêu phát triển năng lực cho học sinh.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 30
+
+Hoạt động "thống kê số lớp, số học sinh của mỗi khối lớp" thuộc bước nào trong quy trình 4 bước xây dựng kế hoạch giáo dục của tổ chuyên môn?
+
+a. Rà soát số lượng học sinh.
+b. Phân tích đặc điểm học sinh.
+c. Phân tích đặc điểm tình hình.
+d. Xây dựng kế hoạch lớp học.
+**➡️ Đáp án đúng: c**
+
+---
+
+
+### Câu 2
+
+Khi xây dựng phân phối chương trình, yếu tố nào giữ vai trò quyết định nhất để tổ chuyên môn phân bổ thời lượng (số tiết) cho một bài học?
+
+a. Tầm quan trọng và tỉ trọng của nội dung bài học trong cấu trúc đề kiểm tra đánh giá định kỳ.
+b. Độ dài, độ khó của nội dung bài học trong sách giáo khoa nêu.
+c. Số lượng và mức độ phức tạp của các yêu cầu cần đạt được quy định cho bài học đó.
+d. Các thiết bị và phòng học bộ môn sẵn có để phục vụ cho bài học.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 3
+
+Để đảm bảo tính pháp lý khi xây dựng kế hoạch giáo dục của tổ chuyên môn, cần căn cứ vào những tài liệu nào? (Chọn nhiều đáp án)
+
+a. Hướng dẫn nhiệm vụ năm học của sở GD&ĐT
+b. Khung kế hoạch thực hiện chương trình các môn học
+c. Công văn hướng dẫn nhiệm vụ năm học
+d. Sách giáo khoa
+e. Quy định của nhà trường
+**➡️ Đáp án đúng: a, b, c, e**
+
+---
+
+### Câu 4
+
+Một trường THPT muốn triển khai dạy 2 buổi/ngày để nâng cao chất lượng. Điều kiện bắt buộc cần xem xét đến đầu tiên để triển khai kế hoạch là gì?
+
+a. Đội ngũ giáo viên và cơ sở vật chất của nhà trường phải đủ năng lực đáp ứng.
+b. Xuất phát từ nhu cầu ôn tập và thi cử của học sinh các khối lớp cuối cấp.
+c. Căn cứ vào truyền thống dạy và học đã hình thành lâu dài trong nhà trường.
+d. Nhà trường có được sự đồng thuận và ủng hộ của phụ huynh học sinh trong toàn trường.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 5
+
+Phương án nào dưới đây KHÔNG PHẢI là yêu cầu khi xây dựng kế hoạch giáo dục của tổ chuyên môn?
+
+a. Đảm bảo tính khả thi.
+b. Đảm bảo tính linh hoạt.
+c. Đảm bảo tính pháp lý.
+d. Đảm bảo tính thống nhất.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 6
+
+Trong chương trình môn Tin học của cấp học nào sẽ xuất hiện chuyên đề lựa chọn?
+
+a. Cấp Trung học Phổ thông
+b. Cấp THCS và Tiểu học
+c. Cấp THCS và THPT
+d. Cấp Trung học Cơ sở
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 9
+
+Đâu KHÔNG phải nhiệm vụ chính của tổ chuyên môn trong việc xây dựng kế hoạch dạy học cho các khối lớp ở trường THPT?
+
+a. Phân phối chương trình.
+b. Kế hoạch dạy học các chuyên đề lựa chọn.
+c. Kế hoạch sinh hoạt tổ chuyên môn.
+d. Kế hoạch các bài kiểm tra, đánh giá định kỳ.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 10
+
+Vì sao kế hoạch giáo dục của tổ chuyên môn cần có tính linh hoạt? (Chọn nhiều đáp án)
+
+a. Để tăng cường sự sáng tạo trong giảng dạy của giáo viên
+b. Để thích ứng với sự thay đổi của tình hình thực tế
+c. Để phù hợp với nhu cầu phát triển của học sinh
+d. Để giáo viên có thể tự điều chỉnh kế hoạch
+e. Để giảm bớt áp lực cho giáo viên
+**➡️ Đáp án đúng: b, c, d**
+
+---
+
+### Câu 11
+
+Sự khác biệt cốt lõi giữa "kế hoạch giáo dục của tổ chuyên môn" và "kế hoạch giáo dục của cá nhân" là gì?
+
+a. Kế hoạch của tổ do Hiệu trưởng phê duyệt, trong khi kế hoạch cá nhân do tổ trưởng tổ chuyên môn phê duyệt.
+b. Kế hoạch của tổ tập trung vào hoạt động giáo dục, trong khi kế hoạch cá nhân tập trung vào việc dạy học trên lớp.
+c. Kế hoạch của tổ do tổ trưởng tổ chuyên môn xây dựng, trong khi kế hoạch cá nhân do giáo viên tự xây dựng.
+d. Kế hoạch của tổ mang tính định hướng chung, còn kế hoạch cá nhân là sự cụ thể hóa để phù hợp với thực tế lớp học.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 12
+
+Khi tiến độ dạy học bị gián đoạn bởi yếu tố khách quan (thiên tai, dịch bệnh…), nguyên tắc “tính linh hoạt” trong kế hoạch tổ chuyên môn nên được áp dụng theo hướng nào?
+
+a. Rút gọn một số hoạt động phụ trợ, giữ trọng tâm ở các nội dung cốt lõi để đảm bảo học sinh không bị quá tải.
+b. Lồng ghép, tích hợp một số nội dung với các chủ đề khác để tiết kiệm thời gian mà vẫn bao phủ được chương trình.
+c. Bổ sung hoạt động học trực tuyến hoặc học bù để duy trì tiến độ, nhưng không thay đổi chuẩn đầu ra.
+d. Điều chỉnh tiến độ, sắp xếp lại nội dung hoặc hình thức dạy học sao cho vẫn đảm bảo học sinh đạt yêu cầu cần đạt.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 13
+
+Yếu tố nào sau đây đảm bảo tính khả thi trong yêu cầu xây dựng kế hoạch dạy học của tổ chuyên môn?
+
+a. Kế hoạch không cứng nhắc mà có thể được thay đổi trong các trường hợp cần thiết, phù hợp với tình hình thực tế.
+b. Dựa trên việc phân tích đặc điểm tình hình của tổ chuyên môn và của nhà trường.
+c. Xây dựng dựa trên các căn cứ pháp lý cụ thể và các kế hoạch cấp cao hơn.
+d. Sắp xếp các bài học theo thời gian thực hiện một cách hiệu quả, phù hợp.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 16
+
+Tổ chuyên môn cần chú ý gì khi xây dựng kế hoạch các chuyên đề lựa chọn?
+
+a. Phải hoàn toàn do học sinh lựa chọn
+b. Đảm bảo thời lượng phù hợp cho từng chủ đề
+c. Cần chọn những chủ đề mà giáo viên giỏi nhất
+d. Tập trung chủ yếu vào dạy lý thuyết và thực hành
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 18
+
+Trong năm học, Bộ GD&ĐT ban hành văn bản mới yêu cầu bổ sung nội dung giáo dục STEM vào chương trình. Theo nguyên tắc về Tính linh hoạt và vai trò của Tổ chuyên môn được đề cập trong tài liệu, Tổ chuyên môn cần có hành động nào là phù hợp nhất để đảm bảo kế hoạch giáo dục đáp ứng chỉ đạo mới?
+
+a. Yêu cầu mỗi giáo viên (GV) tự điều chỉnh kế hoạch cá nhân, vì việc thay đổi kế hoạch của tổ chuyên môn sẽ gây xáo trộn lớn trong năm học.
+b. Tổ chức họp chuyên môn, thống nhất điều chỉnh Kế hoạch giáo dục (nội dung và thời gian), và trình Hiệu trưởng nhà trường xem xét phê duyệt.
+c. Giữ nguyên Kế hoạch giáo dục đã phê duyệt, vì kế hoạch của tổ không được điều chỉnh về mặt nội dung trong quá trình thực thi.
+d. Giao cho Tổ trưởng chuyên môn tự đưa ra các bổ sung cho nội dung mới, vì Tổ trưởng là người chịu trách nhiệm chính về kế hoạch của tổ.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 20
+
+Trong quá trình thực hiện kế hoạch giáo dục của tổ chuyên môn, giáo viên nhận thấy số tiết phân bổ cho một chuyên đề chưa phù hợp với năng lực học sinh. Theo quy trình, giáo viên nên làm gì?
+
+a. Báo cáo với tổ trưởng chuyên môn để thảo luận, đồng thời linh hoạt điều chỉnh cách dạy trong từng tiết cho phù hợp với học sinh.
+b. Thông tin với hiệu trưởng để xin ý kiến, rồi sau đó bàn lại trong tổ chuyên môn để điều chỉnh kế hoạch chi tiết.
+c. Báo cáo và đề xuất điều chỉnh với tổ trưởng chuyên môn để tổ thảo luận, thống nhất rồi trình hiệu trưởng xem xét.
+d. Giữ nguyên số tiết đã được phê duyệt để đảm bảo tính thống nhất, đồng thời điều chỉnh theo năng lực học sinh trong từng tiết.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 21
+
+Ai là người chịu trách nhiệm và có vai trò tổ chức xây dựng kế hoạch giáo dục của tổ chuyên môn?
+
+a. Phụ huynh học sinh.
+b. Giáo viên trong tổ chuyên môn
+c. Tổ trưởng chuyên môn.
+d. Ban giám hiệu nhà trường.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 23
+
+Vì sao bước “rà soát và lấy ý kiến” trong tổ chuyên môn lại quan trọng trước khi phê duyệt?
+
+a. Để tổ trưởng chuyên môn có căn cứ phân công tiết dạy cho toàn bộ giáo viên.
+b. Để Hiệu trưởng trực tiếp rà soát lại và điều chỉnh các nội dung chuyên môn.
+c. Giúp điều chỉnh tính khả thi, thống nhất nội dung và tăng đồng thuận nội bộ.
+d. Một thủ tục hành chính bắt buộc để chứng minh tổ đã hoàn thành công việc.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 27
+
+Hệ quả của việc đảm bảo tính linh hoạt trong xây dựng kế hoạch giáo dục của tổ chuyên môn môn Tin học được thể hiện rõ nhất qua nhận định nào sau đây?
+
+a. Các nhiệm vụ cần được duy trì theo tiến độ đã vạch ra để bảo đảm sự đồng bộ giữa các hoạt động giáo dục trong nhà trường.
+b. Kế hoạch phải dựa trên sự thống nhất của tập thể giáo viên, phản ánh ý chí chung và trách nhiệm của tổ chuyên môn.
+c. Nội dung và thời gian có thể được điều chỉnh theo tình hình thực tiễn, tạo điều kiện để giáo viên chủ động trong kế hoạch dạy học.
+d. Việc xây dựng phải tính đến điều kiện cơ sở vật chất và đặc điểm học sinh để bảo đảm các hoạt động được triển khai hiệu quả.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 28
+
+Ai là người chịu trách nhiệm xây dựng kế hoạch giáo dục cho tổ chuyên môn?
+
+a. Phó hiệu trưởng.
+b. Ban giám hiệu nhà trường.
+c. Hiệu trưởng.
+d. Toàn bộ giáo viên trong tổ chuyên môn.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 2
+
+Giá trị cốt lõi và quan trọng nhất khi tất cả giáo viên trong tổ chuyên môn tham gia quy trình xây dựng kế hoạch giáo dục là gì?
+
+a. Đảm bảo kế hoạch có sự đồng thuận, thống nhất và phản ánh thực tiễn dạy học của tổ.
+b. Giáo viên sẽ nắm rõ và thực hiện theo các văn bản pháp lý liên quan đến kế hoạch.
+c. Đảm bảo kế hoạch gắn liền với thực tiễn dạy học, có được góc nhìn đa chiều của các giáo viên.
+d. Thuận tiện trong việc phân công công việc tới các giáo viên với sự đồng thuận cao.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 3
+
+Tính logic trong kế hoạch giáo dục của tổ chuyên môn được đảm bảo nhờ yếu tố nào?
+
+a. Đảm bảo dựa trên các kế hoạch cấp cao hơn như hướng dẫn nhiệm vụ năm học của sở GD&ĐT.
+b. Đảm bảo sự linh hoạt trong việc điều chỉnh kế hoạch khi cần thiết.
+c. Đảm bảo phân hóa các yếu tố liên quan đến tổ chức dạy học.
+d. Đảm bảo sự thống nhất về khung thời gian và thời gian đánh giá của các môn học.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 6
+
+Việc xây dựng kế hoạch dạy học và kế hoạch giáo dục của tổ chuyên môn còn thể hiện những ý nghĩa nào sau đây? (Chọn nhiều đáp án)
+
+a. Đối với việc triển khai thực hiện chương trình, là một căn cứ quan trọng để phân công nhiệm vụ cho GV tổ bộ môn.
+b. Đối với việc triển khai thực hiện chương trình, kế hoạch của tổ chuyên môn giúp bảo đảm tính đạo đức.
+c. Đối với công tác quản lí, giúp bảo đảm tính sư phạm giữa các tổ chuyên môn trong thực hiện kế hoạch giáo dục.
+d. Đối với công tác quản lí, giúp bảo đảm tính thống nhất giữa các tổ chuyên môn trong thực hiện kế hoạch giáo dục.
+**➡️ Đáp án đúng: a, d**
+
+---
+
+### Câu 7
+
+Mục tiêu của kế hoạch giáo dục của tổ chuyên môn là gì?
+
+a. Phát triển năng lực tự học, tự nghiên cứu và sáng tạo của giáo viên trong tổ.
+b. Nâng cao chất lượng chuyên môn của giáo viên trong tổ, đáp ứng yêu cầu đổi mới giáo dục.
+c. Xây dựng môi trường làm việc tích cực, hợp tác và chia sẻ kinh nghiệm giữa các giáo viên trong tổ.
+d. Thực hiện mục tiêu phát triển của tổ chuyên môn và nhà trường
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 8
+
+Trong bước 1: “Phân tích đặc điểm tình hình” đâu KHÔNG phải là các yếu tố cần phải đánh giá khi xây dựng kế hoạch dạy học và kế hoạch tổ chức các hoạt động giáo dục của tổ chuyên môn?
+
+a. Tình hình học sinh, giáo viên.
+b. Phòng học bộ môn/phòng thí nghiệm/phòng đa năng/sân chơi, bãi tập.
+c. Tình hình thiết bị dạy học của môn học do tổ chuyên môn phụ trách.
+d. Tình hình về ý kiến của phụ huynh học sinh.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 12
+
+“Sắp xếp các bài học theo thời gian thực hiện một cách phù hợp, chú trọng đến sự thống nhất với các môn học và hoạt động giáo dục khác” là nội dung của nguyên tắc nào khi xây dựng kế hoạch giáo dục của tổ chuyên môn?
+
+a. Đảm bảo tính khả thi
+b. Đảm bảo tính linh hoạt
+c. Đảm bảo tính thống nhất
+d. Đảm bảo tính logic
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 16
+
+Để đảm bảo tính pháp lý khi xây dựng kế hoạch giáo dục của tổ chuyên môn, cần căn cứ vào những tài liệu nào? (Chọn nhiều đáp án)
+
+a. Sách giáo khoa
+b. Khung kế hoạch thực hiện chương trình các môn học
+c. Hướng dẫn nhiệm vụ năm học của sở GD&ĐT
+d. Quy định của nhà trường
+e. Công văn hướng dẫn nhiệm vụ năm học
+**➡️ Đáp án đúng: b, c, d, e**
+
+---
+
+### Câu 17
+
+Phương án nào sau đây KHÔNG phải là vai trò của tổ trưởng chuyên môn trong việc phát triển kế hoạch giáo dục của tổ?
+
+a. Giám sát và kiểm tra việc thực hiện kế hoạch để đảm bảo nhiệm vụ được hoàn thành.
+b. Phối hợp với giáo viên trong nhóm và hiệu trưởng để giải quyết các vấn đề phát sinh.
+c. Phê duyệt kế hoạch giáo dục của nhóm chuyên môn.
+d. Tổ chức và phân công nhiệm vụ cho các thành viên khác trong nhóm.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 21
+
+Yêu cầu nào sau đây KHÔNG phải là một phần của kế hoạch giáo dục của tổ chuyên môn ?
+
+a. Phân tích đặc điểm tình hình đội ngũ, thiết bị dạy học,…
+b. Xây dựng dựa trên căn cứ pháp lý cụ thể
+c. Đảm bảo tính logic của mạch kiến thức của môn học
+d. Đánh giá kết quả học tập của học sinh theo cách riêng
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 27
+
+Ý nghĩa của kế hoạch giáo dục của tổ chuyên môn đối với công tác quản lý trong trường là gì?
+
+a. Cơ sở giúp học sinh chuẩn bị tài liệu và kế hoạch học tập trước giờ học.
+b. Căn cứ để ban giám hiệu theo dõi và kiểm tra hoạt động chuyên môn.
+c. Kênh thông tin để phụ huynh nắm định hướng và mục tiêu rèn luyện của con.
+d. Công cụ hỗ trợ giáo viên điều chỉnh nội dung và phương pháp dạy.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 29
+
+Khi xây dựng kế hoạch của tổ chuyên môn cần đảm bảo các yêu cầu nào sau đây? (Chọn nhiều đáp án)
+
+a. Đảm bảo tính khả thi
+b. Đảm bảo tính khoa học
+c. Đảm bảo tính pháp lý
+d. Đảm bảo tính logic
+e. Đảm bảo tính linh hoạt
+**➡️ Đáp án đúng: a, c, d, e**
+
+---
+
+### Câu 5
+
+Yêu cầu nào cho phép kế hoạch giáo dục của tổ chuyên môn có thể được điều chỉnh về nội dung và thời gian khi có sự thay đổi từ tình hình thực tiễn?
+
+a. Khả thi.
+b. Linh hoạt.
+c. Pháp lý.
+d. Logic.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 9
+
+Giáo viên bộ môn (không phải là tổ trưởng tổ chuyên môn) KHÔNG có nhiệm vụ nào dưới đây trong xây dựng và thực hiện kế hoạch giáo dục của tổ chuyên môn? (Chọn đáp án đúng)
+
+a. Tổ chức xây dựng kế hoạch giáo dục của tổ chuyên môn
+b. Cụ thể hóa thành kế hoạch cá nhân theo nhiệm vụ được phân công để thực hiện
+c. Tham gia xây dựng, đóng góp ý kiến để để hoàn thiện kế hoạch
+d. Tham gia xây dụng câu hỏi theo sự phân công của tổ chuyên môn
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 12
+
+Việc thực hiện "Phân tích đặc điểm của đội ngũ chuyên môn và trường học (đặc điểm học sinh, đội ngũ giáo viên, thiết bị dạy học, phòng học môn học, v.v.)" nhằm đảm bảo yêu cầu nào sau đây cho việc xây dựng kế hoạch của tổ chuyên môn?
+
+a. Đảm bảo tính khả thi.
+b. Đảm bảo tính logic.
+c. Đảm bảo tính linh hoạt
+d. Đảm bảo tính hợp pháp.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 13
+
+Ban giám hiệu trường THPT Y giao nhiệm vụ cho tổ chuyên môn Tin học xây dựng kế hoạch triển khai câu lạc bộ “Lập trình Sáng tạo”, một hoạt động hoàn toàn mới chưa từng có tại trường. Theo đúng quy trình xây dựng KHGD của tổ chuyên môn, đâu là hành động mà tổ trưởng chuyên môn Tin học cần thực hiện đầu tiên để bắt đầu xây dựng kế hoạch này?
+
+a. Soạn thảo bản dự thảo kế hoạch hoàn chỉnh để trình Ban giám hiệu nhà trường xem xét và phê duyệt.
+b. Phân công các giáo viên trong tổ phụ trách từng mảng nội dung của câu lạc bộ để triển khai.
+c. Xây dựng khung chương trình sinh hoạt và các chủ đề hoạt động cho câu lạc bộ trong năm học.
+d. Tiến hành khảo sát năng lực của giáo viên, nhu cầu của học sinh và điều kiện phòng máy hiện có.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 19
+
+Nếu tổ chuyên môn tự ý đưa nội dung giảng dạy một chuyên đề KHÔNG nằm trong Khung kế hoạch thực hiện chương trình của nhà trường, điều này chủ yếu vi phạm nguyên tắc nào?
+
+a. Tính khả thi.
+b. Tính logic.
+c. Tính linh hoạt.
+d. Tính pháp lý.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 22
+
+Những biểu hiện nào dưới đây thể hiện được việc đáp ứng yêu cầu đảm bảo tính logic trong xây dựng kế hoạch giáo dục của Tổ chuyên môn? (Chọn nhiều đáp án)
+
+a. Chú trọng và tính đến sự phân hóa của các yếu tố liên quan để xây dựng kế hoạch dạy học
+b. Sắp xếp các bài học của từng khối lớp theo thời gian thực hiện một cách phù hợp
+c. Đảm bảo sự thống nhất trong việc thực hiện các loại kế hoạch theo hướng ngày càng cụ thể hóa các kế hoạch tổng thể
+d. Đảm bảo tính thống nhất trong và giữa các môn học và hoạt động giáo dục
+e. Có thể linh động trong những trường hợp cần thiết để thực hiện kế hoạch phù hợp thực tế.
+f. Chú trọng đến sự thống nhất với các môn học và hoạt động giáo dục khác theo khung thời gian phù hợp
+**➡️ Đáp án đúng: b, c, d, f**
+
+---
+
+### Câu 23
+
+Ai là người chịu trách nhiệm chính trong việc xây dựng kế hoạch giáo dục của tổ chuyên môn?
+
+a. Học sinh và giáo viên
+b. Hiệu trưởng nhà trường
+c. Tổ trưởng tổ chuyên môn
+d. Toàn thể giáo viên của tổ chuyên môn
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 25
+
+Trong quá trình xây dựng kế hoạch giáo dục của tổ chuyên môn, vai trò chính của tổ trưởng chuyên môn là gì?
+
+a. Chịu trách nhiệm chính, tổ chức xây dựng và phân công nhiệm vụ cho các thành viên.
+b. Hỗ trợ thành viên tổ hoàn thiện kế hoạch cá nhân và góp ý khi cần thiết.
+c. Điều phối sự tham gia của tổ viên và trực tiếp triển khai một phần nội dung kế hoạch.
+d. Tư vấn cho Hiệu trưởng về kế hoạch và phối hợp cùng các tổ chuyên môn khác.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 26
+
+Khi xây dựng kế hoạch dạy học, tổ chuyên môn cần dựa vào căn cứ nào? (Chọn 2 phương án đúng)
+
+A. Định hướng phát triển chuyên môn cá nhân của từng giáo viên.
+B. Chương trình giáo dục phổ thông và kế hoạch giáo dục nhà trường.
+C. Đặc điểm học sinh, điều kiện cơ sở vật chất và thiết bị dạy học.
+D. Kinh nghiệm giảng dạy và phong cách truyền đạt của từng giáo viên.
+E. Lịch sinh hoạt tập thể và các hoạt dộng ngoài giờ trong năm học.
+**➡️ Đáp án đúng: B, C**
+
+---
+
+### Câu 27
+
+Trong kế hoạch dạy học học kì I, tổ Tin học dự kiến cho học sinh lớp 10 thực hành lập trình Python tại phòng máy vào tuần 17. Tuy nhiên, do dịch bệnh, học sinh phải tạm dừng đến trường, phòng máy không thể sử dụng. Trong tình huống này, tổ Tin học nên điều chỉnh như thế nào để bảo đảm tiến trình dạy học?
+
+a. Tổ chức cho học sinh làm bài tập lập trình trên nền tảng trực tuyến, kết hợp hướng dẫn qua lớp học online.
+b. Dời nội dung thực hành sang cuối học kì, bố trí chung với các chủ đề khác trong kế hoạch.
+c. Giữ nguyên kế hoạch thực hành tại phòng máy và chờ học sinh quay lại trường mới triển khai.
+d. Rút gọn phần thực hành, tăng cường nội dung lý thuyết trên lớp trực tuyến để bảo đảm tiến độ chương trình.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 29
+
+Nếu điều kiện dạy học thay đổi đáng kể trong năm (ví dụ: thiếu thiết bị hoặc ít HS chọn chuyên đề), tổ chuyên môn nên làm gì theo nguyên tắc linh hoạt?
+
+a. Báo cáo với tổ bộ môn và hiệu trưởng để điều chỉnh kế hoạch.
+b. Thay đổi chuyên đề bằng một bài học với cùng nội dung.
+c. Chuyển đổi trong chuyên đề để đáp ứng tính linh hoạt trong giáo dục.
+d. Tiếp tục thực hiện kế hoạch cũ đúng theo phân phối chương trình.
+**➡️ Đáp án đúng: a**
+
+--- 
+
+### Câu 1
+
+Khi xây dựng kế hoạch giáo dục của tổ chuyên môn, cần căn cứ vào yếu tố nào dưới đây? (Câu hỏi chọn nhiều đáp án)
+
+A. Điều kiện thực tế về đội ngũ giáo viên, cơ sở vật chất nhà trường.
+B. Đề xuất từ ban đại diện cha mẹ học sinh về các hoạt động giáo dục.
+C. Kết quả khảo sát ý kiến của học sinh về chương trình học.
+D. Xây dựng dựa trên căn cứ pháp lý cụ thể và kế hoạch cấp cao hơn.
+E. Chương trình GDPT và hướng dẫn nhiệm vụ năm học của sở GD&ĐT.
+**➡️ Đáp án đúng: A, D, E**
+
+---
+
+### Câu 2
+
+Hoạt động xây dựng kế hoạch các bài kiểm tra đánh giá định kì nằm trong khâu nào của quy trình xây dựng kế hoạch giáo dục của tổ chuyên môn ?
+
+a. Xây dựng kế hoạch dạy học
+b. Xây dựng kế hoạch tổ chức các hoạt động giáo dục
+c. Phân tích đặc điểm tình hình
+d. Rà soát hoàn thiện dự thảo và thông qua tổ chuyên môn
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 4
+
+Xây dựng kế hoạch của tổ chuyên môn gồm các yêu cầu nào?
+
+a. Đảm bảo tính pháp lý, đảm bảo tính logic, đảm bảo tính khả thi, đảm bảo tính linh hoạt
+b. Đảm bảo tính pháp lý, đảm bảo tính logic, đảm bảo tính khoa học, đảm bảo tính linh hoạt
+c. Đảm bảo tính pháp lý, đảm bảo tính sư phạm, đảm bảo tính khả thi, đảm bảo tính linh hoạt
+d. Đảm bảo tính pháp lý, đảm bảo tính khoa học, đảm bảo tính sư phạm, đảm bảo tính khả thi
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 5
+
+Kế hoạch giáo dục của tổ chuyên môn có vai trò gì? (Chọn nhiều đáp án)
+
+a. Giúp giáo viên có định hướng rõ ràng trong công việc.
+b. Tạo điều kiện kết nối giữa nhà trường và phụ huynh.
+c. Tạo điều kiện để giáo viên phối hợp làm việc hiệu quả.
+d. Giúp học sinh định hướng nghề nghiệp.
+**➡️ Đáp án đúng: a, c**
+
+---
+
+### Câu 6
+
+Trong quy trình xây dựng kế hoạch giáo dục của tổ chuyên môn, các bước được thực hiện theo thứ tự nào sau đây?
+
+A. Phân tích đặc điểm tình hình → Xây dựng kế hoạch dạy học → Xây dựng kế hoạch tổ chức các hoạt động giáo dục → Rà soát, hoàn thiện dự thảo và thông qua tổ chuyên môn.
+B. Rà soát, hoàn thiện dự thảo và thông qua tổ chuyên môn → Phân tích đặc điểm tình hình → Xây dựng kế hoạch tổ chức các hoạt động giáo dục → Xây dựng kế hoạch dạy học.
+C. Phân tích đặc điểm tình hình → Xây dựng kế hoạch tổ chức các hoạt động giáo dục → Rà soát, hoàn thiện dự thảo và thông qua tổ chuyên môn → Xây dựng kế hoạch dạy học.
+D. Phân tích đặc điểm tình hình → Rà soát, hoàn thiện dự thảo và thông qua tổ chuyên môn → Xây dựng kế hoạch tổ chức các hoạt động giáo dục → Xây dựng kế hoạch dạy học.
+**➡️ Đáp án đúng: A**
+
+---
+
+### Câu 7
+
+Yêu cầu đối với xây dựng kế hoạch của tổ chuyên môn bao gồm những nội dung nào sau đây?
+
+a. Đảm bảo tính pháp lý, Đảm bảo tính khả thi, Đảm bảo tính logic, Đảm bảo tính toàn diện.
+b. Đảm bảo tính kết nối, Đảm bảo tính khả thi, Đảm bảo tính logic, Đảm bảo tính linh hoạt.
+c. Đảm bảo tính pháp lý, Đảm bảo tính khả thi, Đảm bảo tính logic, Đảm bảo tính linh hoạt.
+d. Đảm bảo tính pháp lý, Đảm bảo tính khoa học, Đảm bảo tính logic, Đảm bảo tính linh hoạt.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 10
+
+Yếu tố nào sau đây KHÔNG được đề cập đến khi phân tích để đảm bảo tính khả thi trong kế hoạch giáo dục của tổ chuyên môn?
+
+a. Tình hình kinh tế địa phương
+b. Tình hình đội ngũ giáo viên
+c. Đặc điểm học sinh
+d. Thiết bị dạy học.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 13
+
+Khi kế hoạch giáo dục của tổ chuyên môn được Hiệu trưởng phê duyệt, giáo viên cần làm gì để đảm bảo thực hiện kế hoạch hiệu quả?
+
+a. Tham gia vào việc giám sát và đánh giá quá trình thực hiện kế hoạch.
+b. Cụ thể hóa kế hoạch của tổ thành kế hoạch cá nhân chi tiết và thực hiện nhiệm vụ .
+c. Đề xuất thay đổi kế hoạch nếu phát sinh vấn đề trong quá trình thực hiện
+d. Xây dựng lại kế hoạch để phù hợp với thực tiễn lớp học.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 14
+
+Tính linh hoạt của kế hoạch giáo dục tổ chuyên môn được thể hiện ở điểm nào?
+
+a. Giáo viên không được thay đổi kế hoạch đã đề ra dù có thay đổi từ thực tế
+b. Kế hoạch có thể điều chỉnh cả về nội dung và thời gian thực hiện khi cần thiết
+c. Kế hoạch được xây dựng một cách cố định và không thay đổi trong suốt năm học
+d. Hiệu trưởng có quyền thay đổi kế hoạch của giáo viên mà không cần thông báo trước
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 15
+
+Kế hoạch giáo dục của tổ chuyên môn có vai trò như thế nào đối với giáo viên?
+
+a. Giúp giáo viên tăng cường mối quan hệ với học sinh
+b. Làm giảm áp lực công việc giảng dạy của giáo viên
+c. Giúp giáo viên theo dõi và thực hiện các nhiệm vụ được giao
+d. Là cơ sở cho việc đánh giá chất lượng học sinh
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 18
+
+Vì sao kế hoạch giáo dục của tổ chuyên môn cần có tính linh hoạt? (Chọn nhiều đáp án)
+
+a. Để thích ứng với sự thay đổi của tình hình thực tế
+b. Để tăng cường sự sáng tạo trong giảng dạy của giáo viên
+c. Để giảm bớt áp lực cho giáo viên
+d. Để phù hợp với nhu cầu phát triển của học sinh
+e. Để giáo viên có thể tự điều chỉnh kế hoạch
+**➡️ Đáp án đúng: a, d, e**
+
+---
+
+### Câu 22
+
+Kế hoạch giáo dục của tổ chuyên môn được hiểu là:
+
+a. Văn bản tổng hợp dùng để ghi chép và theo dõi kết quả học tập của học sinh trong suốt cả năm học.
+b. Tài liệu chuyên môn do cơ quan quản lý ban hành nhằm hướng dẫn thực hiện chung cho toàn bộ nhà trường.
+c. Bản dự kiến triển khai toàn bộ hoạt động chuyên môn trong năm học nhằm thực hiện mục tiêu của tổ và nhà trường.
+d. Bản kế hoạch cá nhân của mỗi giáo viên trong tổ dùng để đối chiếu và điều chỉnh theo quy định chung.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 23
+
+Tại sao kế hoạch giáo dục tổ chuyên môn lại đóng vai trò quan trọng trong việc nâng cao chất lượng giáo dục?
+
+a. Vì nó giúp học sinh dễ dàng nắm bắt kiến thức.
+b. Vì nó giúp giáo viên tiết kiệm thời gian chuẩn bị bài giảng.
+c. Vì nó giúp nhà trường dễ dàng quản lý quá trình dạy học.
+d. Vì nó tạo ra sự đồng thuận và hợp tác giữa các giáo viên.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 26
+
+Một giáo viên môn Tin học sau khi nhận nhiệm vụ từ tổ trưởng đã đề xuất: "Cần thay đổi thứ tự các bài học trong học kỳ I để nội dung trí tuệ nhân tạo (AI) được học ngay từ đầu năm, phù hợp với xu thế." Hành động này của giáo viên được xem là gì trong quy trình quản lý kế hoạch giáo dục?
+
+a. Vi phạm nguyên tắc thống nhất và tính pháp lý của kế hoạch dạy học đã được tổ chuyên môn thông qua.
+b. Đề xuất điều chỉnh kế hoạch dạy học và cần tổ chuyên môn họp lại xem xét tính logic trước khi trình hiệu trưởng.
+c. Tiếp tục tham gia vào quá trình xây dựng kế hoạch giáo dục cá nhân, dựa trên kế hoạch đã được phê duyệt.
+d. Sự chủ động của giáo viên trong việc tự điều chỉnh phân phối chương trình để tối ưu hóa hiệu quả dạy học cá nhân.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 27
+
+Khi tiến hành xây dựng kế hoạch dạy học cho các khối lớp, tổ chuyên môn cần thực hiện các nhiệm vụ chính nào sau đây? (Chọn nhiều đáp án)
+
+a. Xây dựng kế hoạch các bài kiểm tra đánh giá định kì
+b. Xây dựng phân phối chương trình các khối lớp
+c. Xây dựng kế hoạch dạy học các chuyên đề lựa chọn
+d. Xây dựng kế hoạch tổ chức các hoạt động giáo dục
+**➡️ Đáp án đúng: a, b, c**
+
+---
+
+### Câu 28
+
+Phương án nào sau đây nói lên vai trò quan trọng của GV trong việc thực hiện kế hoạch giáo dục của tổ chuyên môn? (Chọn nhiều đáp án)
+
+a. GV có thể cụ thể hóa kế hoạch của tổ chuyên môn thành kế hoạch cá nhân chi tiết để thực hiện các nhiệm vụ một cách hiệu quả
+b. GV là tổ trưởng chuyên môn phải theo dõi, kiểm tra việc thực hiện các kế hoạch để đảm bảo các nhiệm vụ được thực hiện
+c. GV là người chịu trách nhiệm chính, có vai trò tổ chức xây dựng kế hoạch giáo dục của tổ chuyên môn
+d. GV nắm rõ các công việc và nhiệm vụ đặt ra trong kế hoạch để thực hiện theo đúng lịch trình
+**➡️ Đáp án đúng: a, b, d**
+
+---

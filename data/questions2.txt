@@ -1,0 +1,1272 @@
+### Câu 1
+
+Năng lực nào sau đây thuộc nhóm năng lực chung được phát triển trong chương trình giáo dục Tin học?
+a. Năng lực sử dụng công cụ lập trình
+b. Năng lực thiết kế phần mềm
+c. Năng lực tư duy độc lập
+d. Năng lực giải quyết vấn đề và sáng tạo
+**➡️ Đáp án đúng: d** 
+
+---
+
+### Câu 2
+
+Phương án nào dưới đây là biểu hiện của năng lực tự chủ và tự học? (Chọn nhiều phương án)
+a. Tự thuyết phục các thành viên trong nhóm
+b. Tự định hướng nghề nghiệp
+c. Thích ứng với cuộc sống
+d. Tự xác định và giải quyết vấn đề
+**➡️ Đáp án đúng: b, c** 
+
+---
+
+### Câu 4
+
+Trong Chương trình GDPT 2018, mục tiêu cốt lõi của mạch kiến thức Khoa học máy tính (CS) so với các mạch khác là gì?
+a. Trang bị kỹ năng sửa chữa máy tính, giống như ICT và DL về thực hành cơ bản.
+b. Tập trung vấn đề đạo đức số, không khác biệt so với hai mạch còn lại.
+c. Hình thành và phát triển tư duy máy tính, khác với ICT tập trung ứng dụng và DL nhấn mạnh đạo đức.
+d. Giúp sử dụng phần mềm ứng dụng, tương tự mục tiêu của DL và ICT.
+**➡️ Đáp án đúng: c** 
+
+---
+
+### Câu 5
+
+Việc đưa chủ đề "Hướng nghiệp với Tin học" vào giảng dạy xuyên suốt từ lớp 8 đến lớp 12 trong Chương trình 2018 thể hiện rõ nhất sự thay đổi nào về mục tiêu giáo dục so với chương trình cũ?
+a. Gắn kết kiến thức Tin học với định hướng ngành nghề tương lai, giúp học sinh thấy rõ giá trị ứng dụng của môn học.
+b. Trang bị cho học sinh các kỹ năng thực hành phần mềm ứng dụng cần thiết để đáp ứng nhu cầu xã hội.
+c. Giúp học sinh lựa chọn được ngành nghề thích hợp với bản thân trong tương lai sau khi học chủ đề.
+d. Tăng cường kiến thức hàn lâm về khoa học máy tính để chuẩn bị cho các kỳ thi học sinh giỏi.
+**➡️ Đáp án đúng: a** 
+
+---
+
+### Câu 6
+
+Đâu là một trong những biểu hiện cụ thể của Năng lực tự chủ và tự học?
+a. Tổ chức và thuyết phục người khác
+b. Phát hiện và làm rõ vấn đề
+c. Đánh giá hoạt động hợp tác
+d. Thích ứng với cuộc sống
+**➡️ Đáp án đúng: d** 
+
+---
+
+### Câu 7
+
+Yếu tố nào dưới đây được coi là quan trọng nhất để đánh giá năng lực đặc thù của học sinh?
+a. Những biểu hiện về cảm xúc và thái độ của học sinh khi giao tiếp bằng lời
+b. Những hành động, hành vi, và cách ứng xử của học sinh trong thực tế
+c. Sự tiến bộ trong nhận thức của học sinh qua đánh giá các hiện tượng đời sống
+d. Sự tiến bộ của học sinh qua các hoạt động: đọc, viết, nói, nghe
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 9
+
+Theo Chương trình môn Tin học 2018, nội dung nào dưới đây KHÔNG nằm trong 7 chủ đề chính?
+a. Trí tuệ nhân tạo và dữ liệu lớn.
+b. Máy tính và xã hội tri thức.
+c. Ứng dụng tin học.
+d. Mạng máy tính và Internet.
+**➡️ Đáp án đúng: a** 
+
+---
+
+### Câu 10
+
+Theo Chương trình GDPT môn Tin học 2018, trong định hướng Tin học ứng dụng ở lớp 10, học sinh được rèn luyện thành thạo hơn với nhóm phần mềm nào sau đây?
+a. Soạn thảo văn bản, quản lý dự án, chỉnh sửa ảnh.
+b. Làm phim hoạt hình, trình chiếu, vẽ trang trí.
+c. Trình chiếu, soạn thảo văn bản, bảng tính.
+d. Chỉnh sửa ảnh, bảng tính, làm phim hoạt hình.
+**➡️ Đáp án đúng: c** 
+
+---
+
+### Câu 11
+
+Đâu KHÔNG phải là một trong năm phẩm chất chủ yếu của học sinh theo chương trình giáo dục phổ thông 2018?
+a. Trung thực.
+b. Chăm chỉ.
+c. Nhân ái.
+d. Sáng tạo.
+**➡️ Đáp án đúng: d** 
+
+---
+
+### Câu 12
+
+Trong chương trình môn Tin học, ý nghĩa quan trọng nhất khi tham chiếu yêu cầu cần đạt trong quá trình thiết kế nội dung giáo dục là gì?
+a. Quy định cụ thể số lượng tiết học cho mỗi chủ đề và áp dụng thống nhất trong tất cả các bộ SGK.
+b. Để việc biên soạn sách giáo khoa đáp ứng được mục tiêu của chương trình, triển khai đầy đủ nội dung dạy học.
+c. Giúp giáo viên lựa chọn phương pháp dạy học cho từng chủ đề theo hướng tham khảo và linh hoạt thay đổi.
+d. Xác định đúng mức độ rộng, sâu của kiến thức, kỹ năng, thái độ cần đem đến cho học sinh.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 13
+
+Theo nội dung giáo dục toàn cấp Tiểu học, hoạt động nào thể hiện rõ nhất trọng tâm của chủ đề "Ứng dụng Tin học" (Chủ đề E)?
+a. Làm bài tập trắc nghiệm trực tuyến về an toàn môi trường số.
+b. Trao đổi với bạn bè về chủ đề môi trường qua Internet.
+c. Thiết kế bưu thiếp điện tử chúc mừng sinh nhật bạn bè.
+d. Tìm kiếm trên web thông tin về các di sản văn hóa Việt Nam.
+**➡️ Đáp án đúng: c** 
+
+---
+
+### Câu 14
+
+Trong chương trình GDPT 2018 môn Tin học, NLe được dùng để chỉ năng lực nào của học sinh?
+a. Giải quyết vấn đề với sự hỗ trợ của công nghệ thông tin.
+b. Ứng dụng công nghệ thông tin trong tự học.
+c. Hợp tác trong môi trường số.
+d. Giao tiếp và hợp tác trong môi trường số.
+**➡️ Đáp án đúng: c** 
+
+---
+
+### Câu 15
+
+Mục tiêu của chương trình Tin học ở cấp trung học phổ thông là gì?
+a. Giúp học sinh tạo ra các sản phẩm số hóa phục vụ cộng đồng
+b. Giúp học sinh biết sử dụng máy tính để vui chơi và học tập
+c. Phân hóa sâu về định hướng nghề nghiệp và trang bị năng lực tin học cho mọi học sinh
+d. Phát triển tư duy điều khiển thiết bị tự động hóa
+**➡️ Đáp án đúng: c** 
+
+---
+
+### Câu 16
+
+Theo Chương trình GDPT 2018, mục đích của sự phân hóa môn Tin học ở cấp THPT theo định hướng ICT và CS khác với chương trình trước đó ra sao?
+a. Nhằm tăng chuyên sâu một lĩnh vực mà không chú trọng linh hoạt.
+b. Nhằm quản lý lớp học dễ dàng và giảm khối lượng kiến thức chung.
+c. Giúp học sinh có cái nhìn tập trung và rõ ràng vào một định hướng.
+d. Để đáp ứng sở thích, năng lực và định hướng nghề nghiệp đa dạng của học sinh.
+**➡️ Đáp án đúng: d** 
+
+---
+
+### Câu 17
+
+Phương án nào sau đây KHÔNG phải là 1 trong 5 phẩm chất cốt lõi được đề cập trong chương trình giáo dục phổ thông?
+a. Nhân ái
+b. Trung thực
+c. Sáng tạo
+d. Yêu nước
+**➡️ Đáp án đúng: c** 
+
+---
+
+### Câu 18
+
+Theo Chương trình GDPT 2018, nội dung giáo dục môn Tin học được xác định dựa trên căn cứ nào?
+a. Các tiêu chuẩn quốc tế về công nghệ thông tin.
+b. Ý kiến chuyên gia trong ngành giáo dục Việt Nam.
+c. Số lượng phần mềm phổ biến hiện nay trên thị trường.
+d. Pháp lý, lý luận khoa học và thực tiễn phát triển xã hội.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 19
+
+Nội dung nào sau đây KHÔNG được kế thừa và phát triển trong chương trình môn Tin học 2018?
+a. Các phần mềm ứng dụng trong các môn học khác
+b. Khái niệm và một số thuật toán cơ bản
+c. Soạn thảo văn bản, tạo bảng tính và bài trình chiếu
+d. Các thành phần cơ bản của máy tính
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 20
+
+Chương trình môn Tin học góp phần hình thành, phát triển những năng lực chung nào?
+a. Giao tiếp và hợp tác; Tự chủ và tự học, Tin học ứng dụng.
+b. Tự chủ và tự học; Giải quyết vấn đề và sáng tạo; Ngôn ngữ hội nhập.
+c. Tự chủ và tự học; Giải quyết vấn đề và sáng tạo; Giao tiếp và hợp tác.
+d. Tự chủ và tự học; Giao tiếp và hợp tác; Sáng tạo thực tiễn.
+**➡️ Đáp án đúng: c** 
+
+---
+
+### Câu 22
+
+Nguyên tắc nào sau đây đảm bảo cho mỗi người học phát triển tối đa năng lực, sở trường, nhu cầu, sở thích cá nhân trong dạy học theo định hướng phát triển phẩm chất, năng lực?
+a. Dạy học phân hoá.
+b. Nội dung dạy học, giáo dục đảm bảo cơ bản, cốt lõi, hiện đại.
+c. Tạo môi trường để học sinh chủ động kiến tạo dưới sự hướng dẫn của giáo viên, làm cơ sở để hình thành phẩm chất, năng lực.
+d. Dạy học tích hợp.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 23
+
+Chủ đề D “Đạo đức, pháp luật và văn hóa trong môi trường số” chủ yếu hướng tới phát triển thành phần năng lực nào?
+a. NLa – Sử dụng và quản lí phương tiện CNTT&TT.
+b. NLb – Ứng xử phù hợp trong môi trường số.
+c. NLc – Giải quyết vấn đề với sự hỗ trợ CNTT&TT.
+d. NLe – Hợp tác trong môi trường số.
+**➡️ Đáp án đúng: b** 
+
+---
+
+### Câu 24
+
+Khi xây dựng kế hoạch dạy học trong môn Tin học, yêu cầu cần đạt giúp giáo viên làm gì?
+a. Xác định thiết bị công nghệ thông tin cần thiết khi dạy học.
+b. Thiết kế chương trình phù hợp cho mỗi học sinh.
+c. Giảm bớt nội dung tự chọn.
+d. Lựa chọn phương pháp giảng dạy và đánh giá phù hợp.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 25
+
+Một giáo viên tổ chức dạy học theo dự án cho học sinh lớp 8. Để thể hiện rõ nhất tinh thần "mở" của Chương trình Tin học 2018, giáo viên nên lựa chọn cách thức tổ chức nào sau đây?
+a. Yêu cầu học học sinh có quyền lựa chọn một công cụ mã nguồn mở để thực hiện chung một sản phẩm game giáo dục.
+b. Sử dụng ngôn ngữ lập trình Python cho cả lớp, nhưng cho phép học sinh được chọn một trong nhiều đề tài có độ khó tương đương nhau.
+c. Xây dựng danh mục các dự án với đề đa dạng và cho phép mỗi nhóm tự chọn dự án và ngôn ngữ lập trình để thực hiện.
+d. Tổ chức cho cả lớp cùng thực hiện một dự án lớn về bảo vệ môi trường, trong đó mỗi nhóm học sinh phụ trách một phần việc khác nhau.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 27
+
+Đâu KHÔNG phải là một trong các năng lực đặc thù của môn tin học?
+a. Hợp tác trong môi trường số
+b. Giải quyết vấn đề và sáng tạo
+c. Giải quyết vấn đề với sự hỗ trợ của công nghệ thông tin và truyền thông
+d. Sử dụng và quản lí các phương tiện công nghệ thông tin và truyền thông
+**➡️ Đáp án đúng: b** 
+
+---
+
+### Câu 28
+
+Nội dung giáo dục chuyên đề nào sau đây được định hướng trong chương trình Tin học cấp THPT?
+a. Tin học văn phòng
+b. Khoa học máy tính
+c. Quản lý hệ thống thông tin
+d. An ninh mạng
+**➡️ Đáp án đúng: b** 
+
+---
+
+### Câu 30
+
+Trong những biểu hiện sau đây, những biểu hiện nào là biểu hiện của Năng lực giao tiếp và hợp tác? (Chọn nhiều đáp án)
+a. Tổ chức và thuyết phục người khác
+b. Xác định trách nhiệm và hoạt động của bản thân
+c. Hình thành và triển khai ý tưởng mới
+d. Hội nhập quốc tế
+e. Thiết kế và tổ chức hoạt động
+**➡️ Đáp án đúng: a, b, d** 
+
+---
+
+### Câu 1
+
+Phương án nào sau đây KHÔNG nằm trong 5 năng lực thành phần của năng lực đặc thù môn môn Tin học?
+a. Năng lực ứng xử phù hợp trong môi trường số
+b. Năng lực hợp tác trong môi trường số
+c. Năng lực giải quyết vấn đề và sáng tạo
+d. Năng lực sử dụng và quản lý các phương tiện công nghệ thông tin và truyền thông
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 2
+
+Chương trình môn Tin học góp phần hình thành, phát triển những phẩm chất chủ yếu nào?
+a. Yêu nước, trung thực, chăm chỉ, nhân ái
+b. Yêu nước, trách nhiệm, trung thực
+c. Yêu nước, trách nhiệm, trung thực, chăm chỉ, nhân ái
+d. Yêu nước, trách nhiệm, khiêm tốn, thật thà, nhân ái
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 4
+
+Đâu KHÔNG phải là YCCĐ của Năng lực giao tiếp và hợp tác?
+a. Thích ứng với cuộc sống
+b. Tổ chức thuyết phục người khác
+c. Xác định trách nhiệm và hoạt động của bản thân
+d. Hội nhập quốc tế
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 5
+
+Trong chương trình môn Tin học, một số động từ được dùng để thể hiện mức độ đáp ứng yêu cầu cần đạt về năng lực của người học, ba mức độ chính thường được dùng là gì?
+a. Biết – Hiểu – Vận dụng.
+b. Biết – Thực hành – Vận dụng.
+c. Hiểu – Đánh giá – Sáng tạo.
+d. Hiểu – Tư duy – Sáng tạo.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 6
+
+Những năng lực nào thể hiện một cách khái quát hoạt động trong lĩnh vực Tin học?
+a. Năng lực phương pháp; năng lực chuyên môn; năng lực số; năng lực cá thể và năng lực giải quyết.
+b. Năng lực chuyên môn; năng lực nghề nghiệp; năng lực xã hội; năng lực phương pháp và năng lực cá thể.
+c. Năng lực giải quyết; năng lực phương pháp; năng lực nghề nghiệp; năng lực xã hội và năng lực phát triển.
+d. Năng lực số; năng lực giải quyết; năng lực xã hội; năng lực cá thể và năng lực phát triển
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 7
+
+Chủ đề “Đạo đức pháp luật và văn hóa trong môi trường số” giúp học sinh phát triển năng lực nào sau đây là chủ yếu?
+a. Hợp tác trong môi trường số
+b. Giải quyết vấn đề với sự hỗ trợ của CNTT và truyền thông
+c. Ứng xử phù hợp trong môi trường số
+d. Sử dụng và quản lý các phương tiện CNTT và truyền thông
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 8
+
+Nội dung môn Tin học được phân chia theo giai đoạn nào?
+a. Giai đoạn giáo dục cơ bản, giao đoạn giáo dục nghề nghiệp
+b. Giai đoạn giáo dục cơ bản, giai đoạn giáo dục định hướng nghề nghiệp
+c. Giai đoạn giáo dục phổ thông, giai đoạn giáo dục đại học
+d. Giai đoạn giáo dục tiểu học, giao đoạn giáo dục trung học cơ sở, giai đoạn giáo dục trung học phổ thông
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 9
+
+Trong một bài dạy thuộc mạch kiến thức Tin học ứng dụng, giáo viên đã thực hiện trên phòng máy tính để tạo cơ hội cho học sinh được thực hành, thử nghiệm vận dụng từng đơn vị kiến thức ngay tại lớp. Việc làm này của giáo viên thể hiện rõ nhất nguyên tắc nào dưới đây trong dạy học phát triển phẩm chất, năng lực?
+a. Nội dung dạy học, giáo dục phải đảm bảo tính cơ bản, thiết thực, hiện đại.
+b. Tăng cường dạy học, giáo dục phân hoá.
+c. Tăng cường dạy học, giáo dục tích hợp.
+d. Tăng cường những hoạt động thực hành, trải nghiệm cho học sinh
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 10
+
+Trong một bài học Tin học, học sinh được yêu cầu tìm hiểu cách sử dụng phần mềm lập kế hoạch học tập, sau đó xác định mục tiêu và phương pháp học tập cho bản thân. Hoạt động này góp phần phát triển năng lực chung nào nhiều nhất?
+a. Giao tiếp và tự học.
+b. Tự chủ và tự học.
+c. Giao tiếp và hợp tác.
+d. Giải quyết vấn đề và sáng tạo.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 11
+
+Khi giải quyết một bài toán lập trình, năng lực chung quan trọng nhất mà học sinh cần có là gì?
+a. Năng lực tự học
+b. Năng lực hợp tác
+c. Năng lực giao tiếp
+d. Năng lực giải quyết vấn đề
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 12
+
+Khi xây dựng nội dung chương trình môn Tin học, “yêu cầu cần đạt” có ý nghĩa quan trọng nhất là gì?
+a. Làm cơ sở thiết kế công cụ đánh giá kết quả học tập học sinh.
+b. Xác định chuẩn kiến thức, kĩ năng và thái độ học sinh cần đạt.
+c. Định hướng biên soạn sách giáo khoa và tài liệu giảng dạy chi tiết.
+d. Giúp giáo viên lựa chọn phương pháp dạy học phù hợp từng nội dung.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 13
+
+Chương trình môn Tin học được xây dựng dựa trên những căn cứ nào?
+a. Kết quả khảo sát thực tiễn.
+b. Mục tiêu của chương trình hiện hành.
+c. Pháp lí, thực tiễn và lí luận, khoa học.
+d. Pháp lí và lí luận, khoa học.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 14
+
+Cách tiếp cận mới về dạy lập trình trong chương trình 2018 nhấn mạnh vào điều gì?
+a. Thực hiện dạy học lý thuyết trước, thực hành sau.
+b. Khám phá và giải quyết các vấn đề thực tế thông qua lập trình.
+c. Sử dụng các ngôn ngữ lập trình phức tạp để giải quyết vấn đề.
+d. Tập trung vào việc lập trình bài toán hoàn chỉnh.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 15
+
+Sự khác biệt chính giữa ba mạch kiến thức DL, ICT, và CS là gì?
+a. DL tập trung vào kỹ năng cơ bản; ICT vào ứng dụng; CS vào tư duy thuật toán
+b. DL chỉ đề cập đến đạo đức; ICT và CS tập trung vào kỹ thuật
+c. ICT và CS là các phần mở rộng của DL
+d. Không có sự khác biệt rõ ràng giữa ba mạch kiến thức
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 16
+
+Trong giai đoạn giáo dục định hướng nghề nghiệp, nội dung môn Tin học có sự phân hóa sâu và được chia theo các định hướng nào?
+a. Học vấn số hoa phổ thông, Công nghệ thông tin và truyển thông, Khoa học máy tính
+b. Tin học ứng dụng, Công nghệ thông tin và truyền thông
+c. Công nghệ thông tin và truyền thông, Khoa học máy tinh
+d. Tin học ứng dụng, Khoa học máy tính
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 17
+
+Các chủ đề trong môn Tin học A,B,C,D,E,F được sắp xếp theo sự ưu tiên và xuất hiện xuyên suốt từ lớp 1 đến lớp 12. Đúng hay Sai?
+a. Sai
+b. Đúng
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 18
+
+Trong đánh giá thường xuyên môn Tin học theo Chương trình GDPT 2018, yếu tố nào được coi là căn cứ quan trọng nhất?
+a. Yêu cầu cần đạt của từng chủ đề học tập.
+b. Điểm số trung bình của các bài kiểm tra viết.
+c. Hệ thống bài tập trong sách giáo khoa.
+d. Sự linh hoạt trong phương pháp dạy của giáo viên.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 20
+
+Hành vi nào sau đây KHÔNG đúng khi quản lý dữ liệu trên các thiết bị lưu trữ?
+a. Đặt mật khẩu cho các file quan trọng
+b. Sử dụng phần mềm diệt virus
+c. Chia sẻ công khai thông tin cá nhân trên các nền tảng mạng xã hội
+d. Sao lưu dữ liệu định kỳ
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 21
+
+Việc đưa "tư duy thuật toán và lập trình" vào giảng dạy ngay từ cấp tiểu học có ý nghĩa gì đối với học sinh?
+a. Làm quen sớm với các ngôn ngữ lập trình phức tạp để chuẩn bị cho cấp THPT.
+b. Có thể sớm tự làm ra các sản phẩm số, từ đó phát triển tư duy máy tính.
+c. Sớm tiếp cận các phương pháp giải quyết vấn đề của các kỹ sư công nghệ.
+d. Định hướng lựa chọn ngành nghề thuộc lĩnh vực tin học sau này.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 22
+
+Năng lực tự chủ và tự học có thể được rèn luyện qua hoạt động nào sau đây?
+a. Thường xuyên tham dự các buổi biểu diễn văn nghệ
+b. Tham gia các hoạt động xã hội cùng bạn bè.
+c. Thực hiện các bài kiểm tra
+d. Lập kế hoạch học tập cá nhân và tự đánh giá kết quả học tập.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 23
+
+Mục tiêu chính của môn Tin học là gì?
+a. Giúp học sinh sử dụng công nghệ thông tin hiệu quả
+b. Tăng cường kiến thức lý thuyết
+c. Đảm bảo học sinh có điểm cao trong các kỳ thi
+d. Phát triển kỹ năng lập trình
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 24
+
+Trong môn Tin học, khối lớp và định hướng nào ở cấp học Trung học phổ thông giúp học sinh đạt được mục tiêu “hiểu một số khái niệm cơ bản và ứng dụng một số kiểu dữ liệu tuyến tính, cây và đồ thị trong thuật toán sắp xếp và tìm kiếm”?
+a. Lớp 11 – Khoa học máy tính.
+b. Lớp 12 – Khoa học máy tính.
+c. Lớp 12 – Tin học ứng dụng.
+d. Lớp 11 – Tin học ứng dụng.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 25
+
+Theo định hướng Khoa học máy tính ở cấp THPT, học sinh cần đạt được yêu cầu cần đạt nào dưới đây?
+a. Biết cách cài đặt và gỡ bỏ phần mềm trên các thiết bị.
+b. Sử dụng thành thạo các phần mềm tin học văn phòng.
+c. Hiểu được các phép toán nhị phân cơ bản và ứng dụng.
+d. Phân tích được dữ liệu với các phần mềm bảng tính.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 26
+
+Giáo viên muốn ra đề kiểm tra môn Tin học theo đúng yêu cầu cần đạt của chương trình thì cần lưu ý điều nào dưới đây?
+a. Cần sử dụng đúng các động từ được quy định trong chương trình, đồng thời hạn chế thay đổi để giữ sự thống nhất và khách quan trong đánh giá.
+b. Tham chiếu bảng động từ trong chương trình và có thể thay thế bằng các từ đồng nghĩa, miễn là phù hợp với tình huống sư phạm và nhiệm vụ học tập.
+c. Có thể lựa chọn động từ dựa trên kinh nghiệm cá nhân và phong cách giảng dạy, miễn là vẫn đảm bảo phù hợp với mục tiêu chung của đề kiểm tra.
+d. Có thể tập trung vào tính chính xác của kiến thức, đồng thời linh hoạt trong lựa chọn động từ, sao cho phù hợp với yêu cầu và nội dung của đề kiểm tra.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 27
+
+Mục tiêu chính của phân hóa trong chương trình Tin học là gì?
+a. Thay đổi nội dung giảng dạy hàng năm
+b. Tăng cường kiến thức lý thuyết
+c. Giảm khối lượng kiến thức cho học sinh.
+d. Định hướng nghề nghiệp cho học sinh.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 28
+
+Nội dung và các yêu cầu cần đạt của một số chủ đề trong chương trình GDPT 2018 giúp hình thành và phát triển trực tiếp 3 thành phần năng lực tin học: ***(1)*** “Ứng dụng công nghệ thông tin và truyền thông trong học và tự học”; ***(2)*** “Hợp tác trong môi trường số” và ***(3)*** “Giải quyết vấn đề với sự hỗ trợ của công nghệ thông tin và truyền thông”.
+Từ đoạn nội dung trên (1), (2), (3) lần lượt là:
+A. Nld, Nlc, Nle.
+B. Nle, Nld, Nlc.
+C. Nlc, Nle, Nld.
+D. Nld, Nle, Nlc.
+**➡️ Đáp án đúng: D**
+
+---
+
+### Câu 29
+
+Hoạt động nào sau đây thể hiện việc áp dụng mạch kiến thức ICT, chứ không phải CS?
+a. Viết thuật toán để sắp xếp danh sách học sinh theo thứ tự bảng chữ cái.
+b. Nghiên cứu nguyên lý hoạt động của một ngôn ngữ lập trình.
+c. Xây dựng quy trình phù hợp để thiết kế một tờ rơi quảng cáo.
+d. Sử dụng phần mềm chỉnh sửa ảnh để thiết kế một tờ rơi quảng cáo.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 1
+
+Theo Chương trình môn Tin học 2018, công cụ đánh giá thường xuyên phải dựa trên cơ sở nào?
+a. Nội dung được quy định dựa trên SGK.
+b. Bám sát vào các yêu cầu cần đạt.
+c. Ý kiến chủ quan của giáo viên trong quá trình DH.
+d. Kết quả tổng hợp của các bài kiểm tra định kỳ.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 3
+
+Trong những biểu hiện sau đây, những biểu hiện nào là biểu hiện của Năng lực giao tiếp và hợp tác? (Chọn nhiều đáp án)
+a. Tổ chức và thuyết phục người khác
+b. Xác định trách nhiệm và hoạt động của bản thân
+c. Thiết kế và tổ chức hoạt động
+d. Hình thành và triển khai ý tưởng mới
+e. Hội nhập quốc tế
+**➡️ Đáp án đúng: a, b, e**
+
+---
+
+### Câu 4
+
+“Xác định trách nhiệm và hoạt động của bản thân” là một trong các biểu hiện của năng lực chung nào?
+a. Tự chủ và tự học.
+b. Giao tiếp và sáng tạo.
+c. Giải quyết vấn đề và sáng tạo.
+d. Giao tiếp và hợp tác.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 5
+
+Đâu là một trong những nội dung cốt lõi của chủ đề B (Mạng máy tính và Internet) thuộc chương trình Tin học lớp 10?
+a. Kỹ năng sử dụng thiết bị số của mỗi công dân.
+b. Sử dụng dịch vụ web; tự bảo vệ khi tham gia mạng.
+c. Nghĩa vụ tuân thủ pháp lí trong môi trường số.
+d. Vai trò của máy tính và các thiết bị thông minh trong nền kinh tế tri thức.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 6
+
+Nguyên tắc nào dưới đây KHÔNG phải là nguyên tắc dạy học theo định hướng phát triển phẩm chất, năng lực?
+a. Tăng cường những hoạt động thực hành, trải nghiệm cho học sinh.
+b. Đảm bảo tính tích cực của người học khi tham gia vào hoạt động học tập.
+c. Chú trọng rèn luyện cho học sinh kiến thức kĩ năng.
+d. Tăng cường dạy học, giáo dục tích hợp liên môn.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 10
+
+Theo chương trình Giáo dục Phổ thông 2018, yêu cầu cần đạt của môn Tin học bao gồm những điều nào sau đây? (Chọn 2 đáp án đúng)
+a. Học sinh có khả năng thiết kế đồ họa nâng cao và tạo video chuyên nghiệp.
+b. Học sinh biết sử dụng các ứng dụng văn phòng cơ bản như xử lý văn bản và bảng tính.
+c. Học sinh có khả năng lập trình phần mềm phức tạp từ đầu.
+d. Học sinh biết cách tìm kiếm và xử lý thông tin trên Internet.
+**➡️ Đáp án đúng: b, d**
+
+---
+
+### Câu 11
+
+Ở cấp trung học phổ thông (THPT), “HS biết được các cấu trúc dữ liệu cơ bản, các thuật toán sắp xếp và tìm kiếm cơ bản, viết được chương trình, tạo được trang web đơn giản” là biểu hiện của năng lực tin học thành phần nào dưới đây?
+a. NLb.
+b. NLd.
+c. NLa.
+d. NLc.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 14
+
+Một trong những phẩm chất chủ yếu mà chương trình GDPT 2018 nhấn mạnh là gì?
+a. Tự do cá nhân trong mọi tình huống của cuộc sống.
+b. Sáng tạo trong tất cả lĩnh vực nghiên cứu khoa học.
+c. Kiên trì vượt khó trong mọi hoạt động của tập thể.
+d. Trung thực trong học tập và trong giao tiếp xã hội.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 15
+
+Một trong những đóng góp đặc thù của môn Tin học trong việc phát triển năng lực giao tiếp và hợp tác là gì?
+a. Hội nhập quốc tế nhờ sử dụng công cụ công nghệ thông tin để giao tiếp và trao đổi học tập.
+b. Xác định mục đích, nội dung, phương tiện và thái độ giao tiếp trong môi trường số.
+c. Đánh giá hoạt động hợp tác dựa trên kết quả sản phẩm công nghệ thông tin.
+d. Tổ chức và thuyết phục người khác thông qua thảo luận, làm việc nhóm trực tuyến.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 16
+
+Căn cứ để xác định yêu cầu cần đạt là:
+a. Căn cứ pháp lí; căn cứ lí luận, khoa học; căn cứ thực tiễn
+b. Căn cứ pháp lí; căn cứ đạo đức; căn cứ thực tiễn
+c. Căn cứ pháp lí; căn cứ lí luận, khoa học; căn cứ đạo đức
+d. Căn cứ đạo đức; căn cứ lí luận, khoa học; căn cứ thực tiễn
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 19
+
+Kết quả mà HS cần đạt được về phẩm chất và năng lực (Kiến thức, kỹ năng, thái độ) sau mỗi cấp học, lớp học, môn học; trong đó, mỗi cấp học, lớp học sau đều có những yêu cầu riêng cao hơn, đồng thời bao gồm cả những yêu cầu đối với các cấp học, lớp học trước đó. Đây là ý nghĩa của thuật ngữ nào sau đây?
+a. Kết quả cần đạt
+b. Nội dung cần đạt
+c. Yêu cầu cần đạt
+d. Mục tiêu cần đạt
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 26
+
+Khi dạy học môn Tin học theo chương trình GDPT 2018, giáo viên cần lưu ý điều gì để nâng cao hiệu quả dạy học?
+a. Tập trung chủ yếu vào lý thuyết
+b. Cung cấp tài liệu học tập không giới hạn
+c. Dạy học theo phương pháp giảng giải truyền thống
+d. Đảm bảo sự cân bằng giữa lý thuyết và thực hành
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 28
+
+Hợp tác trong môi trường số là năng lực đặc thù nào?
+a. NLd
+b. NLe
+c. NLa
+d. NLb
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 29
+
+Những biểu hiện nào dưới đây của học sinh Tiểu học thể hiện việc đạt được thành phần năng lực NLa (Sử dụng và quản lí các phương tiện công nghệ thông tin và truyền thông)? (Chọn nhiều đáp án)
+A. Biết cách sắp xếp các tệp tin trong máy tính.
+B. Biết cách khởi động và tắt một máy tính một cách đúng trình tự.
+C. Tự vẽ được một bức tranh bằng phần mềm đồ họa.
+D. Diễn đạt được các bước để tìm kiếm thông tin về một loài động vật.
+E. Phân biệt được máy tính xách tay và máy tính để bàn.
+F. Nêu được sơ lược lí do cần bảo vệ thông tin cá nhân.
+**➡️ Đáp án đúng: A, B, E**
+
+---
+
+### Câu 1
+
+Chương trình giáo dục phổ thông môn Tin học 2018 đưa thêm chủ đề mới nào xuyên suốt từ lớp 8 đến lớp 12?
+a. Máy tính và xã hội tri thức.
+b. Ứng dụng tin học.
+c. Hướng nghiệp với tin học.
+d. Mạng máy tính và Internet.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 2
+
+Đâu là các năng lực đặc thù của môn Tin học? (Chọn nhiều đáp án)
+a. Tự chủ và tự học
+b. Giải quyết vấn đề và sáng tạo
+c. Hợp tác trong môi trường số
+d. Sử dụng và quản lí các phương tiện công nghệ thông tin và truyền thông
+e. Giải quyết vấn đề với sự hỗ trợ của công nghệ thông tin và truyền thông
+f. Ứng dụng công nghệ thông tin và truyền thông trong học và tự học
+g. Ứng xử phù hợp trong môi trường số
+**➡️ Đáp án đúng: c, d, e, f, g**
+
+---
+
+### Câu 5
+
+Chủ đề nào sau đây giúp học sinh phát triển khả năng tư duy logic và giải quyết vấn đề?
+a. Thuật toán và lập trình.
+b. Đạo đức, pháp luật và văn hóa trong môi trường số.
+c. Hướng nghiệp với tin học.
+d. Ứng dụng tin học.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 6
+
+Thành phần nào sau đây KHÔNG là năng lực đặc thù Tin học?
+a. Sử dụng và quản lí các phương tiện công nghệ thông tin và truyền thông.
+b. Ứng dụng công nghệ thông tin và truyền thông trong học và tự học.
+c. Giải quyết vấn đề với sự hỗ trợ của công nghệ thông tin và truyền thông.
+d. Giao tiếp và ứng xử phù hợp trong môi trường công nghệ thông tin.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 8
+
+Môn Tin học có 7 chủ đề chính xuyên suốt. Tuy nhiên, ở cấp trung học cơ sở (THCS) chủ đề nào sau đây chỉ được học ở lớp 8 và lớp 9?
+a. Chủ đề G. Hướng nghiệp với tin học.
+b. Chủ đề E. Ứng dụng tin học.
+c. Chủ đề A. Máy tính và xã hội tri thức.
+d. Chủ đề B. Mạng máy tính và Internet.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 12
+
+Yêu cầu cần đạt "Đọc hiểu được chương trình máy tính đơn giản" trực tiếp góp phần phát triển phẩm chất nào cho học sinh?
+a. Chăm chỉ.
+b. Nhân ái.
+c. Yêu nước.
+d. Trách nhiệm.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 13
+
+Trong Chương trình GDPT 2018, "yêu cầu cần đạt" và "nội dung giáo dục" có mối quan hệ
+a. song hành nhưng độc lập, với "Yêu cầu cần đạt" tập trung vào kỹ năng, còn "Nội dung giáo dục" tập trung vào kiến thức lý thuyết.
+b. mang tính tham khảo, trong đó "Nội dung giáo dục" là những gợi ý để giáo viên lựa chọn nhằm đáp ứng một số "Yêu cầu cần đạt" cơ bản.
+c. tương hỗ lẫn nhau, trong đó “Yêu cầu cần đạt” là mục tiêu, còn “Nội dung giáo dục” là phương tiện để thực hiện mục tiêu đó.
+d. một chiều, trong đó "Nội dung giáo dục" là nền tảng bắt buộc để từ đó suy ra các "Yêu cầu cần đạt" tương ứng.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 14
+
+Đâu KHÔNG phải là nội dung giáo dục toàn cấp Tiểu học?
+a. Mạng máy tính và Internet
+b. Ứng dụng tin học
+c. Đạo đức, pháp luật và văn hoá trong môi trường số
+d. Hướng nghiệp tin học
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 15
+
+Trong các chủ đề dưới đây, chủ đề nào thuộc chương trình Tin học phổ thông? (Chọn nhiều đáp án)
+A. Giải quyết vấn đề với sự trợ giúp của máy tính.
+B. Ứng dụng công nghệ thông tin và truyền thông trong học và tự học.
+C. Hướng nghiệp với tin học.
+D. Đạo đức, pháp luật và văn hóa trong môi trường số.
+E. Tổ chức, lưu trữ, phân tích và trực quan hoá thông tin.
+F. Mạng máy tính và Internet.
+**➡️ Đáp án đúng: A, C, D, F**
+
+---
+
+### Câu 16
+
+Mục tiêu chính mà chương trình môn Tin học 2018 kế thừa và phát triển so với chương trình cũ là gì?
+a. Chỉ tập trung vào mạch kiến thức Công nghệ thông tin (ICT)
+b. Chỉ tập trung vào mạch kiến thức Khoa học máy tính (CS)
+c. Loại bỏ hoàn toàn các nội dung của chương trình cũ
+d. Tập trung vào cả 3 mạch kiến thức ICT, DL và CS, nhưng chú trọng hơn vào CS
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 20
+
+Học sinh sử dụng Google Meet tổ chức cuộc họp để các thành viên nhóm thảo luận, đưa ra ý kiến về nội dung bài thuyết trình, đó là biểu hiện của thành phần năng lực nào?
+a. Nlc
+b. Nld
+c. Nla
+d. Nle
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 21
+
+Giáo viên cần “tránh quan niệm một hoạt động giáo dục nào đó chỉ nhằm rèn luyện, phát triển duy nhất một thành phần cụ thể của năng lực tin học” chủ yếu dựa trên nhận định nào sau đây về bản chất của năng lực?
+a. Các năng lực thành phần đảm nhận vai trò độc lập, mỗi năng lực hướng đến một mục tiêu cụ thể của chương trình.
+b. Việc kết hợp nhiều năng lực trong cùng một hoạt động giúp nhận diện rõ biểu hiện của từng năng lực hơn, song khó xác định năng lực nào giữ vai trò chính.
+c. Các năng lực thành phần thường được hình thành hiệu quả nhất khi được rèn luyện theo tiến trình riêng, sau đó mới tích hợp dần.
+d. Các năng lực có tính liên kết, bổ trợ và thường được vận dụng đồng thời khi học sinh giải quyết một vấn đề thực tiễn.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 23
+
+Năng lực Tin học nào sau đây được kí hiệu là Nlc?
+a. Ứng dụng CNTT và truyền thông trong học và tự học
+b. Sử dụng và quản lý các phương tiện CNTT và truyền thông
+c. Hợp tác trong môi trường số
+d. Giải quyết vấn đề với sự hỗ trợ của CNTT và truyền thông
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 24
+
+Trong môn Tin học, chủ đề “Đạo đức, pháp luật và văn hoá trong môi trường số” chủ yếu giúp học sinh rèn phẩm chất gì?
+a. Yêu nước và chăm chỉ.
+b. Nhân ái và sáng tạo.
+c. Trách nhiệm và trung thực.
+d. Dũng cảm và đoàn kết.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 25
+
+Trong chương trình GDPT 2018 môn Tin học, mạch kiến thức ****(1)**** nhằm trả lời câu hỏi “Hệ thống máy tính hoạt động như thế nào?”, còn hai mạch kiến thức ****(2)**** và ***(3)***__ nhằm trả lời câu hỏi “Hệ thống máy tính được sử dụng như thế nào?”. Nhờ đó, chương trình vừa giúp học sinh phát triển ****(4)**** vừa hình thành khả năng ****(5)**** trong học tập và đời sống.
+Chọn đáp án đúng để điền vào (1) và (5):
+A. (1) CS; (5) sử dụng và ứng dụng hệ thống máy tính.
+B. (1) ICT; (5) kĩ năng về ngôn ngữ lập trình
+C. (1) DL; (5) tư duy thuật toán và giải thuật
+D. (1) ICT; (5) sử dụng và áp dụng hệ thống máy tính.
+**➡️ Đáp án đúng: A**
+
+---
+
+### Câu 29
+
+Trong Chương trình GDPT 2018 môn Tin học, việc phát triển tư duy và khả năng giải quyết vấn đề, biết chọn thông tin và dữ liệu phù hợp, hữu ích là mục tiêu của cấp học nào?
+a. Trung học cơ sở.
+b. Tiểu học.
+c. Trung học phổ thông.
+d. Tất cả các cấp học.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 1
+
+Việc “Sử dụng các công cụ tìm kiếm để tìm kiếm thông tin phục vụ cho việc học tập” là một biểu hiện của năng lực nào?
+a. NLe
+b. NLc
+c. NLa
+d. NLd
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 3
+
+Trong chương trình GDPT 2018 môn Tin học yêu cầu hình thành bao nhiêu năng lực chung cho học sinh?
+a. 3 năng lực: Tự chủ và tự học, giải quyết vấn đề và sáng tạo, giao tiếp và hợp tác.
+b. 2 năng lực: Tự chủ và tự học, hợp tác và giải quyết vấn đề.
+c. 3 năng lực: Tự học và sáng tạo, hợp tác và giải quyết vấn đề, tự chủ và giao tiếp.
+d. 2 năng lực: Giải quyết vấn đề và sáng tạo, tự chủ và giao tiếp.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 4
+
+“Đánh giá được những ưu điểm và hạn chế về tình cảm, cảm xúc của bản thân; tự tin, lạc quan” là biểu hiện của năng lực chung nào?
+a. Năng lực tự chủ và tự học
+b. Năng lực giải quyết vấn đề với sự hỗ trợ của công nghệ thông tin và truyền thông
+c. Năng lực giải quyết vấn đề và sáng tạo
+d. Năng lực giao tiếp và hợp tác
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 5
+
+Điểm khác biệt chính trong yêu cầu cần đạt về năng lực Tin học ở cấp THCS so với cấp Tiểu học là gì?
+a. Tiếp cận các khái niệm cơ bản về thuật toán và lập trình.
+b. Chú trọng đến việc khai thác phần mềm vẽ và soạn thảo văn bản.
+c. Tập trung nhiều hơn vào việc rèn luyện thao tác với phần cứng máy tính.
+d. Giới hạn trong việc học cách khởi động và tắt máy tính đúng quy trình.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 9
+
+Trong một buổi thảo luận nhóm môn Tin học, học sinh chủ động trình bày quan điểm rõ ràng, lựa chọn cách diễn đạt phù hợp với nội dung và hoàn cảnh. Hoạt động này thể hiện thành tố nào của năng lực giao tiếp và hợp tác?
+a. Đánh giá hoạt động hợp tác.
+b. Xác định mục đích, nội dung, phương tiện và thái độ giao tiếp.
+c. Thiết lập, phát triển các quan hệ xã hội; điều chỉnh và hoá giải mâu thuẫn.
+d. Tổ chức và thuyết phục người khác.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 12
+
+Theo Chương trình GDPT môn Tin học 2018, mạch kiến thức DL (Học vấn số hoá phổ thông) góp phần phát triển chủ yếu thành phần năng lực Tin học nào dưới đây?
+a. NLc – Giải quyết vấn đề với sự hỗ trợ của CNTT & TT; NLe – Hợp tác trong môi trường số; Nle – Hợp tác trong môi trường số.
+b. NLa – Sử dụng và quản lí phương tiện CNTT & TT; NLd – Ứng dụng CNTT & TT trong học và tự học; Nle – Hợp tác trong môi trường số.
+c. NLe – Hợp tác trong môi trường số; NLd – Ứng dụng CNTT & TT trong học và tự học; NLc – Giải quyết vấn đề với sự hỗ trợ của công nghệ thông tin và truyền thông.
+d. NLb – Ứng xử phù hợp trong môi trường số; NLd – Ứng dụng công nghệ thông tin và truyền thông trong học và tự học; Nle – Hợp tác trong môi trường số.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 13
+
+Trong các phẩm chất chủ yếu sau, chương trình GDPT 2018 môn Tin học trực tiếp góp phần bồi dưỡng cho học sinh phẩm chất nào?
+a. Yêu nước, linh hoạt, hợp tác, cẩn thận và sáng tạo.
+b. Yêu nước, đoàn kết, nhân ái, sáng tạo và trách nhiệm.
+c. Yêu nước, ham học, tự tin, trung thực và kỷ luật.
+d. Yêu nước, nhân ái, chăm chỉ, trung thực và trách nhiệm.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 14
+
+Chương trình GDPT có mục tiêu hình thành và phát triển cho học sinh những phẩm chất chủ yếu gì?
+a. Yêu nước, sáng tạo, chăm chỉ, trung thực, trách nhiệm.
+b. Yêu nước, nhân nghĩa, cần kiệm, trung thực, kỷ cương.
+c. Yêu nước, nhân ái, trung thực, cần cù, cần kiệm.
+d. Yêu nước, nhân ái, chăm chỉ, trung thực, trách nhiệm.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 15
+
+Để quản lý hiệu quả các tài liệu và phần mềm cho một dự án học tập, học sinh cần phát triển năng lực nào?
+a. NLb
+b. NLc
+c. NLd
+d. NLa
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 16
+
+Năng lực tin học đạt được ở cấp nào góp phần chuẩn bị cho học sinh học tiếp giai đoạn giáo dục định hướng nghề nghiệp, học trường nghề hoặc tham gia lao động?
+a. Cấp Trung học cơ sở
+b. Cấp Tiểu học
+c. Cấp THPT
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 17
+
+Yêu cầu "hiểu và ứng xử có văn hoá trong thế giới ảo" ở cấp THCS thể hiện sự đóng góp của môn Tin học vào việc bồi dưỡng phẩm chất nào?
+a. Yêu nước và nhân ái.
+b. Trung thực và chăm chỉ.
+c. Chăm chỉ và trung thực.
+d. Nhân ái và trách nhiệm.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 18
+
+Chuyên đề định hướng tin học ứng dụng chủ yếu tập trung vào vấn đề nào sau đây?
+a. Áp dụng CNTT vào các lĩnh vực cụ thể như quản lý, giáo dục, khoa học.
+b. Phát triển kỹ năng sử dụng thành thạo ngôn ngữ lập trình nâng cao.
+c. Cung cấp đầy đủ kiến thức cơ bản về các công nghệ hiện đại mới.
+d. Học sinh học cách sử dụng thành thạo các phần mềm đồ họa.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 21
+
+Trong dự án học tập, học sinh lớp 11 được giao tạo sản phẩm số phục vụ tuyên truyền an toàn giao thông. Yêu cầu cần đạt nào phản ánh rõ nhất năng lực được phát triển?
+a. Hợp tác trong môi trường số thông qua làm việc nhóm trực tuyến để hoàn thiện sản phẩm.
+b. Giải quyết vấn đề thực tiễn bằng sản phẩm số có thông điệp rõ ràng.
+c. Quản lí phương tiện CNTT bằng cách lựa chọn phần mềm phù hợp để dựng video.
+d. Ứng dụng CNTT để thiết kế poster số và chia sẻ trên mạng xã hội.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 27
+
+“Tôn trọng sự khác biệt ở mọi người” là biểu hiện của phẩm chất nào?
+a. Chăm chỉ.
+b. Yêu nước.
+c. Nhân ái.
+d. Trách nhiệm.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 28
+
+Vì sao việc biên soạn sách giáo khoa và học liệu Tin học phải căn cứ vào yêu cầu cần đạt?
+a. Giáo viên cần có công cụ giảng dạy thống nhất và phần mềm hỗ trợ phù hợp với nội dung bài học.
+b. Giáo viên có thể linh hoạt điều chỉnh nội dung bài dạy phù hợp với năng lực của học sinh.
+c. Làm căn cứ hướng dẫn chi tiết, đảm bảo nội dung sách đáp ứng đúng mục tiêu của chương trình giáo dục.
+d. Sách giáo khoa cần đảm bảo tính đồng bộ với chương trình các môn học khác theo quy định của Bộ GD&ĐT.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 29
+
+Nội dung nào dưới đây KHÔNG thuộc 7 chủ đề chính xuyên suốt của môn Tin học trong chương trình giáo dục phổ thông 2018? (Chọn nhiều đáp án)
+A. Điện toán đám mây.
+B. Ứng dụng tin học.
+C. Trí tuệ nhân tạo.
+D. Mạng máy tính và Internet.
+**➡️ Đáp án đúng: A, C**
+
+---
+
+### Câu 4
+
+Nội dung nào sau đây KHÔNG thuộc chương trình Tin học cấp Tiểu học theo chương trình 2018?
+a. Lập trình các thuật toán phức tạp.
+b. Tìm kiếm thông tin trên Internet.
+c. Sử dụng các phần mềm soạn thảo văn bản cơ bản.
+d. Làm quen với máy tính và các thiết bị ngoại vi.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 5
+
+Nội dung giáo dục môn Tin học được xây dựng dựa trên căn cứ nào?
+a. Kết quả nghiên cứu và tham vấn chuyên gia
+b. Ý kiến từ giáo viên và học sinh
+c. Căn cứ pháp lý, lý luận khoa học, và thực tiễn
+d. Chính sách và hướng dẫn của các tổ chức quốc tế
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 6
+
+Để phát triển năng lực giải quyết vấn đề và sáng tạo cho học sinh, giáo viên nên làm gì?
+a. Tạo ra các tình huống thực tế để học sinh trải nghiệm
+b. Dạy cho học sinh các công thức và quy tắc
+c. Cho học sinh nhiều bài tập rèn luyện
+d. Khuyến khích học sinh học thuộc long
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 7
+
+Trong chương trình môn Tin học, yêu cầu cần đạt có vai trò quan trọng trong việc thiết kế kiểm tra, đánh giá. Phương án nào dưới đây KHÔNG phản ánh đúng vai trò này?
+a. Cung cấp căn cứ để xây dựng công cụ đánh giá định kì và đánh giá diện rộng theo từng cấp học.
+b. Quy định cụ thể hình thức kiểm tra, số lượng câu hỏi và mức độ phân hóa trong từng bài kiểm tra.
+c. Giúp giáo viên xây dựng công cụ đánh giá thường xuyên phù hợp với từng nội dung học tập.
+d. Đảm bảo việc đánh giá năng lực Tin học của học sinh bám sát mục tiêu chương trình.
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 8
+
+Điểm khác biệt cốt lõi giữa yêu cầu bổ sung của định hướng Tin học ứng dụng (ICT) và Khoa học máy tính (CS) ở cấp THPT là gì?
+a. ICT hướng tới việc giải quyết vấn đề thực tế, trong khi CS hướng tới việc thiết kế mạng và mô phỏng.
+b. ICT chú trọng việc tạo ra sản phẩm số, còn CS chú trọng vào tư duy điều khiển và tự động hóa.
+c. ICT tập trung vào các phần mềm tin học văn phòng, còn CS tập trung vào ngôn ngữ lập trình bậc cao.
+d. ICT tập trung vào các công cụ và ứng dụng có sẵn, trong khi CS tập trung vào nguyên lý và thuật toán.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 10
+
+Ưu điểm lớn nhất của việc phân hoá chương trình học theo hai định hướng ở cấp THPT là gì?
+a. Giúp học sinh dễ dàng chọn nghề nghiệp tương lai
+b. Tạo điều kiện cho học sinh phát triển toàn diện
+c. Tăng cường tính đồng đều cho học sinh
+d. Giảm chi phí đầu tư cho giáo dục
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 11
+
+HS phân biệt được các bộ phận của máy tính là biểu hiện của năng lực Tin học thành phần nào?
+a. NLc
+b. NLa
+c. NLb
+d. NLe
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 12
+
+Những yêu cầu chung về năng lực tin học mà học sinh cần đạt ở cấp trung học phổ thông bao gồm những nội dung nào dưới đây? (Chọn nhiều đáp án)
+A. Bước đầu có tư duy điều khiển thiết bị tự động hóa.
+B. Tạo được sản phẩm số hóa phục vụ bản thân và cộng đồng.
+C. Hiểu khái niệm phần mềm độc hại và cách phòng chống.
+D. Biết cách tự bảo vệ thông tin, dữ liệu, tài khoản cá nhân.
+**➡️ Đáp án đúng: A, B, C, D**
+
+---
+
+### Câu 13
+
+Nội dung nào dưới đây KHÔNG phải là biểu hiện của năng lực tự chủ và tự học?
+a. Tự đưa ra quyết định độc lập.
+b. Tự học, tự hoàn thiện.
+c. Tự định hướng nghề nghiệp.
+d. Thích ứng với cuộc sống.
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 14
+
+Mạch kiến thức nào được chú trọng hơn trong chương trình Tin học 2018 so với chương trình 2006?
+a. Định hướng nghề nghiệp (EE).
+b. Học vấn số hóa phổ thông (DL).
+c. Công nghệ thông tin và truyền thông (ICT).
+d. Khoa học máy tính (CS).
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 15
+
+Năng lực nào KHÔNG phải là một trong năm thành phần của năng lực Tin học theo chương trình môn học?
+a. Kỹ năng lập trình với thuật toán xác định
+b. Ứng xử phù hợp trong môi trường số
+c. Sử dụng và quản lí các phương tiện công nghệ thông tin và truyền thông
+d. Giải quyết vấn đề với sự hỗ trợ của công nghệ thông tin và truyền thông
+**➡️ Đáp án đúng: a**
+
+---
+
+### Câu 20
+
+Một trong những mục tiêu của chủ đề A (máy tính và vai trò trong xã hội tri thức) là gì?
+a. Trang bị kiến thức chuyên sâu về cấu trúc dữ liệu và giải thuật phức tạp.
+b. Giúp học sinh thực hành xây dựng hệ thống mạng cục bộ hoàn chỉnh.
+c. Giúp học sinh hiểu cơ bản về máy tính và điều kiện làm việc với máy tính.
+d. Rèn luyện kỹ năng lập trình nâng cao trên nhiều ngôn ngữ khác nhau.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 21
+
+Mạch kiến thức CS (Khoa học máy tính) chủ yếu tập trung vào nội dung nào sau đây?
+a. Hình thành kĩ năng thao tác với máy tính an toàn, chính xác và hiệu quả.
+b. Rèn luyện khả năng khai thác và quản lí phần mềm trong môi trường máy tính.
+c. Phát triển năng lực ứng dụng máy tính để hỗ trợ học tập và giải quyết vấn đề.
+d. Khám phá nguyên lí vận hành của máy tính và phát triển tư duy máy tính.
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 22
+
+Các năng lực đặc thù môn Tin học KHÔNG bao gồm năng lực nào?
+a. Sử dung và quản lí các phương tiện công nghệ thông tin và truyền thông
+b. Ứng dung công nghệ thông tin và truyền thông trong học và tự học
+c. Giải quyết vấn đề với sự hỗ trợ của công nghệ thông tin và truyền thông
+d. Sử dung thành thạo tất cả các phương tiện, dung công nghệ thông tin
+**➡️ Đáp án đúng: d**
+
+---
+
+### Câu 25
+
+Phương án nào sau đây là biểu hiện của Năng lực tự chủ và tự học?
+a. Khả năng làm bài tập về nhà một mình
+b. Khả năng chủ động tìm hiểu và khám phá kiến thức mới
+c. Khả năng tìm kiếm thông tin trên Internet
+d. Khả năng ghi nhớ thông tin một cách nhanh chóng
+**➡️ Đáp án đúng: b**
+
+---
+
+### Câu 26
+
+Một trong những mục tiêu của chương trình lớp 12 trong chuyên đề định hướng Khoa học máy tính là gì?
+a. Giúp HS rèn luyện kĩ năng sử dụng phần mềm quản lí dự án và biết các giải pháp thông dụng để bảo vệ dữ liệu.
+b. Giúp HS có kĩ năng kết nối máy tính với robot giáo dục và cài đặt phần mềm hỗ trợ.
+c. Giúp HS hiểu biết một số khái niệm cơ bản và ứng dụng một số kiểu dữ liệu tuyến tính.
+d. Giúp HS có khả năng thiết kế thuật toán theo kĩ thuật Chia để trị.
+**➡️ Đáp án đúng: c**
+
+---
+
+### Câu 27
+
+Đâu là một trong những biểu hiện về Năng lực giải quyết vấn đề và sáng tạo?
+a. Hội nhập quốc tế
+b. Thích ứng với cuộc sống
+c. Xác định trách nhiệm và hoạt động của bản thân
+d. Đề xuất, lựa chọn giải pháp
+**➡️ Đáp án đúng: d**
+
+---
